@@ -1,0 +1,6040 @@
+1|18|F|K-12 student|48067
+2|60|M|self-employed|70072
+3|33|M|scientist|55117
+4|48|M|executive/managerial|02460
+5|33|M|writer|55455
+6|53|F|homemaker|55117
+7|40|M|academic/educator|06810
+8|33|M|programmer|11413
+9|33|M|technician/engineer|61614
+10|40|F|academic/educator|95370
+11|33|F|academic/educator|04093
+12|33|M|programmer|32793
+13|48|M|academic/educator|93304
+14|40|M|other|60126
+15|33|M|executive/managerial|22903
+16|40|F|other|20670
+17|53|M|academic/educator|95350
+18|24|F|clerical/admin|95825
+19|18|M|K-12 student|48073
+20|33|M|sales/marketing|55113
+21|24|M|self-employed|99353
+22|24|M|scientist|53706
+23|40|M|other|90049
+24|33|F|executive/managerial|10023
+25|24|M|college/grad student|01609
+26|33|M|executive/managerial|23112
+27|33|M|lawyer|19130
+28|33|F|academic/educator|14607
+29|40|M|executive/managerial|33407
+30|40|F|executive/managerial|19143
+31|60|M|executive/managerial|06840
+32|33|F|other|19355
+33|48|M|clerical/admin|55421
+34|24|F|other|02135
+35|48|M|academic/educator|02482
+36|33|M|clerical/admin|94123
+37|33|F|homemaker|66212
+38|24|F|college/grad student|02215
+39|24|M|college/grad student|61820
+40|48|M|other|10543
+41|24|F|college/grad student|15116
+42|33|M|farmer|24502
+43|33|M|programmer|60614
+44|48|M|technician/engineer|98052
+45|48|F|self-employed|94110
+46|24|M|unemployed|75602
+47|24|M|college/grad student|94305
+48|33|M|college/grad student|92107
+49|24|M|programmer|77084
+50|33|F|artist|98133
+51|18|F|K-12 student|10562
+52|24|M|college/grad student|72212
+53|33|M|other|96931
+54|53|M|academic/educator|56723
+55|40|F|programmer|55303
+56|40|M|writer|60440
+57|24|M|unemployed|30350
+58|33|M|artist|30303
+59|53|F|academic/educator|55413
+60|53|M|academic/educator|72118
+61|33|M|technician/engineer|95122
+62|40|F|clerical/admin|98105
+63|24|M|college/grad student|54902
+64|24|M|academic/educator|53706
+65|40|M|programmer|55803
+66|33|M|tradesman/craftsman|57706
+67|53|F|customer service|60181
+68|24|M|college/grad student|53706
+69|33|F|academic/educator|02143
+70|24|M|college/grad student|53703
+71|33|M|sales/marketing|95008
+72|48|F|other|55122
+73|24|M|college/grad student|53706
+74|40|M|sales/marketing|94530
+75|18|F|K-12 student|01748
+76|40|M|executive/managerial|55413
+77|24|M|college/grad student|15321
+78|48|F|academic/educator|98029
+79|48|F|other|98103
+80|60|M|academic/educator|49327
+81|33|F|other|60640
+82|33|M|technician/engineer|48380
+83|33|F|artist|94609
+84|24|M|college/grad student|53140
+85|24|M|college/grad student|94945
+86|18|F|K-12 student|54467
+87|33|M|sales/marketing|48360
+88|48|F|academic/educator|02476
+89|60|F|homemaker|85749
+90|60|M|retired|85749
+91|40|M|executive/managerial|07650
+92|24|F|college/grad student|44243
+93|33|M|technician/engineer|95825
+94|33|M|technician/engineer|28601
+95|48|M|other|98201
+96|33|F|self-employed|78028
+97|40|F|clerical/admin|66210
+98|40|F|executive/managerial|33547
+99|18|F|K-12 student|19390
+100|40|M|technician/engineer|95401
+101|24|F|clerical/admin|33314
+102|40|M|unemployed|20871
+103|48|M|executive/managerial|92104
+104|33|M|programmer|00926
+105|48|M|programmer|90277
+106|40|F|lawyer|79101
+107|48|M|tradesman/craftsman|63129
+108|33|M|programmer|30316
+109|48|M|scientist|92028
+110|33|M|artist|90803
+111|40|M|scientist|55416
+112|33|M|self-employed|97209
+113|24|M|programmer|37032
+114|33|F|artist|83712
+115|33|M|technician/engineer|28083
+116|33|M|technician/engineer|55744
+117|33|M|technician/engineer|33314
+118|40|M|technician/engineer|22315
+119|18|F|K-12 student|77515
+120|33|M|lawyer|27106
+121|40|M|executive/managerial|75229
+122|24|F|college/grad student|94305
+123|40|M|homemaker|67208
+124|60|M|executive/managerial|91356
+125|48|M|sales/marketing|01701
+126|24|M|homemaker|98117
+127|48|F|clerical/admin|01770
+128|60|M|doctor/health care|37922
+129|33|M|lawyer|20164
+130|40|M|technician/engineer|50021
+131|24|M|college/grad student|06520
+132|33|M|technician/engineer|99709
+133|33|F|other|55071
+134|33|M|other|66212
+135|24|M|college/grad student|20006
+136|24|M|artist|21202
+137|48|F|doctor/health care|78758
+138|24|M|writer|22203
+139|33|F|writer|45409
+140|40|F|academic/educator|55107
+141|40|M|retired|62035
+142|33|M|executive/managerial|10011
+143|24|M|clerical/admin|64043
+144|33|M|technician/engineer|29401
+145|24|M|college/grad student|19081
+146|40|F|writer|10954
+147|24|M|college/grad student|91360
+148|53|M|technician/engineer|57747
+149|33|M|academic/educator|29205
+150|40|M|executive/managerial|98144
+151|33|F|writer|85013
+152|24|M|college/grad student|48104
+153|18|M|K-12 student|51537
+154|53|M|writer|94530
+155|40|M|programmer|07470
+156|48|F|executive/managerial|14519
+157|40|M|self-employed|12866
+158|60|M|executive/managerial|28754
+159|48|F|other|37922
+160|40|M|executive/managerial|13021
+161|48|M|self-employed|98107-2117
+162|24|F|college/grad student|93117
+163|24|M|college/grad student|85013
+164|60|F|retired|94566
+165|24|M|self-employed|98502
+166|24|M|college/grad student|92802
+167|33|F|lawyer|10022
+168|53|F|other|46970
+169|33|M|executive/managerial|55439
+170|33|M|lawyer|07002
+171|53|F|technician/engineer|55441
+172|33|M|clerical/admin|07661
+173|33|M|other|45237
+174|33|M|self-employed|21203
+175|33|F|artist|95123
+176|24|F|clerical/admin|55016
+177|53|M|academic/educator|54016
+178|60|M|technician/engineer|53705
+179|33|M|other|02135
+180|48|M|programmer|01603
+181|24|M|technician/engineer|33186
+182|24|M|college/grad student|03052
+183|48|F|academic/educator|55407
+184|33|F|other|19001
+185|48|M|other|14468
+186|24|M|customer service|91767
+187|48|F|academic/educator|94061
+188|60|M|self-employed|79930
+189|24|M|other|60076
+190|33|M|technician/engineer|55125
+191|24|M|college/grad student|04915
+192|24|M|academic/educator|10977
+193|48|F|scientist|44106
+194|18|F|K-12 student|29146
+195|33|M|programmer|10458
+196|40|F|homemaker|94587
+197|24|M|sales/marketing|10023
+198|33|M|programmer|55108
+199|24|M|college/grad student|83706
+200|24|F|college/grad student|84321
+201|40|F|artist|55117
+202|24|M|college/grad student|53706
+203|24|F|college/grad student|53715
+204|33|M|executive/managerial|92123
+205|40|M|programmer|97333
+206|33|M|technician/engineer|20194
+207|33|M|programmer|94115
+208|40|M|technician/engineer|55432
+209|40|M|academic/educator|90048
+210|18|F|K-12 student|25801
+211|48|M|technician/engineer|90620
+212|33|M|self-employed|53714
+213|24|F|college/grad student|01609
+214|24|M|writer|80218
+215|40|M|sales/marketing|92075
+216|48|M|retired|52761
+217|24|M|college/grad student|22903
+218|40|M|sales/marketing|95822
+219|33|F|college/grad student|55113
+220|33|M|programmer|22903
+221|33|F|other|94063
+222|33|M|academic/educator|55116
+223|33|M|technician/engineer|28262
+224|24|F|college/grad student|14850
+225|33|M|executive/managerial|11215
+226|40|M|academic/educator|94518
+227|40|M|writer|90291
+228|33|M|scientist|55455
+229|24|M|K-12 student|04576
+230|48|M|academic/educator|43210
+231|33|M|clerical/admin|55455
+232|33|M|writer|55408
+233|48|F|writer|37919-4204
+234|40|M|executive/managerial|39652
+235|33|M|other|98153
+236|33|M|customer service|55126
+237|33|M|doctor/health care|46835
+238|53|F|executive/managerial|90291
+239|24|M|unemployed|94618
+240|53|M|technician/engineer|55113
+241|40|M|writer|55121
+242|24|F|college/grad student|53706
+243|33|M|self-employed|11576
+244|53|M|executive/managerial|19072
+245|40|M|self-employed|66046
+246|24|F|college/grad student|60625
+247|33|M|technician/engineer|94404
+248|24|M|technician/engineer|72703
+249|24|F|sales/marketing|48126
+250|40|M|self-employed|11229
+251|60|M|technician/engineer|55105
+252|33|M|programmer|94112
+253|33|F|lawyer|97370
+254|40|M|technician/engineer|49015
+255|40|M|other|85310
+256|48|M|self-employed|55076
+257|24|M|tradesman/craftsman|55113
+258|33|M|executive/managerial|55436
+259|33|M|academic/educator|60615
+260|24|M|unemployed|98126
+261|33|M|writer|75801
+262|33|F|academic/educator|68503
+263|33|F|executive/managerial|22304
+264|40|M|other|20755
+265|40|F|executive/managerial|55116
+266|40|M|lawyer|75229
+267|48|M|programmer|55001
+268|24|F|programmer|29708
+269|33|M|artist|55408
+270|53|M|sales/marketing|55414
+271|24|M|college/grad student|48202
+272|24|M|other|80302
+273|24|M|college/grad student|55427
+274|24|M|college/grad student|55455
+275|33|M|other|48162
+276|48|M|self-employed|01982
+277|40|F|academic/educator|98126
+278|48|M|tradesman/craftsman|60482
+279|33|M|sales/marketing|91214
+280|53|M|executive/managerial|19118
+281|40|F|other|94117
+282|33|M|technician/engineer|94401
+283|33|M|other|10003
+284|33|M|programmer|91910
+285|40|F|other|94109
+286|33|M|academic/educator|54601
+287|53|M|retired|94706
+288|33|F|programmer|97119
+289|33|F|other|11801
+290|33|F|writer|94591
+291|40|M|programmer|55110
+292|40|M|executive/managerial|19406
+293|60|M|academic/educator|55337-4056
+294|48|F|homemaker|43147
+295|24|M|other|80203
+296|53|M|customer service|89432
+297|24|M|artist|97211
+298|24|F|college/grad student|19010
+299|33|M|programmer|97370
+300|33|M|executive/managerial|78664
+301|24|M|college/grad student|61820
+302|24|M|college/grad student|04901
+303|33|M|executive/managerial|20006
+304|33|M|other|55414
+305|24|F|other|55414
+306|24|M|other|53051
+307|53|M|self-employed|90027
+308|33|M|artist|10025
+309|33|M|college/grad student|16801
+310|24|F|college/grad student|31207
+311|24|M|college/grad student|31201
+312|53|F|artist|22207
+313|24|F|college/grad student|02138
+314|60|F|homemaker|46911
+315|60|F|academic/educator|55105
+316|60|M|retired|90740
+317|40|M|executive/managerial|38555
+318|60|F|retired|55104
+319|53|F|doctor/health care|33436
+320|40|M|doctor/health care|99516
+321|24|M|college/grad student|55128
+322|60|M|technician/engineer|55117
+323|48|M|programmer|53716
+324|40|M|technician/engineer|55106
+325|53|F|clerical/admin|55112
+326|53|M|lawyer|25302
+327|40|M|tradesman/craftsman|55448
+328|40|M|programmer|80401
+329|40|M|executive/managerial|02115
+330|60|M|executive/managerial|92065
+331|33|M|executive/managerial|55902
+332|53|M|academic/educator|55109
+333|40|M|artist|55410
+334|60|F|artist|55113
+335|40|M|tradesman/craftsman|55434
+336|24|M|other|98765
+337|24|M|unemployed|80205
+338|40|M|executive/managerial|55116
+339|53|M|executive/managerial|80207
+340|33|F|clerical/admin|28001
+341|60|F|retired|92119
+342|24|M|programmer|55076
+343|40|F|clerical/admin|55127
+344|40|M|sales/marketing|75034
+345|33|M|programmer|94114
+346|33|F|other|55110
+347|60|F|academic/educator|55305
+348|53|M|executive/managerial|55110
+349|18|M|K-12 student|08035
+350|48|M|writer|08035
+351|24|M|college/grad student|55105
+352|24|M|college/grad student|60115
+353|40|F|executive/managerial|92625
+354|40|M|academic/educator|55117
+355|24|M|clerical/admin|55107
+356|60|M|writer|55101
+357|24|M|other|98103
+358|60|F|academic/educator|20815
+359|33|M|technician/engineer|55128
+360|40|M|technician/engineer|28208
+361|33|F|sales/marketing|94115
+362|40|M|writer|55407
+363|24|M|K-12 student|55419
+364|40|F|academic/educator|46815
+365|24|F|college/grad student|02138
+366|53|M|scientist|55126
+367|53|M|programmer|55421
+368|33|M|other|90293
+369|40|M|academic/educator|55110
+370|24|M|technician/engineer|22304
+371|24|M|college/grad student|02141
+372|24|F|college/grad student|72227
+373|33|F|artist|55347
+374|40|F|sales/marketing|55346
+375|33|M|artist|55106
+376|40|M|academic/educator|80026
+377|33|M|technician/engineer|55418
+378|24|F|other|55105
+379|40|F|academic/educator|54822
+380|33|M|artist|92024
+381|40|M|technician/engineer|89015
+382|40|F|writer|66205
+383|33|F|executive/managerial|78757
+384|33|M|lawyer|55075
+385|33|M|doctor/health care|68131
+386|33|M|other|55408
+387|40|F|executive/managerial|55111
+388|33|F|other|10021
+389|33|M|doctor/health care|68128
+390|33|M|college/grad student|55405
+391|48|M|lawyer|22122
+392|24|M|executive/managerial|20037
+393|40|M|technician/engineer|55402
+394|24|M|other|55013
+395|24|M|customer service|55104
+396|33|M|academic/educator|56187
+397|40|M|technician/engineer|22124
+398|33|M|technician/engineer|55454
+399|40|F|doctor/health care|55128
+400|24|F|clerical/admin|55422
+401|24|M|other|55129
+402|33|M|lawyer|55427
+403|24|M|college/grad student|02138
+404|24|M|college/grad student|10128
+405|60|M|academic/educator|13077
+406|33|M|writer|55105
+407|24|M|technician/engineer|89503
+408|33|M|lawyer|02143
+409|24|M|programmer|55122
+410|33|F|academic/educator|55417
+411|48|F|academic/educator|43214
+412|40|M|scientist|55117
+413|33|M|lawyer|55409
+414|33|M|other|55317
+415|40|F|other|55406
+416|48|M|sales/marketing|55076
+417|33|F|other|50613
+418|33|F|clerical/admin|54016
+419|24|M|clerical/admin|55422
+420|40|M|academic/educator|55406
+421|48|F|clerical/admin|55125
+422|60|M|technician/engineer|55104
+423|24|M|college/grad student|55455
+424|33|M|technician/engineer|55112
+425|33|M|programmer|55303
+426|24|M|college/grad student|55455
+427|40|M|programmer|55104
+428|24|F|college/grad student|55455
+429|24|M|other|54901
+430|24|F|K-12 student|55306
+431|24|M|K-12 student|55303
+432|48|M|self-employed|55306
+433|53|M|doctor/health care|55115
+434|48|F|clerical/admin|98155
+435|33|M|executive/managerial|55125
+436|24|M|college/grad student|43023
+437|40|M|technician/engineer|55030
+438|24|M|lawyer|53705
+439|40|M|sales/marketing|55129
+440|60|M|academic/educator|32940
+441|40|M|academic/educator|55127
+442|33|M|academic/educator|55105
+443|33|M|clerical/admin|55421
+444|60|M|other|55108
+445|48|M|programmer|55117
+446|53|F|other|55042
+447|48|F|lawyer|55105
+448|33|M|technician/engineer|80123
+449|33|M|executive/managerial|85037
+450|48|M|academic/educator|24523
+451|60|M|retired|54720
+452|53|M|technician/engineer|55117
+453|24|M|college/grad student|55102
+454|33|M|writer|55092
+455|40|F|artist|55113
+456|40|M|other|55105
+457|24|M|college/grad student|54703
+458|53|M|self-employed|55405-2546
+459|24|F|college/grad student|55105
+460|48|M|tradesman/craftsman|55313
+461|53|M|executive/managerial|55075
+462|24|M|self-employed|55416
+463|33|M|executive/managerial|55105
+464|24|F|college/grad student|55455
+465|24|M|unemployed|94523
+466|33|M|customer service|55405
+467|40|F|clerical/admin|55075
+468|18|F|K-12 student|55082
+469|40|M|doctor/health care|55122
+470|18|F|K-12 student|55068
+471|40|M|executive/managerial|08904
+472|40|M|other|55418
+473|24|F|college/grad student|55112
+474|33|M|technician/engineer|92126
+475|33|F|artist|55421
+476|40|M|other|55127
+477|40|M|sales/marketing|55410
+478|53|M|self-employed|55113
+479|33|M|programmer|55042
+480|24|F|college/grad student|55422
+481|48|M|executive/managerial|55115
+482|33|M|sales/marketing|55305
+483|24|M|programmer|55105
+484|18|F|K-12 student|55104
+485|60|M|executive/managerial|55042
+486|60|M|other|91367
+487|40|F|technician/engineer|55082
+488|33|M|programmer|55107
+489|24|M|college/grad student|55455
+490|18|M|K-12 student|55345
+491|24|M|college/grad student|56043
+492|33|M|programmer|55112
+493|53|M|executive/managerial|55016
+494|40|F|other|17870
+495|24|M|K-12 student|55421
+496|24|M|college/grad student|55455
+497|33|F|technician/engineer|55412
+498|40|M|technician/engineer|55113
+499|33|F|academic/educator|55108
+500|24|F|artist|55105
+501|33|M|artist|55372
+502|40|M|doctor/health care|55126
+503|40|M|lawyer|73120
+504|33|M|artist|17003
+505|40|M|technician/engineer|37815
+506|33|M|self-employed|55103-1006
+507|33|F|other|55405
+508|33|M|programmer|55418
+509|33|M|artist|55125
+510|24|M|programmer|55109
+511|48|F|college/grad student|15232
+512|40|M|other|55379
+513|33|M|other|55119
+514|33|M|artist|55113
+515|33|M|academic/educator|55406
+516|60|F|sales/marketing|55033
+517|33|F|sales/marketing|55408
+518|40|F|programmer|75240
+519|40|F|sales/marketing|55038
+520|40|F|writer|55104
+521|60|M|executive/managerial|55105
+522|33|M|programmer|55124
+523|53|M|executive/managerial|55105
+524|24|M|other|91320
+525|40|M|doctor/health care|19027
+526|48|M|technician/engineer|94806
+527|33|F|artist|11201
+528|24|F|technician/engineer|83843
+529|40|M|programmer|92009
+530|33|M|artist|10019
+531|24|F|sales/marketing|22206
+532|33|M|executive/managerial|94301
+533|33|M|programmer|27514
+534|33|M|scientist|55902
+535|40|M|doctor/health care|95370
+536|33|M|writer|01267
+537|48|M|sales/marketing|07704
+538|60|M|self-employed|95407
+539|33|M|artist|55103
+540|24|M|academic/educator|15213
+541|24|F|college/grad student|5849574
+542|24|M|college/grad student|78705
+543|33|M|customer service|55057
+544|40|M|programmer|94538
+545|40|M|technician/engineer|01890
+546|33|F|other|37211
+547|40|M|programmer|76109
+548|40|F|self-employed|96860
+549|33|M|doctor/health care|53217
+550|48|M|farmer|21559
+551|40|M|writer|55116
+552|53|M|tradesman/craftsman|23456
+553|33|M|artist|94131
+554|33|M|programmer|94086
+555|24|M|college/grad student|53213
+556|33|F|homemaker|37221
+557|60|M|academic/educator|30030
+558|40|M|writer|55108
+559|33|F|executive/managerial|60422
+560|48|M|scientist|81335
+561|24|F|sales/marketing|64060
+562|40|M|writer|48083
+563|33|M|college/grad student|53703
+564|48|M|academic/educator|49419
+565|33|M|self-employed|45242
+566|33|M|technician/engineer|92122
+567|40|M|writer|52570-9634
+568|53|F|technician/engineer|19716
+569|24|F|college/grad student|97339
+570|33|M|college/grad student|33314
+571|53|M|customer service|95401
+572|24|M|college/grad student|61801
+573|40|F|artist|98119
+574|33|M|unemployed|90214
+575|33|M|programmer|92130
+576|48|F|scientist|20910
+577|40|M|other|02115
+578|24|M|technician/engineer|90064
+579|33|M|customer service|32839
+580|18|M|K-12 student|08534
+581|53|M|sales/marketing|73543
+582|24|M|college/grad student|67042
+583|33|F|other|48067
+584|33|F|other|94403
+585|24|M|academic/educator|53703
+586|40|M|sales/marketing|53092
+587|33|M|writer|92649
+588|33|F|lawyer|23220
+589|24|M|artist|90210
+590|40|F|doctor/health care|98032
+591|33|M|other|76201
+592|24|M|other|92103
+593|53|F|academic/educator|91711
+594|60|F|retired|60076
+595|33|M|executive/managerial|10019
+596|33|F|academic/educator|01950
+597|40|M|programmer|80206
+598|40|M|executive/managerial|95476
+599|53|M|doctor/health care|53711
+600|40|M|technician/engineer|66209
+601|24|F|writer|06320
+602|60|F|doctor/health care|14612
+603|33|F|doctor/health care|32256
+604|48|M|technician/engineer|32256
+605|24|F|college/grad student|44425
+606|18|F|K-12 student|49507
+607|33|M|other|43614
+608|24|M|college/grad student|18011
+609|33|M|executive/managerial|10012
+610|33|M|college/grad student|77025
+611|40|M|other|20715
+612|53|M|executive/managerial|95020
+613|40|M|writer|10562
+614|40|M|academic/educator|90024
+615|53|M|technician/engineer|32951
+616|33|M|executive/managerial|94115
+617|33|F|executive/managerial|92117
+618|33|M|other|74105
+619|24|F|academic/educator|94706
+620|24|M|other|13210
+621|24|M|college/grad student|93560
+622|33|M|other|92612
+623|33|M|technician/engineer|60555
+624|33|M|academic/educator|75207
+625|40|F|programmer|44106
+626|24|M|college/grad student|77005
+627|53|M|artist|97210
+628|40|F|other|20715
+629|18|F|K-12 student|48154
+630|40|F|sales/marketing|80525
+631|40|M|technician/engineer|28601
+632|48|M|technician/engineer|07649
+633|33|M|technician/engineer|94131
+634|18|F|K-12 student|49512
+635|60|M|technician/engineer|33785
+636|24|M|writer|92055
+637|40|M|programmer|97132
+638|33|M|doctor/health care|77584
+639|48|M|technician/engineer|85202
+640|24|M|college/grad student|47406
+641|40|F|other|55116
+642|40|F|academic/educator|78155
+643|33|M|artist|23188
+644|33|M|writer|93704
+645|40|M|writer|11215
+646|40|M|executive/managerial|08505
+647|40|M|programmer|85224
+648|33|F|programmer|94131
+649|33|M|college/grad student|80526
+650|33|M|technician/engineer|49445
+651|40|M|executive/managerial|20895
+652|24|M|writer|12222
+653|60|M|retired|92660
+654|53|M|executive/managerial|75023
+655|33|F|artist|92629
+656|48|F|self-employed|92106
+657|53|F|retired|34691
+658|33|F|other|10021
+659|33|F|other|28134
+660|48|M|self-employed|70507
+661|48|M|academic/educator|13114
+662|24|M|college/grad student|99163
+663|33|F|executive/managerial|12345
+664|40|M|tradesman/craftsman|74601
+665|24|M|artist|13317
+666|24|F|other|08540
+667|33|M|tradesman/craftsman|98438
+668|33|F|clerical/admin|22042
+669|33|M|technician/engineer|30307
+670|33|M|programmer|30303
+671|24|M|college/grad student|61761
+672|40|M|executive/managerial|46845
+673|33|M|writer|10023
+674|33|M|technician/engineer|22042
+675|33|M|writer|02048
+676|24|M|self-employed|55129
+677|53|M|artist|94122
+678|33|M|other|34952
+679|40|M|self-employed|29681
+680|33|M|programmer|37013
+681|40|M|executive/managerial|30501
+682|33|M|college/grad student|27510
+683|33|M|college/grad student|27514
+684|33|M|college/grad student|27510
+685|33|M|college/grad student|27514
+686|24|M|college/grad student|27514
+687|33|F|executive/managerial|14136
+688|60|M|retired|13407
+689|53|F|other|48103
+690|33|M|programmer|90717
+691|40|M|lawyer|96813
+692|33|F|other|85207
+693|40|M|programmer|98103
+694|24|M|college/grad student|76401
+695|24|F|academic/educator|04240
+696|33|M|programmer|94114
+697|53|F|doctor/health care|97330
+698|24|M|college/grad student|76401
+699|24|M|other|73505
+700|53|M|technician/engineer|14650
+701|24|F|college/grad student|01002
+702|40|M|executive/managerial|90808
+703|60|F|academic/educator|44074
+704|40|F|farmer|85712
+705|33|M|college/grad student|48065
+706|40|M|writer|78664
+707|40|M|executive/managerial|17740
+708|33|M|other|37042
+709|24|M|other|92647
+710|33|M|writer|85207
+711|33|M|tradesman/craftsman|80521
+712|33|M|other|95136
+713|40|M|executive/managerial|79912
+714|24|M|college/grad student|76013
+715|24|M|other|53715
+716|24|M|college/grad student|98188
+717|33|M|lawyer|90211
+718|24|M|artist|90211
+719|18|M|other|75070
+720|24|M|other|55129
+721|40|F|homemaker|97520
+722|33|M|programmer|55106
+723|33|M|programmer|98027
+724|53|M|retired|90266
+725|60|M|lawyer|08904
+726|33|F|homemaker|77449
+727|40|M|lawyer|94061
+728|33|M|doctor/health care|11598
+729|40|M|programmer|85284
+730|33|M|other|10580
+731|48|M|clerical/admin|55410
+732|33|M|executive/managerial|07030
+733|40|M|self-employed|30034
+734|33|M|executive/managerial|90078
+735|33|M|sales/marketing|04240
+736|24|M|programmer|07070
+737|18|M|unemployed|53711
+738|24|M|technician/engineer|99205
+739|40|M|programmer|55803
+740|33|M|sales/marketing|24551
+741|33|M|customer service|44095
+742|24|M|other|54758
+743|18|F|artist|60660
+744|33|M|technician/engineer|77007
+745|18|M|K-12 student|90004
+746|24|F|unemployed|95019
+747|24|M|college/grad student|98606
+748|33|M|other|60098
+749|40|M|tradesman/craftsman|56303
+750|40|F|homemaker|13066
+751|33|F|technician/engineer|97201
+752|33|F|clerical/admin|97401
+753|18|M|K-12 student|42754
+754|40|M|executive/managerial|38024
+755|40|F|other|94002
+756|40|M|other|90064
+757|33|M|programmer|97401
+758|40|M|executive/managerial|19518
+759|60|F|clerical/admin|89156
+760|60|M|scientist|94114
+761|24|M|executive/managerial|99945
+762|18|M|K-12 student|63041
+763|24|M|K-12 student|02882
+764|24|M|writer|85296
+765|33|M|technician/engineer|74467
+766|33|F|executive/managerial|95128
+767|33|M|programmer|45241
+768|33|M|programmer|17067
+769|48|M|technician/engineer|02421
+770|24|M|college/grad student|98499
+771|53|F|academic/educator|75087
+772|24|M|programmer|89118
+773|33|M|doctor/health care|48108
+774|24|M|college/grad student|22903
+775|18|M|technician/engineer|56258
+776|33|F|clerical/admin|92627
+777|24|M|unemployed|87543
+778|24|M|technician/engineer|32694
+779|33|M|other|60156
+780|33|M|technician/engineer|91776
+781|24|M|college/grad student|95076
+782|60|M|academic/educator|28223
+783|33|M|college/grad student|53703
+784|24|M|other|11040
+785|24|M|unemployed|29307
+786|33|M|other|55987
+787|24|M|college/grad student|77802
+788|33|M|other|37601
+789|24|M|academic/educator|67212
+790|33|M|technician/engineer|45694
+791|40|M|executive/managerial|27511
+792|33|M|technician/engineer|01002
+793|40|F|sales/marketing|37043
+794|53|M|writer|10543
+795|40|F|sales/marketing|19147
+796|53|M|doctor/health care|98237
+797|53|F|executive/managerial|20175
+798|33|F|writer|48464
+799|33|F|customer service|98498
+800|40|F|programmer|72032
+801|33|F|writer|95776
+802|33|M|self-employed|22801
+803|24|M|college/grad student|67217
+804|33|M|writer|90032
+805|40|M|programmer|37211
+806|40|M|other|34990
+807|24|M|college/grad student|89015
+808|33|M|executive/managerial|85226
+809|33|M|technician/engineer|70508
+810|33|M|programmer|98006
+811|53|M|other|94043
+812|33|M|doctor/health care|37930
+813|24|M|college/grad student|70002
+814|24|F|college/grad student|92612
+815|33|M|college/grad student|37130
+816|48|M|other|92108
+817|24|M|college/grad student|41076
+818|24|M|college/grad student|60107
+819|40|M|executive/managerial|60611
+820|40|M|executive/managerial|78759
+821|24|M|artist|14456
+822|33|F|academic/educator|07666
+823|33|M|other|92078
+824|40|M|programmer|94530
+825|60|M|academic/educator|39532
+826|40|F|academic/educator|80210
+827|48|M|artist|55409
+828|24|M|college/grad student|70817
+829|18|M|unemployed|53711
+830|40|M|executive/managerial|60657
+831|48|F|other|20874
+832|24|M|artist|19464
+833|40|M|executive/managerial|46825
+834|40|F|programmer|78640
+835|60|M|other|94952
+836|33|M|lawyer|10023
+837|60|M|executive/managerial|08540
+838|53|M|technician/engineer|92661
+839|33|M|other|98103
+840|33|F|clerical/admin|02828
+841|53|F|sales/marketing|92119
+842|24|F|other|55102
+843|33|M|executive/managerial|49321
+844|33|M|other|92121
+845|24|F|other|20009
+846|33|M|customer service|80209
+847|33|F|executive/managerial|80228
+848|33|M|scientist|94121
+849|33|M|clerical/admin|75006
+850|40|M|other|60640
+851|24|M|college/grad student|75287
+852|33|M|customer service|92105
+853|33|M|technician/engineer|55447
+854|33|F|self-employed|44092
+855|24|F|artist|72701
+856|48|F|doctor/health care|02453
+857|40|M|technician/engineer|11701
+858|40|M|sales/marketing|10013
+859|33|M|programmer|10128
+860|24|M|other|78237
+861|33|M|executive/managerial|37027
+862|40|M|executive/managerial|10019
+863|33|M|executive/managerial|62522
+864|33|F|other|97205
+865|40|M|academic/educator|91711
+866|18|M|K-12 student|08820
+867|48|M|programmer|95814
+868|53|M|technician/engineer|01702-7224
+869|24|M|writer|92026
+870|33|F|academic/educator|02144
+871|18|M|K-12 student|76013
+872|53|M|academic/educator|20815
+873|60|M|doctor/health care|19027
+874|48|M|scientist|26105
+875|18|M|K-12 student|94707
+876|33|M|college/grad student|43202
+877|33|M|other|90631
+878|24|M|artist|01720
+879|48|M|self-employed|92018
+880|40|M|technician/engineer|94114
+881|24|M|sales/marketing|76401
+882|24|M|artist|01720
+883|40|F|sales/marketing|92673
+884|18|M|K-12 student|49454
+885|40|M|other|48105
+886|60|F|other|14830
+887|60|F|self-employed|55345
+888|18|F|K-12 student|08820
+889|48|M|writer|10024
+890|24|M|college/grad student|92153
+891|33|M|academic/educator|80202
+892|40|M|other|76031
+893|53|F|doctor/health care|85016
+894|24|M|college/grad student|31602
+895|53|M|academic/educator|34683
+896|24|M|scientist|94015
+897|33|M|doctor/health care|92130
+898|33|M|executive/managerial|77005
+899|33|F|academic/educator|30605
+900|60|F|retired|90066
+901|60|F|other|92027
+902|60|M|other|45432
+903|60|M|retired|75165
+904|40|M|writer|92308
+905|48|F|programmer|28655
+906|18|M|K-12 student|71106
+907|48|F|doctor/health care|92117
+908|53|F|academic/educator|92103
+909|48|M|executive/managerial|92831
+910|53|F|other|98226
+911|53|M|other|98226
+912|40|F|artist|91324
+913|33|M|other|20744-6223
+914|40|F|homemaker|30338
+915|33|M|executive/managerial|72762
+916|33|F|academic/educator|92084
+917|53|M|doctor/health care|92117
+918|48|F|academic/educator|91901
+919|40|F|academic/educator|92056
+920|24|M|college/grad student|92173
+921|33|M|technician/engineer|92084
+922|60|M|self-employed|48009
+923|33|M|executive/managerial|37212
+924|53|M|technician/engineer|98642
+925|40|F|clerical/admin|48073
+926|18|M|K-12 student|07869
+927|33|F|writer|91105
+928|60|F|self-employed|98199
+929|33|M|scientist|53706
+930|33|M|customer service|98380
+931|60|F|academic/educator|06032
+932|40|F|doctor/health care|97838
+933|48|M|academic/educator|49419
+934|40|F|executive/managerial|97401
+935|40|M|sales/marketing|60538
+936|24|M|college/grad student|34567
+937|33|M|scientist|60513
+938|33|F|academic/educator|01060
+939|33|F|writer|20110-5616
+940|18|M|K-12 student|76240
+941|24|M|writer|45387
+942|53|F|doctor/health care|85716
+943|48|F|programmer|08033
+944|40|M|other|91505
+945|48|M|executive/managerial|49345
+946|40|M|executive/managerial|48103-8929
+947|24|M|other|21015
+948|60|M|programmer|43056
+949|53|M|technician/engineer|96753
+950|40|M|executive/managerial|21044
+951|48|M|artist|10009
+952|60|M|self-employed|97478
+953|53|M|writer|97030
+954|33|F|other|21030
+955|53|F|executive/managerial|94941
+956|40|M|academic/educator|55104
+957|40|M|academic/educator|29706
+958|40|M|artist|48116
+959|53|M|lawyer|44622
+960|18|M|K-12 student|45244
+961|24|M|K-12 student|10016
+962|33|F|academic/educator|80020
+963|33|M|other|48197
+964|33|M|executive/managerial|94123
+965|60|M|executive/managerial|10954
+966|60|M|artist|92262
+967|24|F|other|43615
+968|53|M|programmer|94530
+969|33|F|lawyer|19103
+970|33|M|other|27615
+971|33|M|programmer|43615
+972|48|M|academic/educator|02138
+973|33|F|academic/educator|80026
+974|40|M|unemployed|94930
+975|40|M|other|98136
+976|40|M|sales/marketing|89113
+977|33|M|artist|80110
+978|24|M|other|19116
+979|18|M|K-12 student|48073
+980|33|M|doctor/health care|92014
+981|33|M|writer|02141
+982|33|F|homemaker|92064
+983|33|F|self-employed|99224
+984|53|M|self-employed|92129
+985|33|M|college/grad student|32608
+986|60|F|other|19004
+987|40|F|technician/engineer|48098
+988|53|M|lawyer|48823
+989|53|M|other|20706
+990|24|M|doctor/health care|10004
+991|33|F|homemaker|48103
+992|40|F|clerical/admin|02780
+993|33|M|other|45678
+994|24|M|artist|92109
+995|24|F|college/grad student|96803
+996|33|M|technician/engineer|98102
+997|18|M|unemployed|15748
+998|48|M|writer|10019
+999|33|M|scientist|62558
+1000|33|F|doctor/health care|90027
+1001|33|M|college/grad student|90210
+1002|53|M|lawyer|07043
+1003|33|M|artist|19320
+1004|33|M|clerical/admin|95136
+1005|40|M|lawyer|08003
+1006|24|M|college/grad student|53220
+1007|53|M|programmer|01960
+1008|40|M|clerical/admin|77064
+1009|53|M|executive/managerial|48315
+1010|33|M|other|10310
+1011|33|M|farmer|92115
+1012|40|F|academic/educator|30004
+1013|60|M|retired|02576
+1014|48|F|technician/engineer|03054
+1015|40|M|clerical/admin|11220
+1016|60|M|self-employed|60044
+1017|40|M|other|30906
+1018|24|M|college/grad student|95616
+1019|40|M|academic/educator|60640
+1020|24|M|writer|93455
+1021|40|M|other|94559
+1022|33|M|clerical/admin|00918
+1023|60|M|retired|92675
+1024|40|F|academic/educator|74135
+1025|33|M|self-employed|34677
+1026|48|F|other|19130
+1027|24|M|college/grad student|77005
+1028|48|F|executive/managerial|03848
+1029|33|M|other|20015
+1030|33|M|executive/managerial|97303
+1031|40|M|self-employed|19803
+1032|53|M|self-employed|19425
+1033|33|M|customer service|60076
+1034|40|F|academic/educator|82601
+1035|24|M|artist|15956
+1036|40|M|executive/managerial|28036
+1037|48|M|executive/managerial|02081
+1038|60|F|scientist|20194
+1039|40|F|academic/educator|02346
+1040|33|M|lawyer|76309
+1041|48|M|artist|94306
+1042|40|M|customer service|92801
+1043|53|F|lawyer|87004
+1044|33|M|writer|72701
+1045|18|F|K-12 student|77477
+1046|60|M|tradesman/craftsman|53404-1230
+1047|24|M|other|62225
+1048|40|M|doctor/health care|75225
+1049|48|M|sales/marketing|95002
+1050|33|M|academic/educator|97302
+1051|33|F|other|60513
+1052|40|F|artist|75214
+1053|40|M|other|18360
+1054|18|M|K-12 student|75040
+1055|40|M|other|91505
+1056|18|M|other|48133
+1057|48|M|technician/engineer|73069
+1058|33|M|academic/educator|97321
+1059|33|F|other|97213
+1060|24|M|K-12 student|11235
+1061|48|M|other|46060
+1062|53|M|unemployed|59457
+1063|40|M|executive/managerial|50265
+1064|33|M|executive/managerial|91344
+1065|33|F|other|94402
+1066|48|M|programmer|02151
+1067|40|M|programmer|94402
+1068|24|F|college/grad student|77581
+1069|33|M|writer|98105
+1070|48|F|artist|20036
+1071|53|M|self-employed|13045
+1072|40|F|executive/managerial|07601
+1073|33|F|doctor/health care|72211
+1074|48|M|technician/engineer|48073
+1075|33|F|doctor/health care|60660
+1076|33|F|clerical/admin|27606
+1077|33|M|clerical/admin|60660
+1078|48|F|homemaker|95661
+1079|33|M|executive/managerial|98115
+1080|60|M|executive/managerial|08854
+1081|24|M|college/grad student|68144-2410
+1082|48|M|executive/managerial|48170
+1083|60|M|other|27705
+1084|18|M|unemployed|03226
+1085|33|M|executive/managerial|34695
+1086|24|M|college/grad student|98225
+1087|33|M|self-employed|08826
+1088|18|F|K-12 student|98103
+1089|40|M|doctor/health care|37853
+1090|33|M|executive/managerial|94105
+1091|24|M|customer service|345567
+1092|24|F|college/grad student|49525
+1093|53|M|sales/marketing|60504
+1094|24|F|other|92626
+1095|60|F|doctor/health care|08753
+1096|18|M|K-12 student|80439
+1097|24|M|technician/engineer|92109
+1098|40|M|executive/managerial|94945
+1099|33|M|technician/engineer|77059
+1100|33|M|other|60090
+1101|40|M|academic/educator|06417
+1102|24|M|academic/educator|55408
+1103|48|F|executive/managerial|60605
+1104|40|M|lawyer|10023
+1105|40|M|doctor/health care|48105
+1106|24|M|college/grad student|90241
+1107|53|F|academic/educator|02324
+1108|60|M|academic/educator|93003
+1109|24|M|K-12 student|45904
+1110|60|F|doctor/health care|77005
+1111|53|F|self-employed|44319
+1112|24|M|doctor/health care|19104
+1113|24|M|college/grad student|97215
+1114|24|F|homemaker|75801
+1115|33|F|academic/educator|60551
+1116|33|M|scientist|92121
+1117|24|M|sales/marketing|10017
+1118|53|M|retired|02718
+1119|40|M|academic/educator|90504
+1120|24|M|college/grad student|95616
+1121|60|M|executive/managerial|78701
+1122|60|M|sales/marketing|02632
+1123|53|M|other|91789
+1124|33|M|artist|60156
+1125|24|F|college/grad student|53715
+1126|60|M|self-employed|13031
+1127|33|M|other|11788
+1128|33|M|academic/educator|72701
+1129|40|M|technician/engineer|22309
+1130|24|M|executive/managerial|60012
+1131|60|M|retired|12570
+1132|24|M|programmer|98225
+1133|24|M|artist|90038
+1134|24|M|writer|19114
+1135|53|M|retired|98201
+1136|40|F|executive/managerial|90274
+1137|24|M|college/grad student|13165
+1138|24|M|programmer|12047
+1139|33|M|academic/educator|93420-2852
+1140|48|F|artist|73069
+1141|33|F|clerical/admin|84770
+1142|24|M|academic/educator|43623
+1143|53|M|executive/managerial|94024
+1144|33|M|executive/managerial|94025
+1145|53|M|clerical/admin|92103
+1146|24|F|self-employed|80260
+1147|33|M|writer|98101
+1148|40|M|technician/engineer|92618
+1149|33|M|programmer|98103
+1150|33|F|writer|75226
+1151|33|M|scientist|46805
+1152|24|M|college/grad student|30328
+1153|24|M|K-12 student|33024
+1154|18|F|K-12 student|53545
+1155|33|M|programmer|90278
+1156|53|F|artist|33334
+1157|48|M|executive/managerial|30253
+1158|40|F|academic/educator|98026
+1159|24|M|other|48314
+1160|24|M|sales/marketing|07017
+1161|33|M|other|10025
+1162|40|F|other|97213
+1163|18|M|K-12 student|70448
+1164|33|F|unemployed|90020
+1165|33|M|programmer|45014
+1166|60|M|doctor/health care|94030
+1167|53|F|academic/educator|55126
+1168|33|F|other|94109
+1169|33|M|writer|94402
+1170|60|M|clerical/admin|10023
+1171|48|M|programmer|94114
+1172|33|F|other|61801
+1173|33|F|executive/managerial|10019
+1174|24|F|self-employed|91780
+1175|33|F|artist|90020
+1176|60|M|academic/educator|44256
+1177|33|F|technician/engineer|01453
+1178|60|M|other|48186
+1179|53|M|academic/educator|91030
+1180|53|F|writer|95503
+1181|40|M|executive/managerial|20716
+1182|18|M|K-12 student|91326
+1183|40|M|unemployed|94598
+1184|33|F|college/grad student|92354
+1185|40|F|academic/educator|97374
+1186|24|M|unemployed|98502
+1187|18|F|other|90210
+1188|48|M|executive/managerial|72212
+1189|33|M|other|85712
+1190|48|M|other|98031
+1191|40|F|other|98117
+1192|53|M|self-employed|98103
+1193|33|M|programmer|90712
+1194|33|F|academic/educator|95617
+1195|18|F|K-12 student|13907
+1196|24|F|sales/marketing|22203
+1197|40|M|academic/educator|44077
+1198|18|M|K-12 student|49544
+1199|53|M|retired|77459
+1200|18|M|other|97222
+1201|24|M|college/grad student|84112-2004
+1202|40|M|programmer|97006
+1203|33|F|academic/educator|06417
+1204|33|M|executive/managerial|95076
+1205|60|F|other|46814
+1206|53|F|executive/managerial|33764
+1207|53|M|other|43617
+1208|33|M|other|12590
+1209|40|M|executive/managerial|94127
+1210|33|M|technician/engineer|27519
+1211|24|M|college/grad student|10027
+1212|53|F|academic/educator|60089
+1213|53|M|other|91505
+1214|60|M|retired|94558
+1215|40|M|technician/engineer|23602
+1216|33|M|artist|90292
+1217|33|M|programmer|94118
+1218|60|M|scientist|13207
+1219|33|M|executive/managerial|12206
+1220|18|M|K-12 student|48073
+1221|24|M|other|19134
+1222|40|M|other|52162
+1223|33|M|artist|60102
+1224|53|M|retired|02125
+1225|48|M|executive/managerial|61081
+1226|24|M|writer|07087
+1227|53|M|academic/educator|90027
+1228|33|M|academic/educator|94720
+1229|33|F|college/grad student|48219
+1230|33|M|lawyer|95125
+1231|33|M|programmer|60515
+1232|24|F|college/grad student|43235
+1233|48|F|writer|94519
+1234|24|M|college/grad student|91006
+1235|33|F|executive/managerial|94043
+1236|33|F|academic/educator|48316
+1237|24|M|college/grad student|32720
+1238|40|F|writer|11215
+1239|33|F|writer|50111
+1240|24|F|sales/marketing|02144
+1241|18|M|K-12 student|11803
+1242|40|F|other|10014
+1243|40|M|scientist|92627
+1244|33|M|college/grad student|22030
+1245|33|M|technician/engineer|80461
+1246|24|M|college/grad student|98225
+1247|40|M|other|92649
+1248|40|F|writer|94598
+1249|40|M|artist|94587
+1250|53|M|other|10573
+1251|33|M|executive/managerial|48188
+1252|60|M|retired|94134
+1253|40|F|writer|76205
+1254|24|F|academic/educator|02144
+1255|33|M|technician/engineer|94110
+1256|33|M|writer|10002
+1257|24|F|sales/marketing|84101
+1258|48|M|executive/managerial|20879
+1259|40|M|executive/managerial|2020010
+1260|33|M|technician/engineer|28262
+1261|24|M|college/grad student|40205
+1262|33|M|college/grad student|22903
+1263|18|M|K-12 student|81301
+1264|33|M|academic/educator|53711
+1265|24|F|writer|49321
+1266|33|M|college/grad student|18104
+1267|33|M|scientist|12203
+1268|53|M|artist|10028
+1269|60|F|retired|01234
+1270|33|M|doctor/health care|12230
+1271|48|F|doctor/health care|54401
+1272|24|M|writer|49506
+1273|40|M|artist|19123
+1274|48|M|executive/managerial|37343
+1275|53|M|technician/engineer|39567
+1276|40|M|technician/engineer|94041
+1277|24|F|other|06360
+1278|24|M|college/grad student|98312
+1279|40|M|academic/educator|98502
+1280|18|M|K-12 student|97801
+1281|33|M|unemployed|97209
+1282|53|M|academic/educator|98541
+1283|24|F|academic/educator|94607
+1284|48|M|self-employed|33334
+1285|40|M|college/grad student|98125
+1286|40|M|technician/engineer|92630
+1287|53|F|executive/managerial|94611
+1288|40|F|unemployed|92867
+1289|48|M|doctor/health care|78750
+1290|40|M|other|91504
+1291|40|F|other|10011
+1292|33|M|executive/managerial|94904
+1293|33|M|customer service|60074
+1294|53|F|writer|11217
+1295|40|F|doctor/health care|90036
+1296|18|M|other|75244
+1297|33|M|executive/managerial|92109
+1298|40|M|doctor/health care|33615
+1299|33|M|sales/marketing|02038
+1300|18|M|K-12 student|97201
+1301|33|F|artist|10475
+1302|24|M|college/grad student|85282
+1303|33|M|unemployed|94111
+1304|33|M|sales/marketing|97203
+1305|48|M|writer|94121
+1306|33|M|clerical/admin|64068
+1307|60|M|retired|75703
+1308|18|M|K-12 student|75082
+1309|33|M|sales/marketing|76051
+1310|48|M|other|92866
+1311|24|M|K-12 student|90274
+1312|33|M|sales/marketing|60153
+1313|24|M|college/grad student|43214
+1314|24|F|college/grad student|68154
+1315|40|M|executive/managerial|75214
+1316|53|M|artist|50310
+1317|48|M|executive/managerial|98028
+1318|24|M|self-employed|94014
+1319|33|F|clerical/admin|98626
+1320|33|M|college/grad student|22030
+1321|33|F|sales/marketing|34639
+1322|60|M|other|94043
+1323|40|F|artist|11218
+1324|40|M|self-employed|07030
+1325|33|M|academic/educator|75230
+1326|33|F|other|98115
+1327|18|M|K-12 student|12159
+1328|40|M|sales/marketing|60657
+1329|24|M|sales/marketing|60194
+1330|60|M|academic/educator|95117
+1331|48|M|other|12065
+1332|33|M|executive/managerial|02840
+1333|33|M|technician/engineer|06460
+1334|53|M|executive/managerial|10805
+1335|40|M|other|14228
+1336|53|F|writer|95051
+1337|60|M|technician/engineer|97146
+1338|33|M|other|94108
+1339|40|M|tradesman/craftsman|85275
+1340|33|M|executive/managerial|14302
+1341|24|M|executive/managerial|11434
+1342|40|M|other|94560
+1343|40|M|sales/marketing|91324
+1344|33|F|homemaker|43420
+1345|33|F|artist|75070
+1346|40|M|writer|27607
+1347|24|F|academic/educator|11375
+1348|18|F|K-12 student|04240
+1349|53|M|executive/managerial|13088
+1350|40|F|other|90278
+1351|33|F|technician/engineer|98034
+1352|40|M|writer|94122
+1353|18|M|K-12 student|95926
+1354|33|F|artist|94040
+1355|48|F|writer|04240
+1356|24|F|college/grad student|91706
+1357|48|M|other|34116
+1358|40|M|technician/engineer|49508
+1359|40|M|academic/educator|10918
+1360|33|M|writer|14895
+1361|33|F|other|97401
+1362|40|M|programmer|75069
+1363|53|M|executive/managerial|01915
+1364|48|F|artist|97214
+1365|18|F|K-12 student|61665
+1366|18|M|K-12 student|89509
+1367|33|M|programmer|53707
+1368|33|F|clerical/admin|50266
+1369|33|M|customer service|12308
+1370|40|M|artist|92821
+1371|53|F|artist|60657
+1372|18|M|K-12 student|95123
+1373|33|F|academic/educator|55104
+1374|53|M|academic/educator|91403
+1375|48|F|customer service|95136
+1376|48|F|academic/educator|32750
+1377|40|M|self-employed|65270
+1378|48|F|executive/managerial|21044
+1379|60|F|retired|93448
+1380|18|M|K-12 student|58078
+1381|24|M|lawyer|89170
+1382|48|F|academic/educator|92100
+1383|33|F|executive/managerial|19806
+1384|24|M|K-12 student|98058
+1385|33|F|customer service|90262
+1386|33|F|other|07026
+1387|53|F|retired|94702
+1388|60|M|writer|87107
+1389|33|M|technician/engineer|19801
+1390|40|M|self-employed|99352
+1391|40|M|scientist|20723
+1392|48|M|clerical/admin|90006
+1393|24|M|college/grad student|06430
+1394|33|F|clerical/admin|94117
+1395|33|M|artist|07026
+1396|33|F|programmer|94530
+1397|40|M|executive/managerial|55901
+1398|60|F|self-employed|94904
+1399|24|M|technician/engineer|10804
+1400|33|M|executive/managerial|92130
+1401|24|F|academic/educator|94578
+1402|24|M|college/grad student|90601
+1403|33|F|other|53713
+1404|53|M|self-employed|91360
+1405|60|M|retired|33445
+1406|33|M|college/grad student|91911
+1407|40|F|scientist|53704
+1408|33|M|other|90046
+1409|24|M|college/grad student|97215
+1410|53|M|executive/managerial|94404
+1411|40|M|academic/educator|08107
+1412|33|M|technician/engineer|94089
+1413|24|M|clerical/admin|98122
+1414|24|M|college/grad student|85035
+1415|48|M|sales/marketing|22901
+1416|33|M|sales/marketing|98101
+1417|40|M|self-employed|10472
+1418|24|M|college/grad student|48197
+1419|33|F|academic/educator|95336
+1420|24|M|college/grad student|01375
+1421|18|F|K-12 student|53704
+1422|40|M|technician/engineer|55934
+1423|33|M|college/grad student|08540
+1424|40|M|other|28209
+1425|18|M|K-12 student|08872
+1426|24|M|sales/marketing|94070
+1427|33|M|programmer|21401
+1428|48|F|lawyer|40204
+1429|40|F|clerical/admin|11229
+1430|24|M|college/grad student|97215
+1431|60|M|doctor/health care|91011
+1432|40|M|academic/educator|94549
+1433|24|F|sales/marketing|49505
+1434|18|F|K-12 student|495321
+1435|33|M|sales/marketing|48103
+1436|53|F|doctor/health care|97005
+1437|53|M|clerical/admin|89102
+1438|24|M|artist|21222
+1439|40|M|clerical/admin|98037
+1440|40|M|programmer|94520
+1441|40|M|self-employed|54729
+1442|24|M|artist|12345
+1443|40|M|artist|98055
+1444|33|F|college/grad student|91106
+1445|33|M|artist|98109
+1446|40|M|programmer|10128
+1447|24|M|college/grad student|80521
+1448|33|F|clerical/admin|17522
+1449|40|M|writer|17112
+1450|24|M|college/grad student|94704
+1451|40|M|writer|90012
+1452|60|F|retired|90732
+1453|33|M|sales/marketing|19444
+1454|24|M|college/grad student|93117
+1455|48|F|other|92126
+1456|33|M|artist|98074
+1457|33|M|academic/educator|95472
+1458|18|M|other|08055
+1459|33|F|other|80027
+1460|24|F|college/grad student|95132
+1461|48|F|other|94115
+1462|40|M|self-employed|95405
+1463|53|M|self-employed|92612-3417
+1464|40|M|programmer|75063
+1465|53|M|self-employed|93003
+1466|24|M|college/grad student|29201
+1467|33|M|customer service|97007
+1468|18|M|sales/marketing|19147
+1469|60|M|writer|95420
+1470|24|M|college/grad student|94118
+1471|33|M|technician/engineer|11106
+1472|33|M|executive/managerial|90248
+1473|33|M|sales/marketing|06511
+1474|33|M|college/grad student|98115
+1475|33|F|artist|75075
+1476|24|F|other|91030
+1477|48|F|academic/educator|90601
+1478|18|M|K-12 student|92620
+1479|53|F|artist|94501
+1480|33|M|writer|91367
+1481|40|M|technician/engineer|77096
+1482|33|M|executive/managerial|94132
+1483|24|M|college/grad student|54481
+1484|33|M|programmer|07054
+1485|33|F|homemaker|80538
+1486|33|M|self-employed|90638
+1487|40|M|executive/managerial|07644
+1488|33|M|executive/managerial|94538
+1489|40|F|artist|60201
+1490|53|M|executive/managerial|90505
+1491|24|M|college/grad student|06511
+1492|33|M|programmer|98102
+1493|33|F|sales/marketing|60657
+1494|33|M|technician/engineer|38104
+1495|24|M|other|77341
+1496|33|M|technician/engineer|94108
+1497|53|M|customer service|80220
+1498|24|M|college/grad student|02139
+1499|18|M|K-12 student|19343
+1500|33|M|technician/engineer|98115
+1501|33|M|lawyer|75801
+1502|24|M|college/grad student|12188
+1503|33|M|programmer|92688
+1504|24|M|unemployed|22030
+1505|53|M|lawyer|90041
+1506|33|M|executive/managerial|08550
+1507|40|M|technician/engineer|95476
+1508|18|F|K-12 student|94539
+1509|18|M|other|11803
+1510|33|F|academic/educator|48067
+1511|40|M|programmer|08902
+1512|33|M|writer|11102
+1513|40|F|self-employed|95003
+1514|24|M|college/grad student|97215
+1515|33|M|self-employed|48324
+1516|33|F|programmer|53154
+1517|24|M|other|10002
+1518|33|M|artist|95831
+1519|24|M|college/grad student|38120
+1520|33|M|technician/engineer|94506
+1521|33|F|executive/managerial|08902
+1522|40|M|writer|10025
+1523|33|M|technician/engineer|95209
+1524|24|M|college/grad student|06459
+1525|33|F|self-employed|94706
+1526|60|M|technician/engineer|80538
+1527|24|M|K-12 student|78230
+1528|33|M|scientist|94903
+1529|24|M|college/grad student|97266
+1530|33|M|college/grad student|53711
+1531|48|M|technician/engineer|60462
+1532|24|M|sales/marketing|43613
+1533|48|M|academic/educator|71711
+1534|53|M|programmer|12184
+1535|24|F|writer|90036
+1536|40|F|clerical/admin|83001
+1537|24|M|writer|02446
+1538|33|M|clerical/admin|22601
+1539|33|M|clerical/admin|02359
+1540|48|M|other|97214
+1541|60|M|technician/engineer|23464-3016
+1542|24|M|technician/engineer|12054
+1543|33|M|lawyer|10549
+1544|33|M|programmer|63146
+1545|33|M|writer|20009
+1546|33|M|college/grad student|22903
+1547|60|M|retired|02115
+1548|40|M|academic/educator|53703
+1549|40|M|doctor/health care|20901
+1550|24|M|college/grad student|11580
+1551|33|M|lawyer|20008
+1552|48|M|writer|10021
+1553|33|F|scientist|64116
+1554|40|F|programmer|17013
+1555|24|F|other|20008
+1556|24|M|college/grad student|48073
+1557|24|F|college/grad student|10039
+1558|24|M|doctor/health care|60611
+1559|40|M|farmer|10014
+1560|33|F|clerical/admin|85226
+1561|24|F|college/grad student|11214
+1562|24|M|writer|43611
+1563|18|F|K-12 student|87123
+1564|53|M|academic/educator|01096
+1565|48|M|technician/engineer|78731
+1566|40|M|self-employed|77550
+1567|33|M|programmer|06511
+1568|18|F|K-12 student|94086
+1569|60|F|retired|07701
+1570|24|M|technician/engineer|75093
+1571|33|M|writer|98033
+1572|33|F|clerical/admin|02155
+1573|18|M|other|77479
+1574|33|M|doctor/health care|81007
+1575|53|F|executive/managerial|94949
+1576|48|F|homemaker|85202
+1577|60|M|other|72227-5733
+1578|24|M|college/grad student|22201
+1579|33|M|other|60201
+1580|24|F|college/grad student|76201
+1581|24|F|college/grad student|10003
+1582|24|M|other|10705
+1583|40|M|doctor/health care|94115
+1584|33|M|unemployed|45701
+1585|60|M|writer|92315
+1586|48|M|executive/managerial|77351
+1587|33|F|clerical/admin|30308
+1588|33|M|lawyer|22043
+1589|33|M|other|95136
+1590|40|M|academic/educator|95003
+1591|53|M|executive/managerial|26501
+1592|40|M|executive/managerial|50111
+1593|33|M|self-employed|78411
+1594|40|F|writer|10013
+1595|40|M|academic/educator|92683-1892
+1596|24|F|customer service|48108
+1597|33|M|programmer|10002
+1598|40|M|retired|76548
+1599|33|M|other|92646
+1600|40|M|executive/managerial|08234
+1601|33|M|programmer|83001
+1602|33|F|executive/managerial|10562
+1603|33|F|other|13326
+1604|33|M|lawyer|50111
+1605|24|F|other|28270
+1606|40|F|clerical/admin|55405
+1607|48|M|academic/educator|02135
+1608|33|M|lawyer|75230
+1609|40|F|homemaker|06830
+1610|33|M|lawyer|55555
+1611|33|M|other|03867
+1612|33|M|technician/engineer|11354
+1613|24|M|writer|61801
+1614|40|M|other|90027
+1615|48|F|executive/managerial|10022
+1616|33|M|other|16101
+1617|33|M|programmer|44060
+1618|53|M|other|44139
+1619|53|M|clerical/admin|48843
+1620|33|M|writer|48009
+1621|33|M|college/grad student|11423
+1622|24|M|college/grad student|53715
+1623|53|M|scientist|07746
+1624|33|M|other|06810
+1625|48|M|other|04330
+1626|24|M|college/grad student|10010
+1627|24|M|technician/engineer|91505
+1628|24|M|writer|90028
+1629|24|M|college/grad student|10003
+1630|48|M|technician/engineer|91355
+1631|53|F|other|94514
+1632|33|M|self-employed|94120
+1633|48|F|executive/managerial|99701
+1634|60|F|other|38340
+1635|33|M|other|97212
+1636|33|F|unemployed|60612
+1637|60|M|other|90049
+1638|24|F|technician/engineer|95405
+1639|33|M|technician/engineer|95405
+1640|40|M|technician/engineer|95610
+1641|33|M|other|95819
+1642|53|M|retired|62002
+1643|48|M|artist|90813
+1644|24|M|programmer|90210
+1645|24|F|homemaker|62225
+1646|33|M|writer|90046
+1647|24|M|tradesman/craftsman|98118
+1648|53|M|sales/marketing|85202
+1649|24|M|unemployed|98034
+1650|33|M|unemployed|94607
+1651|33|M|programmer|94520
+1652|33|M|self-employed|98208
+1653|24|M|other|94044
+1654|48|F|other|94114
+1655|24|M|college/grad student|94507
+1656|33|M|technician/engineer|94122
+1657|48|F|other|10022
+1658|40|F|doctor/health care|94214
+1659|24|F|homemaker|99703
+1660|33|F|artist|94577
+1661|40|M|executive/managerial|80526
+1662|33|M|programmer|94121
+1663|24|M|college/grad student|77845
+1664|24|F|college/grad student|76707
+1665|48|M|technician/engineer|87505
+1666|33|M|sales/marketing|15241
+1667|53|M|self-employed|98516
+1668|40|M|artist|95602
+1669|33|F|technician/engineer|75006
+1670|60|F|retired|95320
+1671|40|M|other|98368
+1672|33|M|technician/engineer|93933
+1673|18|M|K-12 student|98043-3621
+1674|40|M|artist|95816
+1675|33|F|doctor/health care|97116
+1676|24|M|college/grad student|91301
+1677|24|M|sales/marketing|97123
+1678|24|F|technician/engineer|97070
+1679|33|M|programmer|98052
+1680|33|M|writer|95380
+1681|24|M|college/grad student|78705
+1682|33|M|artist|98102
+1683|33|F|executive/managerial|98109
+1684|24|M|clerical/admin|85226
+1685|40|M|programmer|95833
+1686|40|M|programmer|94062
+1687|33|M|clerical/admin|85013
+1688|24|F|college/grad student|34243
+1689|40|M|customer service|98465
+1690|40|M|self-employed|98029
+1691|33|F|technician/engineer|85301
+1692|40|M|writer|97333
+1693|33|M|programmer|98684
+1694|33|M|programmer|98116
+1695|33|M|academic/educator|97206
+1696|40|M|executive/managerial|95765
+1697|24|F|college/grad student|98052
+1698|40|M|artist|97214
+1699|33|F|unemployed|98102
+1700|33|M|writer|98119
+1701|33|F|college/grad student|97233
+1702|24|M|K-12 student|97303
+1703|24|M|scientist|77047
+1704|33|M|college/grad student|98926
+1705|24|F|college/grad student|85033
+1706|33|M|writer|19134
+1707|53|M|academic/educator|95070
+1708|33|M|other|64106
+1709|33|M|other|73147
+1710|24|M|other|94530
+1711|24|F|college/grad student|30134
+1712|33|M|other|73003
+1713|33|M|other|47421
+1714|33|M|technician/engineer|43212
+1715|33|M|self-employed|53406
+1716|33|M|other|43229
+1717|53|F|doctor/health care|30307
+1718|24|M|college/grad student|43235
+1719|24|M|self-employed|60523
+1720|24|M|college/grad student|94720
+1721|24|M|unemployed|70043
+1722|40|M|other|72058
+1723|40|M|technician/engineer|60103
+1724|24|M|college/grad student|00961
+1725|24|M|unemployed|67218
+1726|33|M|artist|60160
+1727|40|M|self-employed|50317
+1728|24|M|college/grad student|11710-1641
+1729|33|M|executive/managerial|53715
+1730|24|F|college/grad student|60137
+1731|24|F|other|91601
+1732|24|M|college/grad student|13655
+1733|24|M|sales/marketing|43725
+1734|48|M|technician/engineer|94602
+1735|24|M|writer|30605
+1736|60|M|farmer|00606
+1737|40|M|writer|46614
+1738|40|M|self-employed|30034
+1739|60|M|self-employed|77079
+1740|60|M|academic/educator|96153
+1741|40|M|executive/managerial|91107
+1742|33|M|scientist|08109
+1743|40|M|technician/engineer|77566
+1744|40|M|programmer|50325
+1745|48|M|other|94114
+1746|33|M|college/grad student|33157
+1747|33|M|other|90638
+1748|53|M|academic/educator|04240
+1749|33|M|artist|10040
+1750|53|M|customer service|10128
+1751|40|M|writer|77024
+1752|33|M|clerical/admin|96813
+1753|40|M|doctor/health care|90803
+1754|24|M|unemployed|27028
+1755|24|F|college/grad student|77005
+1756|33|F|academic/educator|75149
+1757|33|M|college/grad student|75206
+1758|33|F|other|33067-1400
+1759|33|M|self-employed|22112
+1760|33|F|clerical/admin|90016
+1761|40|M|other|72058
+1762|33|M|sales/marketing|75230
+1763|40|M|executive/managerial|76248
+1764|24|M|other|75149
+1765|24|M|college/grad student|13655
+1766|48|F|other|94566
+1767|33|M|writer|75205
+1768|48|M|self-employed|75067
+1769|33|M|technician/engineer|75240
+1770|40|M|self-employed|79605
+1771|33|M|technician/engineer|75044
+1772|60|M|artist|90680
+1773|24|M|college/grad student|07030
+1774|33|M|technician/engineer|99003
+1775|33|M|college/grad student|70115
+1776|33|M|other|45801
+1777|33|M|writer|17022
+1778|24|M|college/grad student|94704
+1779|24|M|academic/educator|78133
+1780|40|M|academic/educator|22181
+1781|40|F|other|08009
+1782|48|M|other|23454
+1783|24|M|college/grad student|10027
+1784|24|M|writer|18104
+1785|24|M|college/grad student|04901
+1786|48|M|academic/educator|85721
+1787|24|M|farmer|90210
+1788|48|M|artist|19104
+1789|18|M|K-12 student|19116
+1790|33|M|other|19152
+1791|24|M|college/grad student|19146
+1792|33|F|artist|53523
+1793|33|M|college/grad student|20008
+1794|33|M|lawyer|20878
+1795|24|M|technician/engineer|20724
+1796|53|M|lawyer|20852
+1797|40|M|executive/managerial|52003
+1798|48|M|lawyer|22204
+1799|40|M|lawyer|70118
+1800|24|M|college/grad student|70118
+1801|33|F|doctor/health care|54729
+1802|24|M|college/grad student|22903
+1803|33|M|artist|50021
+1804|33|M|executive/managerial|22314
+1805|24|M|college/grad student|22401
+1806|24|M|college/grad student|22032
+1807|24|M|technician/engineer|20742
+1808|24|F|college/grad student|22031
+1809|33|F|sales/marketing|12189
+1810|53|M|retired|90210
+1811|60|M|artist|08825
+1812|33|F|programmer|48103
+1813|40|F|doctor/health care|90035
+1814|53|M|executive/managerial|10014
+1815|18|M|academic/educator|30707
+1816|40|F|homemaker|56007
+1817|40|M|academic/educator|53706
+1818|18|M|farmer|02254
+1819|40|F|programmer|45249
+1820|33|M|writer|50265
+1821|33|M|writer|43315
+1822|33|F|other|53713
+1823|40|F|academic/educator|92801
+1824|24|F|college/grad student|43560
+1825|33|M|executive/managerial|50310
+1826|48|M|lawyer|49265
+1827|33|F|academic/educator|07721
+1828|24|M|college/grad student|07030
+1829|33|M|self-employed|07302
+1830|24|M|college/grad student|12180
+1831|24|M|college/grad student|53190
+1832|24|F|college/grad student|14433
+1833|24|M|technician/engineer|07030
+1834|40|M|customer service|10990
+1835|33|M|unemployed|11501
+1836|33|M|other|10016
+1837|33|M|artist|08817
+1838|40|M|executive/managerial|10011
+1839|24|M|college/grad student|07940
+1840|33|M|programmer|11217
+1841|24|M|other|95037
+1842|24|M|college/grad student|53190
+1843|33|M|programmer|10014
+1844|24|F|college/grad student|53711
+1845|33|M|artist|10002
+1846|48|M|programmer|95051
+1847|24|M|college/grad student|60047
+1848|40|M|customer service|10011
+1849|40|M|executive/managerial|11747
+1850|24|M|customer service|12582
+1851|33|M|unemployed|59602
+1852|33|M|programmer|10036
+1853|53|M|other|90803
+1854|33|M|other|92346
+1855|24|M|college/grad student|93004
+1856|60|M|executive/managerial|92065
+1857|18|M|K-12 student|92106
+1858|24|F|college/grad student|59715
+1859|33|F|college/grad student|66049
+1860|60|M|self-employed|94591
+1861|53|M|self-employed|92129
+1862|53|M|sales/marketing|95129
+1863|24|M|college/grad student|90048
+1864|40|M|executive/managerial|94306
+1865|24|F|academic/educator|94606
+1866|33|M|executive/managerial|94043
+1867|53|M|executive/managerial|95008
+1868|53|M|lawyer|92346
+1869|48|M|sales/marketing|95148
+1870|60|M|retired|85248
+1871|48|F|academic/educator|46774
+1872|53|M|writer|92106
+1873|40|M|executive/managerial|02127
+1874|48|M|executive/managerial|95076
+1875|40|M|programmer|94107
+1876|33|M|programmer|92024
+1877|48|F|writer|90069
+1878|18|M|K-12 student|92846
+1879|33|M|college/grad student|29732
+1880|40|M|other|91006
+1881|40|M|artist|95008
+1882|40|M|self-employed|92352
+1883|53|F|other|94521
+1884|48|M|writer|93108
+1885|53|M|technician/engineer|94611
+1886|33|M|programmer|94086
+1887|60|M|scientist|92119
+1888|40|M|programmer|95124
+1889|24|M|sales/marketing|80023
+1890|53|M|doctor/health care|94702
+1891|48|M|academic/educator|91335
+1892|33|M|writer|90066
+1893|40|F|other|90024
+1894|40|F|executive/managerial|94602
+1895|40|M|sales/marketing|89119
+1896|60|M|retired|92115
+1897|53|F|artist|94530
+1898|33|M|programmer|91101
+1899|48|F|doctor/health care|02135
+1900|60|M|programmer|94109
+1901|53|M|executive/managerial|94024
+1902|33|M|unemployed|93536
+1903|40|M|other|90401
+1904|24|M|academic/educator|30115
+1905|40|F|writer|94118
+1906|33|F|customer service|91311
+1907|40|M|technician/engineer|94804
+1908|60|M|retired|95129
+1909|24|M|college/grad student|89146
+1910|18|M|K-12 student|94707
+1911|24|F|college/grad student|92805
+1912|33|M|college/grad student|91325
+1913|33|M|technician/engineer|95126
+1914|40|F|sales/marketing|95051
+1915|53|M|retired|01938
+1916|48|M|executive/managerial|90405
+1917|24|M|K-12 student|92704
+1918|48|F|doctor/health care|95209
+1919|18|M|other|94525
+1920|40|F|executive/managerial|80122
+1921|60|M|programmer|92780
+1922|33|F|executive/managerial|94303
+1923|40|M|executive/managerial|90026
+1924|60|F|doctor/health care|90630
+1925|53|M|executive/managerial|92886
+1926|18|F|other|95404
+1927|40|M|executive/managerial|94806
+1928|18|M|K-12 student|94501
+1929|18|F|K-12 student|91107
+1930|33|M|scientist|94550
+1931|33|M|artist|94114
+1932|33|M|executive/managerial|94114
+1933|24|M|unemployed|94703
+1934|33|M|technician/engineer|95014
+1935|18|M|K-12 student|90405
+1936|40|M|other|90026
+1937|33|M|lawyer|92335
+1938|33|F|artist|91351
+1939|40|F|artist|94930
+1940|33|M|programmer|95158
+1941|40|M|technician/engineer|94550
+1942|40|M|customer service|04901
+1943|24|M|college/grad student|91501
+1944|24|F|college/grad student|93107
+1945|33|M|writer|92866
+1946|33|M|sales/marketing|94110
+1947|33|M|executive/managerial|94041
+1948|18|M|K-12 student|93111
+1949|24|M|technician/engineer|92595
+1950|33|M|programmer|49024
+1951|24|F|college/grad student|90630
+1952|40|M|academic/educator|91030
+1953|33|F|artist|94566
+1954|33|M|self-employed|91402
+1955|18|M|unemployed|03109
+1956|40|M|other|44280
+1957|24|F|college/grad student|23185
+1958|33|F|academic/educator|17055
+1959|53|F|retired|53092
+1960|48|M|executive/managerial|55555
+1961|53|F|clerical/admin|91911
+1962|24|F|academic/educator|60914
+1963|53|F|homemaker|91941
+1964|33|F|doctor/health care|89523
+1965|60|M|technician/engineer|48304
+1966|33|M|writer|93637
+1967|53|M|executive/managerial|92116
+1968|33|M|lawyer|85258
+1969|33|F|clerical/admin|92116
+1970|53|M|retired|89052
+1971|33|F|sales/marketing|80230
+1972|48|M|technician/engineer|92111
+1973|33|M|academic/educator|22903
+1974|40|M|technician/engineer|12159
+1975|24|M|college/grad student|97361
+1976|40|M|customer service|58703
+1977|60|M|doctor/health care|02726
+1978|18|M|K-12 student|43357
+1979|60|M|technician/engineer|49506
+1980|40|M|executive/managerial|06460
+1981|60|M|academic/educator|80303
+1982|18|M|K-12 student|80540
+1983|33|M|sales/marketing|92109
+1984|24|M|K-12 student|92130
+1985|48|M|programmer|92122
+1986|53|M|retired|91977
+1987|33|M|technician/engineer|62629
+1988|33|F|academic/educator|85224
+1989|53|M|doctor/health care|02090
+1990|33|M|executive/managerial|85257
+1991|33|M|writer|48309
+1992|24|M|college/grad student|85259
+1993|40|M|technician/engineer|99508
+1994|40|M|artist|89012
+1995|33|M|academic/educator|85364
+1996|40|M|other|85621
+1997|33|M|other|84108
+1998|53|F|homemaker|24018
+1999|40|F|clerical/admin|02113
+2000|24|M|college/grad student|44685
+2001|53|M|academic/educator|48197
+2002|60|F|retired|02136-1522
+2003|18|M|K-12 student|80014
+2004|48|M|unemployed|53572
+2005|24|M|college/grad student|58601
+2006|40|M|other|66048
+2007|53|M|self-employed|80442
+2008|33|M|clerical/admin|48220
+2009|40|F|executive/managerial|60625
+2010|24|M|college/grad student|81520
+2011|40|F|clerical/admin|01545
+2012|33|M|college/grad student|49456
+2013|48|M|other|60543
+2014|24|M|college/grad student|53233
+2015|24|M|college/grad student|01003
+2016|60|F|artist|20783
+2017|33|M|technician/engineer|35808
+2018|40|M|self-employed|46214
+2019|53|M|academic/educator|27705
+2020|33|M|executive/managerial|45011
+2021|33|M|other|61364
+2022|33|M|executive/managerial|60137
+2023|24|M|college/grad student|56001
+2024|18|M|unemployed|06614
+2025|60|M|retired|03440
+2026|53|M|self-employed|49277
+2027|33|F|homemaker|48021
+2028|48|M|doctor/health care|44131
+2029|33|F|programmer|10011
+2030|33|M|college/grad student|77345
+2031|40|M|writer|60640
+2032|53|M|sales/marketing|44614
+2033|48|F|writer|91436
+2034|48|F|artist|01851
+2035|24|F|other|45212
+2036|33|F|sales/marketing|90046
+2037|60|M|sales/marketing|02468
+2038|48|F|academic/educator|33301
+2039|53|M|self-employed|60060
+2040|33|F|executive/managerial|02494
+2041|33|F|writer|24015
+2042|18|M|K-12 student|79358
+2043|33|M|sales/marketing|37931
+2044|48|F|other|49408
+2045|18|F|other|24179
+2046|40|M|academic/educator|91711
+2047|18|M|K-12 student|06437
+2048|53|M|doctor/health care|49456
+2049|53|F|other|13210
+2050|40|F|clerical/admin|99504
+2051|40|M|executive/managerial|93906
+2052|18|M|K-12 student|46033
+2053|48|M|lawyer|06416
+2054|33|M|programmer|03110
+2055|53|M|lawyer|49008
+2056|33|M|college/grad student|56301
+2057|40|M|academic/educator|49417
+2058|60|F|academic/educator|06437
+2059|40|M|other|44130
+2060|18|M|academic/educator|48304
+2061|60|M|academic/educator|44107
+2062|24|M|college/grad student|44646
+2063|33|M|college/grad student|43138
+2064|40|M|academic/educator|01020
+2065|33|M|doctor/health care|46807
+2066|33|F|doctor/health care|53202
+2067|53|M|self-employed|06430
+2068|40|F|programmer|43528
+2069|60|M|scientist|79068
+2070|40|F|doctor/health care|13210
+2071|48|M|executive/managerial|01605
+2072|53|F|programmer|21133
+2073|24|F|college/grad student|13148
+2074|24|M|college/grad student|48197
+2075|33|F|college/grad student|13210
+2076|24|M|college/grad student|13165
+2077|24|M|other|55112
+2078|24|M|college/grad student|13323
+2079|18|M|K-12 student|45241
+2080|33|M|lawyer|37931
+2081|24|M|technician/engineer|49445
+2082|18|M|unemployed|48323
+2083|24|M|college/grad student|64920
+2084|24|M|college/grad student|23186
+2085|24|M|other|06360
+2086|40|M|sales/marketing|48328
+2087|33|M|other|37923-3112
+2088|53|M|executive/managerial|60618
+2089|40|M|technician/engineer|17601
+2090|40|M|technician/engineer|48313
+2091|40|F|writer|48044
+2092|60|M|academic/educator|49006
+2093|24|M|other|48322
+2094|40|M|artist|60061
+2095|60|M|retired|58504
+2096|33|F|technician/engineer|33990
+2097|24|M|customer service|48504
+2098|40|M|writer|48067
+2099|24|F|other|48823
+2100|33|F|other|24017
+2101|33|M|self-employed|48309
+2102|33|M|lawyer|48825
+2103|40|M|programmer|03062
+2104|48|M|scientist|60035
+2105|33|M|academic/educator|24060
+2106|24|F|writer|495321
+2107|33|M|academic/educator|24060
+2108|18|M|K-12 student|60462
+2109|33|M|self-employed|13090
+2110|53|M|lawyer|46802
+2111|60|M|retired|32806
+2112|48|F|programmer|23116
+2113|33|M|doctor/health care|04456
+2114|24|M|tradesman/craftsman|21740
+2115|40|M|technician/engineer|01519
+2116|24|M|college/grad student|49546
+2117|60|M|retired|49307
+2118|33|M|sales/marketing|02148
+2119|40|M|college/grad student|10036
+2120|18|M|other|02780
+2121|60|M|retired|02356
+2122|40|M|programmer|61614
+2123|40|F|other|13064
+2124|33|M|other|12306
+2125|40|M|clerical/admin|46033
+2126|60|M|sales/marketing|02632
+2127|24|M|college/grad student|12309
+2128|48|F|academic/educator|46737
+2129|33|M|customer service|04103
+2130|48|M|other|03060
+2131|33|M|other|01701
+2132|60|M|sales/marketing|02632
+2133|18|F|K-12 student|01607
+2134|24|M|K-12 student|02780
+2135|53|M|academic/educator|01778
+2136|40|M|tradesman/craftsman|13027
+2137|18|F|K-12 student|00681
+2138|24|F|college/grad student|88119
+2139|53|F|clerical/admin|33615
+2140|48|M|sales/marketing|46804
+2141|53|F|self-employed|48706
+2142|48|F|sales/marketing|46804
+2143|24|M|college/grad student|32607
+2144|24|M|other|46517
+2145|24|M|K-12 student|32750
+2146|24|M|artist|96002
+2147|24|F|other|60641
+2148|24|F|other|81301
+2149|33|M|other|60089
+2150|24|F|college/grad student|22904
+2151|60|M|retired|33316
+2152|24|M|college/grad student|22807
+2153|24|M|self-employed|97405
+2154|33|M|programmer|68508
+2155|18|F|K-12 student|50246
+2156|24|M|unemployed|55912
+2157|24|F|clerical/admin|45244
+2158|33|M|programmer|60618
+2159|53|F|sales/marketing|60618
+2160|24|F|unemployed|46556
+2161|40|F|artist|95521
+2162|18|F|K-12 student|35810
+2163|24|M|other|87122
+2164|40|M|other|95826
+2165|33|M|executive/managerial|32836
+2166|18|M|K-12 student|99203
+2167|33|F|doctor/health care|95833
+2168|18|M|K-12 student|60202
+2169|18|M|other|95451
+2170|53|F|self-employed|99114
+2171|40|M|other|48103
+2172|24|M|writer|60641
+2173|53|M|retired|87502
+2174|53|M|programmer|87505
+2175|33|M|college/grad student|99217
+2176|18|M|unemployed|73505
+2177|40|F|writer|95451
+2178|48|M|sales/marketing|85251
+2179|33|F|other|28304
+2180|33|M|programmer|27713-9225
+2181|33|M|other|45245
+2182|33|F|college/grad student|60443
+2183|60|F|academic/educator|11795
+2184|24|M|college/grad student|45403
+2185|48|M|technician/engineer|27502
+2186|24|M|customer service|41018
+2187|48|M|self-employed|60126
+2188|24|F|unemployed|60641
+2189|18|M|K-12 student|60148
+2190|33|F|scientist|27603
+2191|24|M|college/grad student|45231
+2192|33|F|other|27713
+2193|18|M|K-12 student|41011
+2194|33|M|technician/engineer|45233
+2195|18|M|K-12 student|60148
+2196|33|M|programmer|45140
+2197|33|F|academic/educator|27515
+2198|40|F|homemaker|46815
+2199|18|M|K-12 student|60613
+2200|40|M|academic/educator|60016
+2201|60|M|writer|46804
+2202|18|F|K-12 student|11743
+2203|48|M|programmer|53718
+2204|60|M|clerical/admin|94941
+2205|33|F|executive/managerial|10016
+2206|48|M|executive/managerial|11201
+2207|24|M|college/grad student|07508
+2208|33|M|other|10006
+2209|40|M|executive/managerial|10011
+2210|48|M|technician/engineer|88005-4313
+2211|48|M|doctor/health care|01950
+2212|24|M|college/grad student|80521
+2213|33|F|other|60622
+2214|33|F|academic/educator|46807
+2215|33|F|other|93940
+2216|33|F|writer|60612
+2217|18|M|K-12 student|44906
+2218|40|M|technician/engineer|64153
+2219|33|M|doctor/health care|60060
+2220|53|F|clerical/admin|95451-9554
+2221|60|M|technician/engineer|94931
+2222|48|F|academic/educator|13088
+2223|33|M|artist|60123
+2224|33|M|programmer|60025
+2225|33|M|customer service|96815
+2226|33|F|executive/managerial|27514
+2227|53|M|sales/marketing|60016
+2228|33|M|programmer|60025
+2229|48|M|other|61821
+2230|48|F|academic/educator|60302
+2231|53|M|lawyer|85726
+2232|33|M|sales/marketing|60061
+2233|40|F|clerical/admin|60187
+2234|60|M|academic/educator|85718
+2235|18|M|K-12 student|46324
+2236|18|M|K-12 student|96782
+2237|40|F|doctor/health care|14905
+2238|33|F|college/grad student|32607
+2239|24|M|K-12 student|60148
+2240|48|M|programmer|64117
+2241|48|M|customer service|60647
+2242|24|M|college/grad student|60115
+2243|48|M|artist|86701
+2244|18|M|K-12 student|60565
+2245|18|M|K-12 student|60007
+2246|33|M|other|60622
+2247|48|M|artist|60613
+2248|40|F|programmer|46755
+2249|33|M|customer service|60466
+2250|24|M|unemployed|60010
+2251|40|M|sales/marketing|60626
+2252|24|F|academic/educator|01562
+2253|53|F|other|46815
+2254|40|M|customer service|33317
+2255|40|F|doctor/health care|44303
+2256|48|F|scientist|59840
+2257|24|F|college/grad student|59715
+2258|24|F|college/grad student|10033
+2259|60|F|self-employed|70503
+2260|33|F|writer|46835
+2261|33|M|customer service|33025
+2262|48|M|technician/engineer|48116
+2263|33|M|doctor/health care|70508
+2264|48|F|executive/managerial|37877
+2265|60|M|retired|60506
+2266|53|F|artist|48118
+2267|60|F|retired|37774
+2268|40|F|academic/educator|46774
+2269|48|F|other|11217
+2270|24|M|academic/educator|14620
+2271|53|M|sales/marketing|13210
+2272|33|M|other|71731
+2273|33|M|doctor/health care|23235
+2274|24|M|artist|31401
+2275|60|M|executive/managerial|39211
+2276|60|M|retired|44143
+2277|48|F|homemaker|13035
+2278|53|M|technician/engineer|01536
+2279|53|M|executive/managerial|08816
+2280|60|M|doctor/health care|74105
+2281|48|M|lawyer|48104
+2282|53|M|artist|32117
+2283|40|M|tradesman/craftsman|44708
+2284|33|M|writer|90024
+2285|18|F|K-12 student|13090
+2286|40|M|technician/engineer|82604
+2287|60|M|other|06082
+2288|18|M|K-12 student|13066
+2289|53|F|academic/educator|52002
+2290|33|M|other|61021
+2291|48|M|academic/educator|13214
+2292|53|M|scientist|13039
+2293|60|F|clerical/admin|48130
+2294|60|M|retired|48108
+2295|48|M|lawyer|72316
+2296|33|F|doctor/health care|22923
+2297|60|M|retired|52003
+2298|40|M|technician/engineer|77584
+2299|24|F|K-12 student|13090
+2300|60|M|retired|49423
+2301|33|F|programmer|02478
+2302|53|M|programmer|48104
+2303|53|M|technician/engineer|08055
+2304|48|M|programmer|94103
+2305|53|M|writer|48104
+2306|24|F|college/grad student|02138
+2307|33|M|technician/engineer|02140
+2308|48|F|self-employed|48103
+2309|48|F|other|08901
+2310|48|M|programmer|48130
+2311|33|F|college/grad student|22902
+2312|48|M|other|13131
+2313|53|F|doctor/health care|48103-4711
+2314|33|F|academic/educator|13210
+2315|60|M|executive/managerial|48114
+2316|40|M|other|13207
+2317|48|F|homemaker|57108
+2318|60|M|executive/managerial|48114
+2319|40|M|executive/managerial|48104
+2320|53|F|academic/educator|06043
+2321|33|M|executive/managerial|30115
+2322|60|F|retired|48105
+2323|40|M|clerical/admin|13088
+2324|40|M|technician/engineer|50321
+2325|24|F|college/grad student|27708
+2326|24|M|college/grad student|01040
+2327|24|M|K-12 student|48169
+2328|60|M|executive/managerial|13212
+2329|60|F|scientist|97367
+2330|48|M|executive/managerial|48103
+2331|60|M|academic/educator|48104
+2332|60|M|sales/marketing|01545
+2333|53|M|doctor/health care|13035
+2334|60|F|executive/managerial|01562
+2335|53|M|technician/engineer|48197
+2336|40|M|tradesman/craftsman|13146
+2337|40|M|technician/engineer|49424
+2338|48|M|technician/engineer|13152
+2339|60|F|clerical/admin|52003
+2340|40|M|artist|48104
+2341|60|M|academic/educator|13210
+2342|40|M|clerical/admin|48107
+2343|48|F|academic/educator|01604
+2344|33|M|programmer|02139
+2345|40|M|self-employed|98031
+2346|18|F|K-12 student|48105
+2347|40|M|academic/educator|48116
+2348|53|M|programmer|06082
+2349|33|M|farmer|50309
+2350|24|M|college/grad student|44312
+2351|33|F|other|11106
+2352|53|M|retired|41076
+2353|40|F|homemaker|61270
+2354|40|M|lawyer|94306
+2355|48|F|homemaker|13203
+2356|53|F|self-employed|13207
+2357|40|F|sales/marketing|13316
+2358|60|F|doctor/health care|06074
+2359|60|M|retired|13685
+2360|53|M|doctor/health care|13210
+2361|60|M|executive/managerial|49423
+2362|33|M|sales/marketing|94110
+2363|53|M|sales/marketing|95823
+2364|60|F|homemaker|13078
+2365|53|M|executive/managerial|13203
+2366|48|F|self-employed|01532
+2367|33|F|homemaker|49424
+2368|60|F|retired|13057
+2369|40|M|sales/marketing|06040
+2370|53|M|academic/educator|13215
+2371|40|F|executive/managerial|06082
+2372|48|F|executive/managerial|01602
+2373|48|M|executive/managerial|94109
+2374|33|M|sales/marketing|94404
+2375|53|F|executive/managerial|13027
+2376|33|M|academic/educator|13210
+2377|40|M|other|06108
+2378|33|M|clerical/admin|75150
+2379|24|M|tradesman/craftsman|13045
+2380|33|M|college/grad student|22903
+2381|40|F|homemaker|13066
+2382|53|M|retired|59715
+2383|33|F|sales/marketing|95125
+2384|40|M|technician/engineer|62034
+2385|48|F|artist|01545
+2386|33|F|other|06040
+2387|33|M|technician/engineer|32224
+2388|60|M|customer service|06082
+2389|33|M|self-employed|37922
+2390|33|F|doctor/health care|33076
+2391|53|M|tradesman/craftsman|13126
+2392|60|F|clerical/admin|06040
+2393|60|M|retired|13123
+2394|40|M|doctor/health care|37923
+2395|40|M|executive/managerial|08021
+2396|24|F|other|22102
+2397|40|F|lawyer|43201
+2398|33|M|other|98122
+2399|40|M|technician/engineer|11355
+2400|33|F|self-employed|95687
+2401|33|M|college/grad student|22901
+2402|48|M|technician/engineer|32024
+2403|24|M|college/grad student|37743
+2404|24|M|executive/managerial|64055
+2405|53|M|farmer|78065
+2406|60|F|programmer|01520
+2407|40|M|self-employed|11358
+2408|48|F|academic/educator|01609
+2409|40|F|homemaker|06074
+2410|60|M|executive/managerial|06071
+2411|40|F|sales/marketing|01536
+2412|60|M|retired|01501
+2413|60|F|executive/managerial|06118
+2414|33|M|academic/educator|49503
+2415|33|M|executive/managerial|22407
+2416|48|M|executive/managerial|01531
+2417|48|M|academic/educator|53045
+2418|18|F|K-12 student|06074
+2419|33|M|other|06096
+2420|53|M|executive/managerial|37938
+2421|40|M|executive/managerial|44306
+2422|53|F|homemaker|02865
+2423|48|F|homemaker|01520
+2424|33|M|technician/engineer|95035
+2425|40|F|sales/marketing|45243
+2426|60|M|other|01606
+2427|33|F|sales/marketing|94010
+2428|48|M|technician/engineer|45255
+2429|33|M|artist|22903
+2430|33|M|college/grad student|22902
+2431|33|F|college/grad student|22903
+2432|33|M|college/grad student|22903
+2433|33|M|college/grad student|22903
+2434|33|M|college/grad student|22901
+2435|33|M|college/grad student|22903
+2436|33|M|executive/managerial|22902
+2437|33|M|college/grad student|22923
+2438|40|M|academic/educator|22903
+2439|48|M|technician/engineer|48105
+2440|53|M|technician/engineer|01430
+2441|48|F|doctor/health care|42406
+2442|40|M|technician/engineer|36830
+2443|40|F|other|49464
+2444|48|F|college/grad student|42420
+2445|33|M|other|48104
+2446|24|M|executive/managerial|10038
+2447|33|M|sales/marketing|03051
+2448|40|M|doctor/health care|37932
+2449|60|M|retired|37922
+2450|48|M|self-employed|01612
+2451|48|M|programmer|37853
+2452|48|M|executive/managerial|01545
+2453|33|M|executive/managerial|55429
+2454|24|M|other|97005
+2455|40|M|executive/managerial|48197
+2456|33|M|customer service|48103
+2457|33|M|other|60656
+2458|33|M|executive/managerial|85040
+2459|53|M|executive/managerial|44313
+2460|53|F|academic/educator|36067
+2461|24|M|college/grad student|98117
+2462|40|M|academic/educator|44303
+2463|33|M|executive/managerial|33916
+2464|24|F|college/grad student|44106
+2465|53|M|doctor/health care|44333
+2466|33|M|scientist|94303
+2467|18|M|K-12 student|44224
+2468|53|M|academic/educator|44240
+2469|33|M|college/grad student|90048
+2470|40|M|tradesman/craftsman|52001
+2471|53|M|retired|98683
+2472|33|M|tradesman/craftsman|37922
+2473|33|M|programmer|98105
+2474|33|M|programmer|83815
+2475|33|F|tradesman/craftsman|98115
+2476|53|M|programmer|78703
+2477|48|M|other|42420
+2478|53|M|academic/educator|37922
+2479|33|F|academic/educator|23454
+2480|24|F|writer|94410
+2481|40|M|sales/marketing|03054
+2482|53|F|clerical/admin|37772
+2483|60|M|retired|90503
+2484|48|M|customer service|31901
+2485|40|M|sales/marketing|95746
+2486|24|M|programmer|98105
+2487|48|M|executive/managerial|55438
+2488|48|F|artist|31804
+2489|40|F|homemaker|37843
+2490|33|M|programmer|94703
+2491|40|M|executive/managerial|22904
+2492|48|F|artist|37924
+2493|48|M|artist|90631
+2494|24|M|college/grad student|52003
+2495|24|F|college/grad student|56401
+2496|53|M|academic/educator|37932
+2497|53|F|sales/marketing|37922
+2498|60|M|tradesman/craftsman|70817
+2499|53|M|other|36109
+2500|60|M|academic/educator|29672
+2501|33|M|scientist|37923
+2502|60|M|retired|49423
+2503|40|M|technician/engineer|19360
+2504|33|M|executive/managerial|98115
+2505|33|M|executive/managerial|55405
+2506|33|F|sales/marketing|98225
+2507|33|M|college/grad student|94107
+2508|40|F|clerical/admin|77429
+2509|33|M|customer service|36109
+2510|33|M|executive/managerial|37930
+2511|33|M|executive/managerial|15209
+2512|48|F|sales/marketing|36109
+2513|60|M|academic/educator|37922
+2514|60|M|sales/marketing|37922
+2515|48|M|programmer|37914
+2516|48|F|doctor/health care|37909
+2517|40|F|homemaker|53806
+2518|33|M|executive/managerial|11793
+2519|48|F|artist|14850
+2520|60|F|artist|95448
+2521|40|M|technician/engineer|49424
+2522|24|M|lawyer|60614
+2523|33|M|technician/engineer|49423
+2524|60|F|homemaker|38558
+2525|40|F|academic/educator|37922
+2526|60|M|retired|37923
+2527|40|M|scientist|36109
+2528|60|M|other|37922
+2529|40|F|homemaker|95903
+2530|24|M|other|42420
+2531|48|F|executive/managerial|52003
+2532|60|F|retired|37917
+2533|33|F|clerical/admin|49423
+2534|53|F|doctor/health care|37922
+2535|60|F|artist|03431
+2536|60|M|retired|37830
+2537|40|M|lawyer|37620
+2538|60|M|retired|37923
+2539|40|M|executive/managerial|32444
+2540|48|F|doctor/health care|42420
+2541|40|F|customer service|49424
+2542|48|F|retired|37922
+2543|40|F|other|42420
+2544|48|M|academic/educator|52001
+2545|60|M|retired|37830
+2546|60|F|retired|37931
+2547|40|F|other|37920
+2548|40|F|doctor/health care|37919
+2549|60|M|retired|37938
+2550|53|M|executive/managerial|37931
+2551|33|M|programmer|98133
+2552|33|F|homemaker|29369
+2553|33|M|executive/managerial|29369
+2554|33|M|academic/educator|97405
+2555|60|M|executive/managerial|10522
+2556|33|M|college/grad student|02430
+2557|24|F|unemployed|02452
+2558|60|M|technician/engineer|53061
+2559|24|M|K-12 student|53207
+2560|48|F|doctor/health care|84318
+2561|33|M|scientist|06460
+2562|24|M|other|98021
+2563|48|M|retired|53132
+2564|40|F|writer|43230
+2565|40|M|customer service|34786
+2566|40|M|technician/engineer|94022
+2567|33|M|other|06451
+2568|33|M|technician/engineer|31311
+2569|48|M|other|45248
+2570|60|F|sales/marketing|95005
+2571|40|M|technician/engineer|20151
+2572|40|M|sales/marketing|75005
+2573|48|M|self-employed|94536
+2574|53|M|doctor/health care|06511
+2575|40|M|executive/managerial|76248
+2576|24|M|technician/engineer|97030
+2577|33|M|executive/managerial|77099
+2578|53|M|executive/managerial|94107
+2579|40|M|scientist|91411
+2580|48|F|academic/educator|12538
+2581|33|M|lawyer|60611
+2582|33|F|academic/educator|97201
+2583|40|M|executive/managerial|19610
+2584|60|F|academic/educator|94563
+2585|48|M|scientist|64081-8102
+2586|33|M|writer|46802
+2587|40|M|executive/managerial|55124
+2588|60|F|retired|78737
+2589|33|M|other|19004
+2590|24|M|college/grad student|94044
+2591|24|M|academic/educator|50310
+2592|53|M|executive/managerial|80004-4448
+2593|60|M|self-employed|95816
+2594|40|M|executive/managerial|31047
+2595|24|M|college/grad student|15213
+2596|53|M|executive/managerial|48152
+2597|53|F|other|95616
+2598|33|M|technician/engineer|20866
+2599|33|M|programmer|53154
+2600|33|M|sales/marketing|19312
+2601|40|M|self-employed|27613
+2602|48|M|programmer|92104
+2603|33|M|technician/engineer|19126
+2604|33|M|other|45459
+2605|40|M|executive/managerial|75013
+2606|53|M|executive/managerial|34285
+2607|60|F|other|48178
+2608|33|F|academic/educator|10025
+2609|53|F|programmer|55391
+2610|48|M|executive/managerial|48322
+2611|33|M|clerical/admin|07719
+2612|48|F|clerical/admin|94560
+2613|40|M|academic/educator|92120
+2614|33|M|executive/managerial|15205
+2615|33|M|executive/managerial|21029
+2616|40|M|executive/managerial|02657
+2617|48|F|scientist|60081
+2618|24|F|college/grad student|53538
+2619|40|M|programmer|95677
+2620|24|M|college/grad student|47306
+2621|24|M|other|46304
+2622|40|F|doctor/health care|27516
+2623|60|M|academic/educator|30345
+2624|40|F|other|44313
+2625|40|M|executive/managerial|61910
+2626|60|M|academic/educator|04056
+2627|33|M|academic/educator|06877
+2628|33|F|artist|11217
+2629|33|M|lawyer|15237
+2630|24|F|customer service|78704
+2631|53|F|academic/educator|14850
+2632|60|M|other|43528
+2633|40|F|homemaker|07728
+2634|60|M|academic/educator|15701
+2635|40|M|other|06403
+2636|24|M|programmer|78750
+2637|40|F|writer|44303
+2638|33|M|sales/marketing|06405
+2639|33|F|doctor/health care|80236
+2640|40|M|programmer|78230
+2641|33|M|doctor/health care|19428
+2642|33|M|other|33073
+2643|48|M|technician/engineer|99005
+2644|24|M|scientist|45215
+2645|33|M|executive/managerial|60657
+2646|48|M|technician/engineer|18049
+2647|40|F|lawyer|15116
+2648|33|M|technician/engineer|27707
+2649|33|M|self-employed|80126
+2650|48|M|executive/managerial|75080
+2651|60|M|sales/marketing|11779
+2652|40|M|writer|84010
+2653|33|M|executive/managerial|94109
+2654|40|F|homemaker|48336
+2655|40|M|executive/managerial|66224
+2656|60|M|retired|32837
+2657|18|F|K-12 student|47403
+2658|33|M|executive/managerial|60115
+2659|40|M|sales/marketing|01060
+2660|60|M|technician/engineer|28704
+2661|60|M|retired|19312
+2662|33|M|technician/engineer|02021
+2663|33|F|college/grad student|02215
+2664|40|M|executive/managerial|52402
+2665|40|M|lawyer|98443
+2666|48|M|self-employed|63128
+2667|40|F|doctor/health care|08043
+2668|33|F|college/grad student|94110
+2669|48|M|other|24541
+2670|40|M|doctor/health care|94598
+2671|40|F|programmer|54220
+2672|40|M|executive/managerial|04096
+2673|40|M|executive/managerial|77040
+2674|33|M|college/grad student|94110
+2675|40|M|tradesman/craftsman|98664
+2676|60|M|writer|78731
+2677|40|F|executive/managerial|66204
+2678|33|M|doctor/health care|49707
+2679|24|F|college/grad student|02143
+2680|33|M|programmer|01864
+2681|33|F|college/grad student|48823
+2682|24|M|college/grad student|43210
+2683|40|M|executive/managerial|60188
+2684|24|F|other|19143
+2685|48|M|executive/managerial|02116
+2686|33|M|other|85283
+2687|18|M|K-12 student|08805
+2688|33|M|technician/engineer|54915
+2689|33|M|programmer|27511
+2690|33|M|executive/managerial|24210
+2691|24|M|college/grad student|06459
+2692|24|F|college/grad student|14620
+2693|60|M|retired|72949
+2694|24|M|college/grad student|90024
+2695|40|M|lawyer|46033
+2696|33|M|executive/managerial|24210
+2697|53|F|technician/engineer|87031
+2698|33|F|artist|10028
+2699|60|F|retired|74128
+2700|33|M|executive/managerial|30117
+2701|48|M|academic/educator|60115
+2702|48|M|doctor/health care|65201
+2703|40|M|lawyer|52803
+2704|60|M|retired|72764
+2705|33|M|academic/educator|27713
+2706|33|F|academic/educator|27713
+2707|60|M|retired|24060
+2708|33|M|executive/managerial|44115
+2709|33|F|other|60660
+2710|40|M|technician/engineer|94303
+2711|33|F|college/grad student|01075
+2712|24|F|unemployed|33953
+2713|33|M|executive/managerial|96811
+2714|24|M|college/grad student|96815
+2715|53|F|college/grad student|96822
+2716|53|F|college/grad student|96825
+2717|33|M|college/grad student|96826
+2718|33|F|college/grad student|96817
+2719|33|M|programmer|98100
+2720|40|M|other|20795
+2721|48|M|sales/marketing|19382
+2722|40|M|executive/managerial|22043
+2723|33|F|homemaker|28147
+2724|48|F|artist|27514
+2725|40|M|executive/managerial|30071
+2726|48|M|lawyer|02155
+2727|33|M|lawyer|60603
+2728|40|M|programmer|27614
+2729|53|M|executive/managerial|17402
+2730|40|M|lawyer|48640
+2731|40|M|executive/managerial|11050
+2732|48|M|technician/engineer|92805
+2733|48|M|technician/engineer|94002
+2734|24|F|college/grad student|02912
+2735|33|M|executive/managerial|22903
+2736|48|M|programmer|80303
+2737|33|M|clerical/admin|50311
+2738|53|F|artist|22181
+2739|40|F|executive/managerial|92316
+2740|48|M|technician/engineer|22181
+2741|33|M|sales/marketing|60614
+2742|33|M|technician/engineer|36092
+2743|33|M|sales/marketing|72601
+2744|24|M|technician/engineer|53818
+2745|40|F|academic/educator|30345
+2746|53|M|sales/marketing|50265-2850
+2747|24|F|college/grad student|90025
+2748|33|M|college/grad student|85719
+2749|33|M|programmer|10025
+2750|33|F|scientist|91360
+2751|33|F|self-employed|28120
+2752|33|M|scientist|77006
+2753|53|F|writer|27516
+2754|53|M|programmer|60148
+2755|40|M|executive/managerial|29631
+2756|24|M|college/grad student|97331
+2757|33|M|artist|10023
+2758|60|M|farmer|12436
+2759|33|M|executive/managerial|36102
+2760|60|M|other|01886
+2761|40|M|doctor/health care|80917
+2762|53|M|self-employed|63131
+2763|24|F|college/grad student|48104
+2764|33|M|executive/managerial|91403
+2765|53|M|executive/managerial|02420
+2766|48|M|executive/managerial|55016
+2767|33|M|other|99163
+2768|33|M|technician/engineer|90210
+2769|33|M|executive/managerial|20170
+2770|40|M|academic/educator|14260
+2771|24|M|academic/educator|92037
+2772|40|M|technician/engineer|10025
+2773|40|M|artist|78766
+2774|33|M|academic/educator|92103
+2775|24|F|college/grad student|90038
+2776|33|M|sales/marketing|22205
+2777|24|M|college/grad student|95326
+2778|60|M|retired|94025
+2779|40|M|executive/managerial|10040
+2780|33|M|technician/engineer|94133
+2781|40|M|college/grad student|45205
+2782|24|F|college/grad student|48858
+2783|48|M|technician/engineer|78750
+2784|53|M|writer|20007
+2785|60|M|retired|29928
+2786|33|M|college/grad student|60201
+2787|33|M|college/grad student|60614
+2788|60|M|academic/educator|90049
+2789|24|M|college/grad student|90025
+2790|33|M|writer|85013
+2791|60|M|executive/managerial|10023
+2792|24|M|college/grad student|02452
+2793|40|M|executive/managerial|70116
+2794|33|M|artist|20036
+2795|53|M|retired|33710
+2796|33|M|sales/marketing|92104
+2797|33|F|executive/managerial|94043
+2798|40|M|writer|10038
+2799|24|M|other|55404
+2800|24|F|college/grad student|73070
+2801|33|F|clerical/admin|12866
+2802|40|M|writer|10036
+2803|33|M|executive/managerial|94022
+2804|40|F|other|46234
+2805|60|M|unemployed|06040
+2806|18|M|K-12 student|15208
+2807|40|F|lawyer|22043
+2808|60|M|self-employed|60610
+2809|33|M|executive/managerial|10016
+2810|18|F|K-12 student|64093
+2811|33|M|unemployed|94122
+2812|33|M|technician/engineer|60607
+2813|33|M|writer|55406
+2814|40|M|executive/managerial|02127
+2815|40|M|technician/engineer|60477
+2816|33|M|executive/managerial|60015
+2817|40|M|programmer|53130
+2818|33|M|programmer|55106
+2819|48|M|sales/marketing|44122
+2820|40|F|other|02138
+2821|24|M|writer|10036
+2822|53|M|executive/managerial|10003
+2823|33|M|college/grad student|02452
+2824|24|M|college/grad student|02111
+2825|33|F|writer|94014
+2826|40|M|programmer|10011
+2827|33|M|technician/engineer|94063
+2828|24|M|college/grad student|02454
+2829|48|M|writer|10013
+2830|40|M|executive/managerial|94506
+2831|33|M|other|32225
+2832|33|M|technician/engineer|20036
+2833|33|M|scientist|85003
+2834|40|M|academic/educator|33304
+2835|40|M|writer|60622
+2836|33|M|programmer|07974
+2837|24|M|other|49506
+2838|24|M|academic/educator|95864
+2839|33|M|technician/engineer|10003
+2840|33|M|other|60660
+2841|53|M|programmer|98056
+2842|40|M|technician/engineer|30145
+2843|33|F|college/grad student|78705
+2844|33|M|writer|87103
+2845|33|M|college/grad student|74074
+2846|24|F|college/grad student|91604
+2847|24|M|college/grad student|10027
+2848|33|M|other|47401
+2849|48|M|lawyer|94114
+2850|24|M|writer|94608
+2851|33|F|executive/managerial|94107
+2852|33|M|programmer|98037
+2853|18|M|academic/educator|444555
+2854|24|F|college/grad student|64151
+2855|33|M|college/grad student|94102
+2856|40|M|lawyer|22030
+2857|33|M|other|10469
+2858|18|F|K-12 student|72601
+2859|24|M|academic/educator|95814
+2860|40|M|technician/engineer|20009
+2861|33|M|scientist|06510
+2862|48|M|executive/managerial|55066
+2863|33|F|artist|27705
+2864|40|F|clerical/admin|11725
+2865|33|F|doctor/health care|21014
+2866|33|M|executive/managerial|53717
+2867|48|M|technician/engineer|15204
+2868|40|M|programmer|94025
+2869|53|M|technician/engineer|07650
+2870|53|M|tradesman/craftsman|95472
+2871|33|F|sales/marketing|98110
+2872|33|M|writer|94014
+2873|24|F|college/grad student|64093
+2874|40|F|writer|20036
+2875|33|M|artist|10013
+2876|33|M|technician/engineer|02149
+2877|40|M|academic/educator|80687
+2878|53|F|writer|88005
+2879|24|M|college/grad student|60062
+2880|24|M|programmer|55405
+2881|33|F|programmer|77019
+2882|24|M|writer|78759
+2883|24|M|writer|30101
+2884|53|F|clerical/admin|53222
+2885|24|F|academic/educator|80302
+2886|24|M|college/grad student|60073
+2887|33|M|clerical/admin|66205
+2888|33|M|sales/marketing|55438
+2889|40|M|clerical/admin|55104
+2890|40|M|executive/managerial|90069
+2891|24|F|college/grad student|66044
+2892|33|M|college/grad student|84064
+2893|33|M|academic/educator|94025
+2894|24|M|college/grad student|44130
+2895|33|M|lawyer|07039
+2896|24|M|sales/marketing|60073
+2897|33|M|customer service|97405
+2898|24|M|college/grad student|02453
+2899|40|M|sales/marketing|94133
+2900|24|M|programmer|95120
+2901|33|M|technician/engineer|78749
+2902|33|M|programmer|98007
+2903|33|M|self-employed|20850
+2904|33|M|college/grad student|16802
+2905|40|M|technician/engineer|55407
+2906|40|M|unemployed|55421
+2907|40|F|customer service|12345
+2908|24|M|artist|74403
+2909|33|M|executive/managerial|43228
+2910|18|M|unemployed|75602
+2911|33|F|college/grad student|55455
+2912|24|F|college/grad student|48104
+2913|40|F|writer|98119
+2914|33|M|college/grad student|92614
+2915|33|M|executive/managerial|23423
+2916|48|M|artist|98011
+2917|33|M|other|60201
+2918|33|M|programmer|98112
+2919|24|M|technician/engineer|88076
+2920|33|M|artist|55116
+2921|53|M|academic/educator|53221
+2922|33|M|technician/engineer|52402
+2923|40|M|programmer|44256
+2924|24|F|college/grad student|94121
+2925|33|F|college/grad student|23454
+2926|24|F|artist|55118
+2927|33|M|programmer|24060
+2928|33|M|artist|90068
+2929|24|M|artist|60614
+2930|53|M|technician/engineer|45420
+2931|24|M|college/grad student|16803
+2932|33|M|programmer|55346
+2933|40|M|lawyer|32082
+2934|40|F|writer|91324
+2935|33|M|other|55126
+2936|24|F|college/grad student|94122
+2937|24|F|college/grad student|48103
+2938|33|F|other|55345
+2939|33|F|scientist|94901
+2940|33|M|other|02143
+2941|40|M|programmer|98033
+2942|53|F|academic/educator|93103
+2943|40|M|programmer|95864
+2944|24|F|college/grad student|48104
+2945|40|F|technician/engineer|89507
+2946|40|M|self-employed|92630
+2947|33|F|other|02138
+2948|24|M|sales/marketing|48185
+2949|33|M|technician/engineer|98033
+2950|24|M|other|72761
+2951|40|F|sales/marketing|94303
+2952|33|M|college/grad student|06511
+2953|33|M|writer|23225
+2954|24|M|artist|11435
+2955|40|M|sales/marketing|92025
+2956|33|M|programmer|50265
+2957|24|M|college/grad student|48104
+2958|33|M|executive/managerial|91911
+2959|40|M|technician/engineer|06074
+2960|24|M|college/grad student|48104
+2961|53|M|technician/engineer|91977
+2962|40|M|clerical/admin|94109
+2963|24|F|college/grad student|48104
+2964|33|M|technician/engineer|07030
+2965|40|F|college/grad student|48103
+2966|33|F|college/grad student|48104
+2967|33|M|other|94110
+2968|24|F|other|48104
+2969|33|M|executive/managerial|06851
+2970|24|M|college/grad student|48104
+2971|33|M|college/grad student|48104
+2972|33|M|college/grad student|97330
+2973|24|F|college/grad student|48108
+2974|24|M|college/grad student|48105
+2975|40|M|lawyer|20879
+2976|24|M|writer|86001
+2977|24|F|college/grad student|48104
+2978|40|M|writer|45236
+2979|40|M|artist|45243
+2980|48|M|executive/managerial|91766
+2981|48|M|doctor/health care|52556
+2982|33|M|college/grad student|54902
+2983|24|M|college/grad student|97850
+2984|33|M|college/grad student|48105
+2985|24|M|college/grad student|97333
+2986|33|M|college/grad student|24060
+2987|24|M|college/grad student|15213
+2988|24|F|doctor/health care|92122
+2989|40|M|programmer|97330
+2990|40|M|programmer|45243
+2991|53|M|academic/educator|48105
+2992|24|M|college/grad student|14853
+2993|24|M|unemployed|12133
+2994|40|M|customer service|95008
+2995|33|M|scientist|97333
+2996|24|M|other|63011
+2997|40|F|self-employed|45238
+2998|33|F|academic/educator|45241
+2999|33|M|executive/managerial|33813
+3000|33|M|college/grad student|55408
+3001|24|M|college/grad student|94704
+3002|48|M|lawyer|90028
+3003|24|M|scientist|94606
+3004|24|F|college/grad student|02138
+3005|33|M|technician/engineer|94133
+3006|24|M|college/grad student|45750
+3007|40|M|other|33174
+3008|24|M|college/grad student|94403
+3009|40|F|clerical/admin|55112
+3010|33|M|programmer|78759
+3011|33|M|academic/educator|10003
+3012|33|M|programmer|78660
+3013|48|M|technician/engineer|97124
+3014|40|M|executive/managerial|06430
+3015|60|M|doctor/health care|62707
+3016|24|M|programmer|78759
+3017|40|F|homemaker|85255
+3018|40|M|other|45242
+3019|53|M|programmer|97330
+3020|40|F|executive/managerial|60302
+3021|48|F|scientist|78750
+3022|33|M|technician/engineer|78730
+3023|33|F|executive/managerial|92108
+3024|40|M|technician/engineer|14302
+3025|40|F|other|90004
+3026|24|F|college/grad student|45750
+3027|24|M|college/grad student|85719
+3028|18|M|K-12 student|12701
+3029|24|M|college/grad student|92037
+3030|40|M|academic/educator|48103
+3031|24|M|college/grad student|48135
+3032|33|M|other|47303
+3033|24|M|college/grad student|02906
+3034|24|F|academic/educator|33143
+3035|33|F|executive/managerial|90230
+3036|60|M|retired|14843
+3037|33|F|artist|97333
+3038|40|F|artist|97401
+3039|53|F|clerical/admin|33611
+3040|33|M|farmer|22046
+3041|33|M|college/grad student|97333
+3042|60|M|academic/educator|49042
+3043|24|M|artist|90069
+3044|40|M|self-employed|77301
+3045|48|M|academic/educator|90631
+3046|18|M|college/grad student|46311
+3047|33|F|college/grad student|94117
+3048|24|M|artist|02066
+3049|53|F|other|02421
+3050|40|M|programmer|94025
+3051|24|M|technician/engineer|94063
+3052|40|M|programmer|10036
+3053|33|F|clerical/admin|55102
+3054|24|M|college/grad student|44056
+3055|33|F|clerical/admin|98501
+3056|33|M|tradesman/craftsman|10309
+3057|33|F|programmer|55438
+3058|24|M|programmer|55123
+3059|40|M|other|75023
+3060|40|F|academic/educator|92705
+3061|48|M|artist|29440
+3062|24|M|college/grad student|03106
+3063|24|M|college/grad student|03106
+3064|40|M|technician/engineer|90026
+3065|24|F|college/grad student|48135
+3066|24|M|college/grad student|61801
+3067|33|F|other|02148
+3068|40|F|homemaker|66204
+3069|24|M|college/grad student|97470
+3070|24|F|college/grad student|10708
+3071|33|M|academic/educator|02115
+3072|53|M|academic/educator|55126
+3073|33|M|other|90028
+3074|33|M|other|23451
+3075|33|F|lawyer|06107
+3076|40|M|technician/engineer|30024
+3077|24|M|college/grad student|43202
+3078|40|F|academic/educator|02155
+3079|33|F|academic/educator|55410
+3080|33|M|writer|55410
+3081|33|M|executive/managerial|77252
+3082|40|F|doctor/health care|45459
+3083|53|F|other|97403
+3084|33|M|self-employed|01581
+3085|33|M|college/grad student|78703
+3086|24|M|programmer|98105
+3087|18|F|academic/educator|90802
+3088|33|F|college/grad student|87110
+3089|48|M|self-employed|93448
+3090|33|M|artist|90004
+3091|33|F|other|19107
+3092|40|M|scientist|98108
+3093|48|F|writer|89134
+3094|40|M|other|30030
+3095|33|F|clerical/admin|06810
+3096|48|F|clerical/admin|38028
+3097|33|F|customer service|10021
+3098|33|M|college/grad student|55112
+3099|33|M|technician/engineer|20910
+3100|33|F|doctor/health care|91423
+3101|24|M|scientist|91101
+3102|33|M|programmer|34170
+3103|33|M|writer|64112
+3104|24|M|technician/engineer|02118
+3105|40|M|programmer|98166
+3106|33|M|other|33142
+3107|33|M|technician/engineer|92656
+3108|53|M|doctor/health care|22039
+3109|33|F|lawyer|43201
+3110|33|M|other|10002
+3111|24|M|college/grad student|56520
+3112|24|M|programmer|98133
+3113|33|M|K-12 student|55414
+3114|24|M|customer service|65211
+3115|40|M|technician/engineer|48323
+3116|33|M|programmer|98034
+3117|40|M|other|83704
+3118|33|M|other|77025
+3119|48|M|academic/educator|37027
+3120|24|M|college/grad student|55414
+3121|33|M|artist|32118
+3122|33|F|executive/managerial|22209
+3123|33|M|artist|90401
+3124|33|M|programmer|30337
+3125|33|M|executive/managerial|10025
+3126|33|M|artist|32118
+3127|33|F|other|10003
+3128|24|M|artist|10012
+3129|33|M|executive/managerial|21117
+3130|33|M|executive/managerial|32835
+3131|33|F|artist|90036
+3132|40|M|executive/managerial|98467
+3133|24|M|college/grad student|33720
+3134|24|M|college/grad student|55455
+3135|33|M|scientist|12345
+3136|33|F|college/grad student|72801
+3137|33|M|lawyer|11217
+3138|40|M|technician/engineer|46229
+3139|60|M|retired|89128
+3140|33|F|college/grad student|78728
+3141|33|M|sales/marketing|81679
+3142|33|M|writer|85719
+3143|53|F|self-employed|90272
+3144|33|F|executive/managerial|85260
+3145|24|M|college/grad student|02138
+3146|33|M|other|31605
+3147|33|M|sales/marketing|49355
+3148|24|M|writer|72837
+3149|24|M|college/grad student|92602
+3150|33|F|clerical/admin|92831
+3151|33|F|other|92870
+3152|24|M|college/grad student|61801
+3153|33|F|college/grad student|73160
+3154|33|F|college/grad student|95616
+3155|33|M|executive/managerial|55112
+3156|40|M|executive/managerial|07663
+3157|33|M|programmer|92880
+3158|33|M|scientist|15217
+3159|33|F|scientist|15213
+3160|33|M|technician/engineer|77521
+3161|33|M|executive/managerial|55408
+3162|33|M|academic/educator|08854-3115
+3163|24|M|scientist|95616
+3164|24|M|programmer|55118
+3165|40|M|executive/managerial|60611
+3166|24|M|college/grad student|32607
+3167|33|M|artist|77056
+3168|40|F|customer service|94546
+3169|53|M|other|23518
+3170|33|M|other|08461
+3171|53|F|clerical/admin|10128
+3172|24|M|programmer|55408
+3173|33|M|programmer|55317
+3174|24|F|sales/marketing|10018
+3175|40|M|self-employed|10014
+3176|33|M|technician/engineer|95129
+3177|33|F|doctor/health care|94132
+3178|40|F|customer service|44313
+3179|24|F|writer|02125
+3180|33|M|sales/marketing|07430
+3181|33|M|programmer|07436
+3182|33|M|programmer|12866
+3183|53|M|executive/managerial|60510
+3184|33|F|tradesman/craftsman|21214
+3185|24|M|executive/managerial|55337
+3186|53|M|academic/educator|92122
+3187|40|M|programmer|32935
+3188|60|M|retired|55344
+3189|33|M|self-employed|90292
+3190|18|M|technician/engineer|97062
+3191|33|M|programmer|27707
+3192|24|M|college/grad student|02912
+3193|33|M|other|92019
+3194|33|M|scientist|92648
+3195|24|M|college/grad student|80228
+3196|24|F|college/grad student|45219
+3197|24|F|sales/marketing|94110
+3198|33|M|programmer|94110
+3199|24|M|other|57106
+3200|33|F|academic/educator|98144
+3201|48|M|executive/managerial|35216
+3202|24|F|college/grad student|24060
+3203|40|M|other|90254
+3204|48|M|self-employed|80304
+3205|40|F|self-employed|80304
+3206|24|M|writer|44089
+3207|40|M|executive/managerial|60610
+3208|33|M|sales/marketing|30342
+3209|33|M|other|21555
+3210|48|F|other|02115
+3211|53|M|self-employed|20015
+3212|33|F|technician/engineer|11215
+3213|33|F|academic/educator|83705
+3214|60|F|executive/managerial|10019
+3215|53|F|retired|55447
+3216|40|M|academic/educator|54481
+3217|40|F|other|92630
+3218|60|M|doctor/health care|48070
+3219|24|F|college/grad student|54302
+3220|40|M|executive/managerial|54016
+3221|33|M|other|19106
+3222|40|M|executive/managerial|10583
+3223|33|M|writer|10014
+3224|33|F|sales/marketing|93428
+3225|24|M|other|15237
+3226|40|M|college/grad student|10027
+3227|33|F|sales/marketing|60657
+3228|33|M|sales/marketing|05448
+3229|60|F|academic/educator|93105
+3230|40|M|self-employed|92630
+3231|33|M|executive/managerial|55112
+3232|40|M|programmer|92821
+3233|53|M|artist|60660
+3234|18|F|other|90012
+3235|24|M|college/grad student|87801
+3236|24|M|scientist|87111
+3237|40|M|executive/managerial|05401
+3238|40|M|executive/managerial|10069
+3239|33|F|programmer|07730
+3240|24|M|college/grad student|55403
+3241|53|F|other|20004
+3242|53|M|retired|94089
+3243|33|M|programmer|98117
+3244|24|F|college/grad student|92647
+3245|24|M|artist|08820
+3246|40|F|academic/educator|85258
+3247|40|M|scientist|92649
+3248|33|F|executive/managerial|94115
+3249|33|F|college/grad student|92648
+3250|33|M|college/grad student|90069
+3251|40|M|technician/engineer|15330
+3252|53|M|other|76067
+3253|40|F|college/grad student|26505
+3254|40|F|doctor/health care|95843
+3255|33|F|scientist|91902
+3256|33|M|scientist|92111
+3257|33|M|sales/marketing|94105
+3258|48|M|doctor/health care|02339
+3259|24|F|college/grad student|95616
+3260|33|M|college/grad student|44514
+3261|48|M|writer|87505
+3262|33|M|sales/marketing|55391
+3263|53|M|lawyer|66048
+3264|33|F|academic/educator|94536
+3265|33|M|scientist|53704
+3266|33|F|college/grad student|95616
+3267|33|M|college/grad student|78705
+3268|33|M|programmer|04106
+3269|24|F|writer|45220
+3270|24|M|lawyer|45220
+3271|40|F|other|92704
+3272|40|M|other|08330
+3273|40|M|executive/managerial|11201
+3274|33|M|writer|02062
+3275|40|M|executive/managerial|10028
+3276|33|M|writer|55391
+3277|33|M|technician/engineer|94107
+3278|40|M|executive/managerial|10014
+3279|48|M|scientist|92880
+3280|33|M|executive/managerial|33486
+3281|33|M|technician/engineer|79705
+3282|48|M|clerical/admin|20009
+3283|40|M|self-employed|66208
+3284|33|M|doctor/health care|48197
+3285|33|M|college/grad student|44706
+3286|40|F|executive/managerial|80013
+3287|60|M|retired|27514-3540
+3288|33|M|sales/marketing|94133
+3289|48|M|doctor/health care|95695
+3290|33|M|sales/marketing|90292
+3291|33|F|executive/managerial|27516
+3292|53|F|doctor/health care|79410
+3293|48|M|sales/marketing|37343
+3294|24|M|college/grad student|78749
+3295|24|M|tradesman/craftsman|92123
+3296|24|M|sales/marketing|90292
+3297|24|M|college/grad student|91325
+3298|18|M|K-12 student|20876
+3299|33|F|college/grad student|19119
+3300|40|M|customer service|19119
+3301|33|F|artist|85719
+3302|33|M|technician/engineer|74074
+3303|60|M|technician/engineer|06405
+3304|48|F|customer service|92649
+3305|60|M|writer|94708
+3306|48|M|sales/marketing|60045
+3307|53|M|doctor/health care|90640
+3308|24|F|writer|15701-1348
+3309|33|M|technician/engineer|20707
+3310|48|M|sales/marketing|12561
+3311|33|M|college/grad student|90039
+3312|24|F|college/grad student|90039
+3313|40|M|writer|90292
+3314|33|M|executive/managerial|06516
+3315|33|M|programmer|78731
+3316|18|M|unemployed|92557
+3317|33|M|college/grad student|78705
+3318|60|M|retired|30047
+3319|60|F|retired|92308
+3320|33|M|academic/educator|56082
+3321|40|M|academic/educator|95380
+3322|24|F|college/grad student|68516
+3323|40|M|sales/marketing|11784
+3324|40|M|technician/engineer|48083
+3325|40|F|sales/marketing|39180
+3326|48|M|executive/managerial|64138
+3327|24|M|programmer|91423
+3328|60|M|unemployed|91790-1161
+3329|53|M|tradesman/craftsman|72601
+3330|40|F|academic/educator|47933
+3331|33|F|executive/managerial|06854
+3332|33|M|executive/managerial|06854
+3333|24|M|self-employed|29404-2205
+3334|40|M|other|09142
+3335|33|M|other|10023
+3336|40|M|technician/engineer|93436
+3337|33|M|college/grad student|97214
+3338|48|M|self-employed|08053
+3339|33|M|technician/engineer|44118
+3340|48|M|self-employed|48097
+3341|33|M|writer|91730
+3342|33|F|customer service|92705
+3343|24|F|college/grad student|79912
+3344|40|M|other|08902
+3345|33|M|executive/managerial|18655
+3346|40|M|executive/managerial|54016
+3347|40|F|executive/managerial|91362
+3348|48|M|self-employed|94546
+3349|24|F|college/grad student|92054
+3350|24|F|other|20815
+3351|24|F|customer service|92870
+3352|40|M|other|30533
+3353|40|M|technician/engineer|92688
+3354|33|M|executive/managerial|18615
+3355|33|M|academic/educator|400060
+3356|40|M|executive/managerial|95031
+3357|33|M|tradesman/craftsman|64055
+3358|33|F|academic/educator|91790
+3359|33|M|writer|22936
+3360|33|F|other|92646
+3361|33|M|college/grad student|91790
+3362|33|F|other|90212
+3363|40|F|homemaker|04046
+3364|60|M|retired|17033
+3365|53|M|technician/engineer|23059
+3366|40|M|sales/marketing|08750
+3367|53|M|self-employed|10025
+3368|33|M|sales/marketing|55435
+3369|48|M|tradesman/craftsman|14701
+3370|24|M|college/grad student|92833
+3371|33|M|artist|55405
+3372|60|M|retired|55118
+3373|24|M|self-employed|94709
+3374|40|M|customer service|64801
+3375|33|M|college/grad student|89193
+3376|40|M|self-employed|10803
+3377|33|M|technician/engineer|03570
+3378|24|M|college/grad student|48135
+3379|40|M|academic/educator|20037
+3380|53|M|other|20815
+3381|33|M|other|96671
+3382|18|F|K-12 student|55305
+3383|60|M|self-employed|03070
+3384|40|M|executive/managerial|91304
+3385|33|F|homemaker|32212
+3386|24|M|college/grad student|55414
+3387|24|M|academic/educator|94706
+3388|33|F|academic/educator|92646
+3389|24|M|other|13603
+3390|48|F|writer|02476
+3391|24|M|college/grad student|48135
+3392|53|M|doctor/health care|08108
+3393|40|M|programmer|60563
+3394|40|M|executive/managerial|90069
+3395|33|M|executive/managerial|02134
+3396|33|M|programmer|15217
+3397|33|M|customer service|55414
+3398|24|M|writer|30033
+3399|33|M|college/grad student|14623
+3400|33|M|sales/marketing|08742
+3401|40|M|executive/managerial|76109
+3402|40|M|writer|30306
+3403|40|M|customer service|48342
+3404|33|M|farmer|95380
+3405|40|M|sales/marketing|92084
+3406|33|F|executive/managerial|85214
+3407|48|F|customer service|60050
+3408|33|M|technician/engineer|14830
+3409|33|M|college/grad student|48127
+3410|40|M|academic/educator|20653
+3411|24|M|college/grad student|02139
+3412|33|M|tradesman/craftsman|85213
+3413|33|F|technician/engineer|92084
+3414|33|M|technician/engineer|75146
+3415|40|M|executive/managerial|80129
+3416|33|M|programmer|20850
+3417|24|F|artist|14616
+3418|24|F|clerical/admin|22305
+3419|48|M|academic/educator|16801
+3420|33|F|executive/managerial|48105
+3421|48|M|executive/managerial|94501
+3422|33|M|customer service|43221
+3423|33|M|executive/managerial|84088
+3424|33|M|doctor/health care|92111
+3425|24|M|writer|48135
+3426|33|M|writer|90046
+3427|33|M|sales/marketing|78267
+3428|48|M|academic/educator|47933
+3429|33|F|executive/managerial|94602
+3430|48|F|academic/educator|15208
+3431|48|F|doctor/health care|48867
+3432|33|M|programmer|27410
+3433|24|M|programmer|55113
+3434|24|M|college/grad student|48867
+3435|48|M|academic/educator|48867
+3436|40|M|other|98503
+3437|33|F|other|37203
+3438|33|F|other|78735
+3439|24|M|technician/engineer|76116
+3440|60|M|technician/engineer|32822
+3441|33|F|sales/marketing|94109
+3442|24|M|programmer|20878
+3443|40|F|technician/engineer|48219
+3444|53|M|sales/marketing|33401
+3445|40|F|writer|92009
+3446|33|M|executive/managerial|30620
+3447|33|M|programmer|94131
+3448|24|F|clerical/admin|60640
+3449|33|M|sales/marketing|02142
+3450|33|M|customer service|78251
+3451|33|F|lawyer|94117
+3452|33|M|sales/marketing|07702
+3453|40|M|executive/managerial|07981
+3454|24|M|other|92122
+3455|33|F|other|07701
+3456|33|M|technician/engineer|54401
+3457|33|M|writer|19083
+3458|48|M|other|02131
+3459|24|M|college/grad student|76266
+3460|18|M|college/grad student|10012
+3461|40|M|other|95409
+3462|33|F|college/grad student|73160
+3463|33|M|scientist|80301
+3464|33|F|sales/marketing|78251
+3465|33|M|sales/marketing|45383
+3466|33|M|sales/marketing|94306
+3467|33|M|sales/marketing|55421
+3468|33|M|writer|94546
+3469|48|M|technician/engineer|02176
+3470|40|M|technician/engineer|49887
+3471|24|M|college/grad student|80302
+3472|33|M|doctor/health care|33156
+3473|40|F|self-employed|02472
+3474|40|M|lawyer|10538
+3475|33|M|sales/marketing|33133
+3476|53|M|other|44126
+3477|53|F|academic/educator|10024
+3478|33|M|executive/managerial|10019
+3479|24|M|college/grad student|78626
+3480|33|M|other|59405
+3481|24|M|college/grad student|94122
+3482|53|M|technician/engineer|08043
+3483|48|F|executive/managerial|30260
+3484|24|M|college/grad student|28403
+3485|33|M|other|94121
+3486|24|F|other|98225
+3487|24|M|college/grad student|60611
+3488|48|M|technician/engineer|80228
+3489|24|M|college/grad student|60201
+3490|33|M|other|74136
+3491|33|M|self-employed|28542
+3492|40|M|executive/managerial|77005
+3493|33|M|technician/engineer|61350
+3494|33|M|academic/educator|28607
+3495|24|M|college/grad student|94608
+3496|40|M|customer service|92867
+3497|40|F|artist|94109
+3498|33|M|technician/engineer|28052
+3499|33|M|clerical/admin|77006
+3500|40|M|executive/managerial|20650
+3501|40|F|executive/managerial|30309
+3502|24|F|executive/managerial|80503
+3503|24|M|college/grad student|59715
+3504|24|M|executive/managerial|02215
+3505|33|F|scientist|55455
+3506|24|M|programmer|80503
+3507|33|M|other|02472
+3508|24|M|college/grad student|02151
+3509|24|M|college/grad student|02115
+3510|24|F|college/grad student|02142
+3511|53|M|other|88004
+3512|24|M|technician/engineer|02140
+3513|33|M|self-employed|01890
+3514|24|M|programmer|30318
+3515|40|M|clerical/admin|55042
+3516|24|M|college/grad student|42101
+3517|24|M|programmer|53713
+3518|24|F|executive/managerial|11215
+3519|33|F|sales/marketing|11215
+3520|33|M|other|40515
+3521|33|M|other|53213
+3522|24|M|other|97469
+3523|40|M|executive/managerial|53404
+3524|33|F|other|83355
+3525|24|F|college/grad student|02142
+3526|40|M|artist|62263-3004
+3527|33|M|other|53213
+3528|40|M|customer service|41144
+3529|48|F|academic/educator|97361
+3530|33|M|other|77058
+3531|33|F|lawyer|55409
+3532|40|F|sales/marketing|10028
+3533|33|M|artist|55344
+3534|40|M|technician/engineer|68506
+3535|48|M|tradesman/craftsman|77630
+3536|24|M|college/grad student|57103
+3537|18|M|K-12 student|97402
+3538|40|M|other|40504
+3539|33|F|college/grad student|77006
+3540|24|M|technician/engineer|57106
+3541|33|M|clerical/admin|02494
+3542|33|M|scientist|14803
+3543|33|M|technician/engineer|60659
+3544|33|F|college/grad student|92507
+3545|40|M|programmer|92507
+3546|33|M|writer|41706
+3547|40|M|self-employed|94108
+3548|48|M|executive/managerial|92965
+3549|40|F|executive/managerial|60137
+3550|33|M|customer service|55447
+3551|60|F|other|98374
+3552|40|F|artist|02879
+3553|40|M|self-employed|61600
+3554|33|M|scientist|15203
+3555|60|M|executive/managerial|55430
+3556|33|M|technician/engineer|03038
+3557|24|M|customer service|48185
+3558|24|M|technician/engineer|66044
+3559|24|M|college/grad student|11364
+3560|33|F|doctor/health care|74105
+3561|40|M|sales/marketing|63304
+3562|33|F|doctor/health care|32812
+3563|33|M|artist|33133
+3564|33|M|lawyer|02169
+3565|33|M|tradesman/craftsman|53572
+3566|48|M|other|53818
+3567|33|M|sales/marketing|54915
+3568|33|M|other|98503
+3569|24|F|artist|48823
+3570|40|M|programmer|19050
+3571|24|M|college/grad student|10044
+3572|40|M|lawyer|04287
+3573|18|M|K-12 student|48867
+3574|40|F|doctor/health care|33314
+3575|33|M|tradesman/craftsman|54915
+3576|53|M|executive/managerial|68046
+3577|60|F|other|00231
+3578|53|M|clerical/admin|96714
+3579|24|M|other|32219
+3580|24|F|clerical/admin|32219
+3581|24|M|academic/educator|57382
+3582|40|F|other|52405
+3583|33|F|homemaker|41075
+3584|24|M|other|76543
+3585|40|M|writer|60640
+3586|40|M|writer|60640
+3587|40|M|clerical/admin|93611
+3588|33|M|artist|90068
+3589|48|F|other|80010
+3590|24|F|scientist|02115
+3591|40|M|doctor/health care|96158
+3592|60|F|artist|99701
+3593|33|F|homemaker|53719
+3594|18|M|other|02322
+3595|33|M|other|85024
+3596|40|F|college/grad student|19104
+3597|33|M|technician/engineer|55446
+3598|60|M|academic/educator|90210
+3599|33|M|self-employed|97378
+3600|40|M|writer|94506
+3601|40|F|clerical/admin|95405
+3602|33|M|programmer|55443
+3603|40|F|executive/managerial|78704
+3604|18|F|K-12 student|02879
+3605|24|M|programmer|60640
+3606|33|F|scientist|02445
+3607|40|M|technician/engineer|32506
+3608|40|F|homemaker|02879
+3609|33|F|technician/engineer|48239
+3610|24|M|doctor/health care|30064
+3611|33|M|artist|84321
+3612|33|M|sales/marketing|29609
+3613|33|M|other|37205
+3614|33|M|other|45458
+3615|33|M|technician/engineer|76028
+3616|48|M|other|33759
+3617|40|M|executive/managerial|49034
+3618|60|M|technician/engineer|22657
+3619|53|M|self-employed|97116
+3620|33|M|executive/managerial|94117
+3621|24|M|college/grad student|33023
+3622|24|M|academic/educator|02446
+3623|40|M|lawyer|43209
+3624|33|M|programmer|60068
+3625|24|M|K-12 student|48439
+3626|33|M|technician/engineer|75075
+3627|40|F|academic/educator|85287
+3628|33|M|executive/managerial|78731
+3629|53|F|executive/managerial|10022
+3630|24|M|college/grad student|77005
+3631|24|M|college/grad student|77005
+3632|53|M|lawyer|33881
+3633|40|M|tradesman/craftsman|60441
+3634|53|M|academic/educator|88001
+3635|53|M|academic/educator|60062
+3636|33|M|other|06708
+3637|33|M|doctor/health care|94127
+3638|33|M|artist|90038
+3639|24|M|college/grad student|78250
+3640|40|M|executive/managerial|02370
+3641|33|M|other|92008
+3642|33|F|executive/managerial|98188
+3643|33|M|technician/engineer|22302
+3644|33|F|lawyer|53711
+3645|40|M|technician/engineer|97232
+3646|40|M|writer|98106
+3647|33|M|executive/managerial|80202
+3648|24|M|college/grad student|85210
+3649|33|F|other|94115
+3650|33|M|other|60611
+3651|33|M|sales/marketing|98103
+3652|33|M|programmer|94608
+3653|24|M|scientist|96661
+3654|33|M|technician/engineer|94901
+3655|33|F|executive/managerial|94121
+3656|48|F|customer service|34610
+3657|24|M|technician/engineer|95121
+3658|33|F|executive/managerial|07090
+3659|24|M|college/grad student|29649
+3660|40|M|executive/managerial|15137
+3661|40|M|programmer|08852
+3662|40|M|self-employed|08753
+3663|40|F|homemaker|17055
+3664|40|F|academic/educator|94043
+3665|33|M|other|95903
+3666|48|M|other|68144
+3667|18|F|K-12 student|10706
+3668|48|F|executive/managerial|33324
+3669|33|M|sales/marketing|60148
+3670|48|M|sales/marketing|55123
+3671|33|M|college/grad student|98102
+3672|40|M|customer service|08406
+3673|33|M|artist|10003
+3674|33|M|writer|29205
+3675|40|M|executive/managerial|06680
+3676|40|F|programmer|48109
+3677|33|F|programmer|06906
+3678|33|M|other|06880
+3679|33|M|college/grad student|68108
+3680|33|F|academic/educator|94939
+3681|33|M|executive/managerial|29662
+3682|53|F|academic/educator|10706
+3683|33|M|artist|30606
+3684|33|M|technician/engineer|83713
+3685|33|M|customer service|55100
+3686|33|M|executive/managerial|48070
+3687|53|F|academic/educator|62221
+3688|24|M|doctor/health care|21202
+3689|33|M|other|80906
+3690|24|M|other|63116
+3691|33|M|executive/managerial|21030
+3692|40|M|technician/engineer|89147
+3693|33|M|scientist|94062
+3694|33|M|programmer|28227
+3695|33|M|artist|98502
+3696|40|M|executive/managerial|19149
+3697|33|M|scientist|68516
+3698|33|M|executive/managerial|53202
+3699|60|F|clerical/admin|30127
+3700|33|M|sales/marketing|10021
+3701|40|M|academic/educator|92614
+3702|40|M|scientist|53095
+3703|24|M|programmer|97402
+3704|40|F|other|04255
+3705|48|M|executive/managerial|30076
+3706|33|M|programmer|46725
+3707|24|F|other|34744
+3708|60|M|executive/managerial|30097
+3709|33|M|programmer|89502
+3710|18|M|K-12 student|02818
+3711|40|M|other|32506
+3712|33|M|technician/engineer|60042
+3713|33|F|executive/managerial|22201
+3714|33|M|technician/engineer|92111
+3715|24|M|customer service|55428
+3716|24|M|programmer|36115
+3717|40|M|technician/engineer|94533
+3718|53|M|technician/engineer|07728
+3719|33|M|academic/educator|39759
+3720|48|M|executive/managerial|43065
+3721|33|M|scientist|94065
+3722|33|M|tradesman/craftsman|80538
+3723|33|M|sales/marketing|53048
+3724|40|M|doctor/health care|77083
+3725|24|M|college/grad student|32608
+3726|33|M|technician/engineer|92882
+3727|40|M|executive/managerial|74401
+3728|24|M|college/grad student|07030
+3729|24|M|college/grad student|20037
+3730|33|M|academic/educator|48911
+3731|33|M|technician/engineer|67443
+3732|33|M|technician/engineer|60153
+3733|24|M|college/grad student|02777
+3734|24|M|college/grad student|77840
+3735|33|M|other|10009
+3736|40|M|academic/educator|44242
+3737|33|M|sales/marketing|37127
+3738|48|M|executive/managerial|01904-1355
+3739|60|M|lawyer|48070
+3740|24|M|customer service|55116
+3741|33|M|other|96818
+3742|33|M|other|90266
+3743|40|F|executive/managerial|89128
+3744|33|M|other|60645
+3745|33|F|homemaker|49442
+3746|33|M|customer service|54703
+3747|48|M|retired|89109
+3748|24|M|college/grad student|02026
+3749|33|F|other|60664
+3750|24|F|college/grad student|94116
+3751|40|F|programmer|55555
+3752|24|F|academic/educator|86314
+3753|33|M|executive/managerial|42518
+3754|60|M|executive/managerial|94612
+3755|53|F|sales/marketing|08810
+3756|24|M|programmer|53188
+3757|33|M|executive/managerial|92612
+3758|40|F|customer service|02021
+3759|40|M|doctor/health care|54751
+3760|53|M|other|55128
+3761|33|M|technician/engineer|27613
+3762|53|M|doctor/health care|11746
+3763|33|M|artist|98502
+3764|33|M|academic/educator|06111
+3765|53|F|clerical/admin|34744
+3766|24|F|academic/educator|45458
+3767|33|M|other|94305
+3768|33|M|college/grad student|86314
+3769|33|M|scientist|02446
+3770|40|F|clerical/admin|50322
+3771|33|M|academic/educator|14982
+3772|40|M|technician/engineer|06074
+3773|40|M|doctor/health care|50265
+3774|33|M|other|52556
+3775|40|M|programmer|14619
+3776|33|F|college/grad student|50265
+3777|24|M|college/grad student|23112
+3778|33|M|other|61832
+3779|48|F|artist|98383
+3780|18|M|other|46979
+3781|60|F|lawyer|54401
+3782|33|F|other|94602
+3783|33|M|executive/managerial|97267
+3784|33|F|academic/educator|98027
+3785|33|F|writer|93401
+3786|33|F|other|94115
+3787|33|F|other|94703
+3788|24|F|other|94587
+3789|33|F|other|94110
+3790|33|F|technician/engineer|94618
+3791|53|M|tradesman/craftsman|60516
+3792|33|M|doctor/health care|68108
+3793|24|M|college/grad student|21093
+3794|24|F|college/grad student|53211
+3795|24|F|college/grad student|91405
+3796|48|M|sales/marketing|02021
+3797|33|M|executive/managerial|02420
+3798|33|M|executive/managerial|48326
+3799|24|M|other|17844
+3800|24|M|academic/educator|45458
+3801|24|M|programmer|36115
+3802|24|M|other|94520
+3803|40|F|homemaker|19006
+3804|33|M|doctor/health care|06511
+3805|40|F|academic/educator|89031
+3806|24|M|college/grad student|55104
+3807|40|F|unemployed|32095
+3808|33|M|executive/managerial|60010
+3809|40|M|doctor/health care|20650
+3810|53|M|executive/managerial|20016
+3811|33|M|scientist|98103
+3812|40|M|technician/engineer|78749
+3813|40|M|executive/managerial|80910
+3814|33|M|scientist|98102
+3815|33|M|technician/engineer|53406
+3816|33|F|clerical/admin|90020
+3817|40|M|clerical/admin|20122
+3818|48|M|technician/engineer|32837
+3819|33|M|programmer|36115
+3820|33|M|technician/engineer|90804
+3821|33|M|writer|44313
+3822|48|M|writer|98027
+3823|60|M|executive/managerial|93711
+3824|33|M|technician/engineer|32308
+3825|24|M|academic/educator|06279
+3826|33|M|academic/educator|48105
+3827|53|M|artist|87020
+3828|33|M|writer|92101
+3829|33|F|academic/educator|22307
+3830|24|M|college/grad student|60630
+3831|24|F|doctor/health care|84780
+3832|33|F|executive/managerial|43214
+3833|33|M|academic/educator|68516
+3834|24|M|artist|02322
+3835|33|M|executive/managerial|40515
+3836|53|F|farmer|84770
+3837|33|M|technician/engineer|28804
+3838|33|F|sales/marketing|10033
+3839|53|M|sales/marketing|02651
+3840|33|F|other|02176
+3841|48|M|tradesman/craftsman|26101
+3842|40|F|self-employed|92054
+3843|18|F|K-12 student|32043
+3844|24|M|college/grad student|73071
+3845|33|M|programmer|94065
+3846|40|M|other|33884
+3847|33|M|executive/managerial|12801
+3848|33|M|scientist|70809-2612
+3849|40|M|other|14086
+3850|24|M|clerical/admin|92278
+3851|33|M|programmer|60657
+3852|53|M|self-employed|60302
+3853|33|M|sales/marketing|92614
+3854|33|M|sales/marketing|30340
+3855|33|M|technician/engineer|20886
+3856|40|F|writer|93449
+3857|24|M|sales/marketing|08822
+3858|48|F|homemaker|63119
+3859|33|M|other|89145
+3860|48|M|technician/engineer|44129
+3861|24|M|college/grad student|12604
+3862|33|M|technician/engineer|10025
+3863|33|M|other|94558
+3864|53|M|writer|29630
+3865|18|F|K-12 student|95864
+3866|48|M|sales/marketing|63130
+3867|40|M|clerical/admin|45215
+3868|24|M|programmer|73112
+3869|24|M|technician/engineer|63544
+3870|33|M|technician/engineer|95050
+3871|24|M|college/grad student|64468
+3872|33|M|academic/educator|14613
+3873|48|F|artist|94558
+3874|33|M|executive/managerial|92103
+3875|33|M|other|66605
+3876|33|M|other|11235
+3877|48|M|academic/educator|33705
+3878|40|M|self-employed|22124
+3879|33|M|clerical/admin|83687
+3880|33|M|executive/managerial|54942
+3881|24|M|artist|44515
+3882|60|M|sales/marketing|55337
+3883|53|M|self-employed|78411
+3884|24|M|college/grad student|78759
+3885|33|M|programmer|92728
+3886|40|M|executive/managerial|95008
+3887|24|M|college/grad student|80513
+3888|48|M|technician/engineer|02067
+3889|48|M|doctor/health care|66203
+3890|24|M|college/grad student|33143
+3891|60|F|self-employed|90039
+3892|33|M|writer|91505
+3893|33|M|doctor/health care|79401
+3894|40|M|self-employed|02139
+3895|40|F|other|20723
+3896|40|M|other|60914
+3897|60|M|technician/engineer|92069
+3898|48|M|lawyer|01772
+3899|33|M|technician/engineer|02135
+3900|33|F|sales/marketing|55343
+3901|24|M|sales/marketing|85282
+3902|33|M|customer service|46239
+3903|33|M|other|02542
+3904|18|M|K-12 student|48445
+3905|33|M|technician/engineer|361069
+3906|53|M|technician/engineer|54409
+3907|24|F|sales/marketing|22201
+3908|33|M|other|10021
+3909|24|M|technician/engineer|19104
+3910|33|M|writer|91505
+3911|24|M|other|92037
+3912|33|M|college/grad student|19104
+3913|24|M|technician/engineer|40207
+3914|40|M|college/grad student|84123
+3915|40|F|clerical/admin|71111
+3916|33|M|college/grad student|02134
+3917|40|F|homemaker|60618
+3918|33|M|tradesman/craftsman|30189
+3919|48|M|other|73702
+3920|40|M|technician/engineer|63126
+3921|33|M|sales/marketing|95820
+3922|24|M|college/grad student|53211
+3923|40|M|artist|92115
+3924|53|M|programmer|90254
+3925|33|M|programmer|77042
+3926|33|M|artist|94404
+3927|33|F|self-employed|67846
+3928|33|M|other|55812
+3929|33|M|customer service|80227
+3930|60|M|clerical/admin|52240
+3931|33|M|customer service|92117
+3932|33|M|executive/managerial|49221
+3933|40|F|doctor/health care|48073
+3934|33|M|other|44512
+3935|40|M|tradesman/craftsman|72118
+3936|40|F|programmer|01464
+3937|60|M|artist|92020
+3938|33|M|artist|92711-0571
+3939|48|M|executive/managerial|91405
+3940|40|M|writer|32708
+3941|48|M|technician/engineer|40031
+3942|24|M|college/grad student|49855
+3943|40|F|executive/managerial|98074
+3944|40|F|self-employed|80401
+3945|48|F|academic/educator|96778
+3946|33|F|programmer|22207
+3947|33|M|other|90019
+3948|48|F|programmer|61554
+3949|48|M|other|44266
+3950|33|M|college/grad student|60056
+3951|24|F|college/grad student|60014
+3952|48|F|academic/educator|12449
+3953|33|M|programmer|55117
+3954|24|M|college/grad student|32601
+3955|40|M|other|12831
+3956|33|M|other|94930-2010
+3957|40|M|lawyer|40242
+3958|48|M|executive/managerial|46112
+3959|48|F|academic/educator|03768
+3960|40|F|sales/marketing|55014
+3961|33|M|academic/educator|45230
+3962|60|F|other|98115
+3963|53|M|writer|30030
+3964|60|M|self-employed|66502
+3965|24|M|lawyer|65202
+3966|33|M|other|30096
+3967|24|F|artist|13603
+3968|33|M|artist|02903
+3969|60|M|executive/managerial|12345
+3970|33|F|artist|02903
+3971|24|F|college/grad student|80228
+3972|33|F|doctor/health care|23229
+3973|33|M|executive/managerial|60614
+3974|40|M|other|30741
+3975|33|F|customer service|43229
+3976|33|F|other|44107
+3977|40|M|sales/marketing|22180
+3978|40|M|retired|78252
+3979|53|F|homemaker|59072
+3980|33|M|college/grad student|66762
+3981|48|F|other|97701
+3982|60|M|retired|95929
+3983|33|M|other|30606
+3984|33|M|executive/managerial|75089
+3985|48|M|self-employed|01880
+3986|33|M|executive/managerial|33324
+3987|24|F|college/grad student|01742
+3988|33|F|sales/marketing|60647
+3989|53|M|programmer|30030
+3990|33|M|self-employed|17350
+3991|33|M|executive/managerial|33309
+3992|33|M|college/grad student|32653
+3993|33|M|other|22015
+3994|53|M|executive/managerial|43081
+3995|40|M|technician/engineer|22810
+3996|24|M|sales/marketing|32825
+3997|40|M|technician/engineer|45255
+3998|48|M|other|74354
+3999|40|M|technician/engineer|30701
+4000|40|M|executive/managerial|08876
+4001|33|F|academic/educator|01860
+4002|48|M|self-employed|20880
+4003|60|M|retired|46143
+4004|53|M|other|21050
+4005|40|M|executive/managerial|12110
+4006|18|M|executive/managerial|48038
+4007|40|M|programmer|88005
+4008|24|M|academic/educator|92802
+4009|24|M|executive/managerial|44039
+4010|33|M|sales/marketing|94533
+4011|33|M|technician/engineer|85210
+4012|24|M|college/grad student|49503-1313
+4013|33|M|academic/educator|77803
+4014|33|M|other|48316-5601
+4015|48|F|clerical/admin|75605
+4016|53|M|other|33901
+4017|33|M|sales/marketing|17972
+4018|48|F|writer|75214
+4019|40|M|technician/engineer|54601
+4020|33|M|doctor/health care|77034
+4021|53|M|writer|95236
+4022|40|M|sales/marketing|53403
+4023|40|F|homemaker|32404
+4024|33|M|customer service|45011
+4025|60|F|doctor/health care|77018
+4026|33|M|executive/managerial|68164
+4027|33|F|executive/managerial|12533
+4028|33|M|college/grad student|02140
+4029|60|F|clerical/admin|21114
+4030|40|M|executive/managerial|89128
+4031|33|M|other|42445
+4032|33|M|programmer|56301
+4033|33|M|doctor/health care|43551
+4034|33|M|other|21113
+4035|24|M|college/grad student|45251
+4036|33|M|academic/educator|46530
+4037|53|M|self-employed|80206
+4038|53|M|doctor/health care|11510-2001
+4039|33|M|self-employed|97401
+4040|33|M|writer|75006
+4041|24|M|clerical/admin|48005
+4042|40|M|scientist|94002
+4043|33|F|scientist|94002
+4044|40|F|clerical/admin|95826
+4045|60|M|retired|40511
+4046|48|M|technician/engineer|53545
+4047|24|M|college/grad student|30606
+4048|40|F|academic/educator|89431
+4049|48|M|lawyer|33133
+4050|40|M|doctor/health care|60061
+4051|24|M|sales/marketing|01604
+4052|33|M|artist|43551
+4053|33|M|tradesman/craftsman|36264
+4054|40|M|clerical/admin|68122
+4055|53|M|other|98826
+4056|18|M|K-12 student|28270
+4057|40|M|doctor/health care|18249
+4058|33|M|doctor/health care|73118
+4059|33|M|sales/marketing|80232
+4060|33|M|tradesman/craftsman|55412
+4061|53|M|doctor/health care|32726
+4062|33|M|executive/managerial|60559
+4063|40|F|academic/educator|29070
+4064|48|M|other|20851
+4065|48|F|customer service|48341
+4066|33|M|other|19010
+4067|48|M|writer|91607
+4068|60|M|clerical/admin|89185
+4069|40|M|scientist|19406
+4070|33|M|scientist|93107
+4071|33|M|technician/engineer|33823
+4072|53|M|doctor/health care|93111
+4073|33|M|doctor/health care|70003
+4074|40|M|doctor/health care|78746
+4075|33|M|self-employed|47901
+4076|33|M|technician/engineer|55344
+4077|40|F|artist|22030
+4078|33|M|scientist|28226
+4079|40|M|technician/engineer|26505
+4080|40|M|academic/educator|48912
+4081|24|M|programmer|19403
+4082|33|M|writer|79912
+4083|60|M|sales/marketing|92630
+4084|60|M|retired|14215
+4085|33|F|doctor/health care|79416
+4086|18|F|K-12 student|55391
+4087|18|M|college/grad student|63376
+4088|33|M|clerical/admin|77057
+4089|33|M|executive/managerial|79416
+4090|60|M|doctor/health care|77379
+4091|33|M|technician/engineer|55410
+4092|33|F|other|19063
+4093|33|M|college/grad student|70806
+4094|33|M|technician/engineer|49017
+4095|33|M|other|10013
+4096|33|M|scientist|60004
+4097|33|M|executive/managerial|63366
+4098|40|M|executive/managerial|53150
+4099|40|M|technician/engineer|94954
+4100|60|M|doctor/health care|77096
+4101|24|M|college/grad student|23233
+4102|18|M|K-12 student|48655
+4103|24|M|self-employed|11211
+4104|24|M|self-employed|42141
+4105|53|M|executive/managerial|34243
+4106|33|M|self-employed|95437
+4107|33|F|other|23221
+4108|40|M|technician/engineer|77536
+4109|40|M|clerical/admin|97202
+4110|48|F|executive/managerial|41722
+4111|33|M|scientist|32603
+4112|48|M|tradesman/craftsman|47129
+4113|40|M|technician/engineer|58503
+4114|40|M|sales/marketing|48187
+4115|33|M|scientist|99353
+4116|40|M|executive/managerial|07040
+4117|24|M|college/grad student|43551
+4118|33|M|clerical/admin|91221
+4119|53|M|academic/educator|39401
+4120|33|M|self-employed|71118
+4121|48|M|executive/managerial|08876
+4122|24|M|unemployed|82070
+4123|33|F|college/grad student|46807
+4124|33|M|tradesman/craftsman|62330-1408
+4125|40|M|artist|13676
+4126|33|M|technician/engineer|53188
+4127|53|M|technician/engineer|16803
+4128|40|M|doctor/health care|60025
+4129|60|M|lawyer|12144
+4130|40|M|doctor/health care|48439
+4131|48|M|executive/managerial|97720
+4132|33|M|technician/engineer|80112
+4133|48|M|college/grad student|77009
+4134|48|F|programmer|85283
+4135|18|M|K-12 student|46321
+4136|53|M|self-employed|60056
+4137|33|M|executive/managerial|91941
+4138|33|M|executive/managerial|91423
+4139|60|M|sales/marketing|40207
+4140|33|M|other|32112
+4141|40|M|technician/engineer|95014
+4142|60|M|executive/managerial|01040
+4143|33|F|customer service|60441
+4144|24|M|college/grad student|02451
+4145|53|F|academic/educator|78681
+4146|40|M|technician/engineer|44301
+4147|53|F|executive/managerial|02889
+4148|40|F|executive/managerial|55021
+4149|40|M|academic/educator|32792
+4150|33|M|other|29672
+4151|48|M|writer|43201
+4152|33|M|sales/marketing|74114
+4153|53|M|technician/engineer|16801
+4154|33|M|academic/educator|29440
+4155|53|M|technician/engineer|85712
+4156|60|M|writer|95123
+4157|53|M|tradesman/craftsman|97321
+4158|18|F|K-12 student|90039
+4159|53|F|homemaker|01450
+4160|40|M|writer|10027
+4161|48|M|other|90404
+4162|33|F|sales/marketing|23221
+4163|60|M|executive/managerial|08901
+4164|40|M|academic/educator|50677
+4165|33|F|sales/marketing|94114
+4166|33|F|executive/managerial|75240
+4167|33|M|writer|22032
+4168|48|F|doctor/health care|37766
+4169|53|M|other|66048
+4170|48|M|executive/managerial|53713
+4171|60|M|self-employed|79705
+4172|40|M|executive/managerial|19901
+4173|24|F|lawyer|29063
+4174|40|F|clerical/admin|20110
+4175|40|M|other|66204
+4176|48|M|executive/managerial|19008
+4177|40|M|technician/engineer|90680
+4178|53|F|self-employed|08033
+4179|40|F|writer|94949
+4180|60|M|retired|13502
+4181|33|F|executive/managerial|33177
+4182|33|M|tradesman/craftsman|80903
+4183|33|M|academic/educator|91730
+4184|53|M|executive/managerial|32114
+4185|33|M|sales/marketing|90274
+4186|33|M|executive/managerial|33308
+4187|60|F|writer|63026
+4188|53|M|executive/managerial|74137
+4189|40|M|sales/marketing|91364
+4190|48|M|technician/engineer|89108
+4191|48|F|scientist|55446
+4192|40|M|technician/engineer|77521
+4193|60|M|retired|93907
+4194|24|M|college/grad student|60637
+4195|60|F|retired|95050
+4196|40|M|sales/marketing|14221
+4197|48|F|academic/educator|18042
+4198|24|M|college/grad student|80631
+4199|33|F|homemaker|32712
+4200|48|M|executive/managerial|10543
+4201|33|F|other|65550
+4202|33|M|executive/managerial|21234
+4203|33|M|tradesman/craftsman|58270
+4204|40|M|executive/managerial|06905
+4205|33|F|scientist|87801
+4206|40|F|academic/educator|22947
+4207|40|M|academic/educator|90731
+4208|40|F|other|90403
+4209|60|M|other|37363
+4210|33|M|technician/engineer|85710
+4211|48|M|customer service|77662
+4212|60|M|tradesman/craftsman|56716
+4213|40|M|executive/managerial|63125
+4214|33|F|other|20121
+4215|33|M|executive/managerial|77006
+4216|33|M|technician/engineer|01752
+4217|24|M|college/grad student|18042
+4218|53|M|technician/engineer|23233
+4219|40|M|technician/engineer|95125
+4220|40|M|other|97225
+4221|40|M|college/grad student|53818
+4222|48|F|technician/engineer|55976
+4223|40|F|technician/engineer|60148
+4224|48|F|academic/educator|48198
+4225|33|F|clerical/admin|48197
+4226|40|F|doctor/health care|76021
+4227|33|M|unemployed|11414-2520
+4228|53|M|tradesman/craftsman|20706
+4229|40|M|technician/engineer|94010
+4230|60|M|retired|34235
+4231|53|F|tradesman/craftsman|20706
+4232|40|F|writer|75287
+4233|40|M|college/grad student|37917
+4234|48|F|clerical/admin|48130
+4235|53|M|artist|90029
+4236|33|F|clerical/admin|07960
+4237|33|M|sales/marketing|77450
+4238|40|M|self-employed|44691
+4239|53|M|executive/managerial|52402
+4240|40|M|technician/engineer|55330
+4241|40|M|executive/managerial|11767
+4242|53|M|executive/managerial|78704
+4243|60|M|executive/managerial|32137
+4244|40|M|technician/engineer|48146
+4245|53|M|programmer|44286
+4246|40|F|executive/managerial|48034
+4247|33|M|college/grad student|82601
+4248|33|M|college/grad student|26508
+4249|24|F|technician/engineer|65203
+4250|53|F|other|33313
+4251|48|M|executive/managerial|60139
+4252|40|F|clerical/admin|28262
+4253|48|M|lawyer|03301
+4254|33|M|technician/engineer|38654
+4255|53|M|programmer|13041
+4256|18|F|artist|78945
+4257|53|M|self-employed|38122
+4258|33|M|technician/engineer|19711
+4259|40|M|technician/engineer|45380
+4260|33|M|self-employed|59079
+4261|40|F|doctor/health care|07950
+4262|40|F|doctor/health care|06512
+4263|33|M|executive/managerial|40205
+4264|48|M|academic/educator|60102
+4265|33|M|programmer|03060
+4266|60|M|retired|78681
+4267|40|M|executive/managerial|02171
+4268|48|F|writer|04046
+4269|40|M|tradesman/craftsman|27603
+4270|48|M|executive/managerial|13211
+4271|40|M|executive/managerial|83405
+4272|48|M|technician/engineer|37923
+4273|48|M|retired|30030
+4274|48|F|academic/educator|04258
+4275|48|F|self-employed|14468
+4276|48|F|other|96821
+4277|40|M|self-employed|98133
+4278|48|F|executive/managerial|09094
+4279|33|M|self-employed|43215
+4280|40|M|technician/engineer|27587
+4281|60|M|retired|92120
+4282|40|M|other|15801
+4283|33|F|homemaker|98632
+4284|53|M|executive/managerial|40601
+4285|40|M|other|62704
+4286|40|M|technician/engineer|11554
+4287|33|M|executive/managerial|35244
+4288|33|F|homemaker|46580
+4289|40|M|sales/marketing|32068
+4290|33|M|technician/engineer|98661
+4291|40|M|sales/marketing|98125
+4292|33|M|other|98178
+4293|48|F|homemaker|55391
+4294|18|M|K-12 student|75633
+4295|24|M|tradesman/craftsman|90605
+4296|60|M|doctor/health care|33030
+4297|48|M|scientist|55391
+4298|24|F|sales/marketing|85705
+4299|33|F|artist|43617
+4300|24|F|college/grad student|98125
+4301|40|M|lawyer|38135
+4302|53|M|academic/educator|45385
+4303|33|M|artist|91910
+4304|24|M|other|46250
+4305|48|F|technician/engineer|27616
+4306|48|M|executive/managerial|67301
+4307|33|M|other|94122
+4308|33|M|other|33702
+4309|33|M|other|36301
+4310|33|M|college/grad student|57006
+4311|53|M|retired|68502
+4312|33|M|tradesman/craftsman|78757
+4313|33|F|executive/managerial|07067
+4314|33|M|technician/engineer|79925
+4315|24|M|college/grad student|44266
+4316|33|M|doctor/health care|75080
+4317|40|F|sales/marketing|60202
+4318|33|M|customer service|02891
+4319|40|M|executive/managerial|44125
+4320|33|M|customer service|89114
+4321|48|M|executive/managerial|80525
+4322|53|F|doctor/health care|75605
+4323|24|M|college/grad student|82072
+4324|33|M|customer service|60010
+4325|33|M|other|30082
+4326|48|F|retired|94931
+4327|40|M|technician/engineer|37221
+4328|53|M|clerical/admin|75650
+4329|33|F|sales/marketing|78232
+4330|48|F|doctor/health care|85719
+4331|40|M|doctor/health care|45011
+4332|33|F|clerical/admin|60606
+4333|53|M|artist|33134
+4334|33|M|academic/educator|70458
+4335|40|M|other|74011
+4336|33|F|other|40241
+4337|24|M|writer|76135
+4338|24|F|customer service|46222
+4339|33|M|artist|78748
+4340|33|F|technician/engineer|76021
+4341|40|M|technician/engineer|33433
+4342|33|M|other|66614
+4343|33|M|programmer|75007
+4344|33|M|academic/educator|44240
+4345|33|F|sales/marketing|44304
+4346|24|M|technician/engineer|45701
+4347|24|F|writer|77304
+4348|48|M|other|30189
+4349|24|M|artist|95843
+4350|24|M|artist|29118
+4351|33|M|programmer|37919
+4352|24|M|college/grad student|11010
+4353|33|M|executive/managerial|11215
+4354|40|M|sales/marketing|78611
+4355|53|M|sales/marketing|08028
+4356|40|M|self-employed|85730
+4357|40|F|homemaker|83616
+4358|40|M|technician/engineer|04457
+4359|24|M|college/grad student|33168
+4360|33|F|homemaker|98001
+4361|40|M|scientist|83616
+4362|33|M|technician/engineer|85016
+4363|40|M|sales/marketing|91602
+4364|33|M|tradesman/craftsman|98001
+4365|53|F|self-employed|46350
+4366|24|M|scientist|02215
+4367|40|M|other|52057
+4368|24|M|technician/engineer|22043
+4369|53|M|executive/managerial|30306
+4370|33|M|self-employed|07701
+4371|24|F|college/grad student|63109
+4372|40|M|technician/engineer|75010
+4373|53|M|programmer|32920
+4374|24|M|college/grad student|43201
+4375|33|F|customer service|40241
+4376|33|F|customer service|27203
+4377|33|M|other|32444
+4378|24|M|technician/engineer|06040
+4379|33|M|college/grad student|27278
+4380|33|F|academic/educator|37153
+4381|33|M|college/grad student|65804
+4382|33|M|tradesman/craftsman|14620
+4383|24|F|college/grad student|93940
+4384|33|M|other|43623
+4385|33|M|college/grad student|93940
+4386|33|M|customer service|74055
+4387|24|F|college/grad student|63109
+4388|48|M|clerical/admin|75074
+4389|33|M|college/grad student|48072
+4390|33|M|other|11201
+4391|24|F|college/grad student|43402
+4392|24|M|college/grad student|43402
+4393|24|M|college/grad student|43402
+4394|33|M|college/grad student|43402
+4395|53|M|doctor/health care|43402
+4396|24|M|academic/educator|44221
+4397|24|M|college/grad student|43402
+4398|24|F|college/grad student|43612
+4399|24|F|college/grad student|43403
+4400|24|F|college/grad student|43402
+4401|24|M|college/grad student|10027
+4402|24|F|sales/marketing|43614
+4403|33|M|scientist|90066
+4404|33|M|academic/educator|57106
+4405|33|M|sales/marketing|98103
+4406|33|M|self-employed|80013
+4407|24|M|college/grad student|02143
+4408|48|F|artist|19033
+4409|33|M|sales/marketing|65023
+4410|24|M|unemployed|40475
+4411|24|M|college/grad student|92122
+4412|24|M|college/grad student|16802
+4413|18|M|retired|37130
+4414|33|M|college/grad student|40504
+4415|24|M|other|02215
+4416|24|M|college/grad student|02134
+4417|33|M|scientist|02135
+4418|53|F|other|02139
+4419|48|F|programmer|15801
+4420|33|M|scientist|92557
+4421|48|M|other|90024
+4422|33|M|customer service|10463
+4423|24|M|college/grad student|52241
+4424|33|M|executive/managerial|94109
+4425|40|M|executive/managerial|98607
+4426|48|M|technician/engineer|93401
+4427|24|M|other|51104
+4428|33|M|sales/marketing|46940
+4429|33|M|customer service|85705
+4430|33|F|other|94403
+4431|18|M|sales/marketing|80401
+4432|33|M|programmer|21045
+4433|33|M|other|43081
+4434|40|F|executive/managerial|60201
+4435|33|M|executive/managerial|76904
+4436|33|M|programmer|19067
+4437|40|F|customer service|47129
+4438|53|M|other|11947
+4439|40|M|doctor/health care|37664
+4440|40|M|academic/educator|81005
+4441|24|M|college/grad student|98105
+4442|53|M|scientist|94303
+4443|60|M|artist|91321
+4444|33|F|programmer|80126
+4445|33|M|clerical/admin|19806
+4446|24|M|tradesman/craftsman|60435
+4447|48|M|customer service|32953
+4448|33|M|sales/marketing|06880
+4449|33|M|programmer|27513
+4450|33|M|scientist|60611
+4451|33|M|sales/marketing|30101
+4452|33|F|executive/managerial|78666
+4453|40|M|other|95667
+4454|33|M|writer|111225
+4455|40|M|executive/managerial|27511
+4456|40|F|artist|49770
+4457|40|M|sales/marketing|95492
+4458|33|F|college/grad student|15701-2017
+4459|33|M|academic/educator|28027
+4460|33|M|sales/marketing|70005
+4461|33|M|writer|81101
+4462|33|F|other|60156
+4463|53|M|executive/managerial|07405
+4464|53|F|academic/educator|62052
+4465|24|M|college/grad student|02148
+4466|40|M|lawyer|10022
+4467|53|F|doctor/health care|15333
+4468|40|F|executive/managerial|75601
+4469|48|F|programmer|92037
+4470|40|M|programmer|15089
+4471|33|M|doctor/health care|94108
+4472|48|F|self-employed|14424
+4473|40|M|academic/educator|94121
+4474|40|M|executive/managerial|28805
+4475|24|M|college/grad student|10020
+4476|48|M|academic/educator|50588
+4477|33|M|executive/managerial|98908
+4478|18|M|programmer|02138
+4479|53|M|retired|33015
+4480|33|M|other|94403
+4481|33|M|tradesman/craftsman|26104
+4482|40|F|academic/educator|94044
+4483|33|F|doctor/health care|72703
+4484|33|F|technician/engineer|94613
+4485|33|M|college/grad student|64112
+4486|40|M|farmer|98674
+4487|33|M|executive/managerial|01850
+4488|40|M|executive/managerial|72703
+4489|24|M|college/grad student|78613
+4490|40|M|customer service|70123
+4491|24|M|college/grad student|52405
+4492|60|M|retired|45322-3132
+4493|18|F|K-12 student|10025
+4494|48|M|other|33460
+4495|24|M|college/grad student|22906
+4496|48|M|artist|06513
+4497|53|M|other|29678
+4498|53|M|executive/managerial|76054
+4499|33|M|doctor/health care|62702
+4500|53|M|executive/managerial|76054
+4501|33|M|technician/engineer|94118
+4502|53|M|other|01379
+4503|60|M|academic/educator|85374
+4504|33|F|other|65775
+4505|53|M|executive/managerial|39648
+4506|53|M|self-employed|29464
+4507|24|M|college/grad student|61820
+4508|33|M|writer|15701
+4509|33|M|executive/managerial|38261
+4510|48|M|executive/managerial|92503
+4511|40|M|executive/managerial|62234
+4512|33|M|academic/educator|16508
+4513|60|M|other|61704
+4514|24|M|clerical/admin|48604
+4515|60|M|retired|29449
+4516|24|M|college/grad student|53142
+4517|24|F|academic/educator|48067
+4518|33|M|other|80903
+4519|53|M|executive/managerial|38135
+4520|33|M|college/grad student|45810
+4521|40|M|programmer|15202
+4522|48|M|academic/educator|81004
+4523|24|M|artist|55304
+4524|33|M|artist|55113
+4525|33|M|sales/marketing|10021
+4526|33|M|writer|10012
+4527|24|M|other|38111
+4528|33|M|sales/marketing|27605
+4529|40|M|doctor/health care|84102
+4530|40|F|academic/educator|92103
+4531|24|M|college/grad student|85701
+4532|33|M|executive/managerial|10025
+4533|33|M|programmer|53045
+4534|24|M|college/grad student|72202
+4535|24|M|unemployed|17517
+4536|24|M|programmer|53715
+4537|48|F|academic/educator|01379
+4538|33|M|programmer|0956456
+4539|40|M|unemployed|01054
+4540|33|F|sales/marketing|94301
+4541|18|M|K-12 student|55427
+4542|40|M|other|94610
+4543|33|M|artist|11105
+4544|60|M|academic/educator|53705
+4545|33|M|self-employed|47274
+4546|33|M|executive/managerial|49686
+4547|24|M|programmer|02115
+4548|24|M|artist|27514
+4549|18|F|K-12 student|99016
+4550|24|M|self-employed|24541
+4551|24|M|programmer|60622
+4552|33|M|other|22306
+4553|40|F|self-employed|48237
+4554|33|F|homemaker|48306
+4555|24|F|homemaker|73008
+4556|48|M|self-employed|55011
+4557|33|M|sales/marketing|02134
+4558|40|M|sales/marketing|48217
+4559|33|M|executive/managerial|05346
+4560|33|M|other|69301
+4561|33|F|homemaker|84037
+4562|40|M|K-12 student|94133
+4563|33|F|doctor/health care|22903
+4564|40|M|programmer|19107
+4565|40|M|sales/marketing|94085
+4566|40|M|technician/engineer|19473
+4567|24|M|college/grad student|98105
+4568|33|F|college/grad student|90034
+4569|33|M|other|21532
+4570|48|M|technician/engineer|60185
+4571|40|M|executive/managerial|21013
+4572|18|F|K-12 student|17036
+4573|53|M|self-employed|11963
+4574|33|M|college/grad student|60614
+4575|18|F|K-12 student|03608
+4576|33|F|executive/managerial|48237
+4577|40|M|executive/managerial|48306
+4578|33|M|other|02134
+4579|24|F|college/grad student|63332
+4580|60|F|retired|97113
+4581|33|M|academic/educator|19103
+4582|33|F|other|55408
+4583|53|M|academic/educator|48371
+4584|48|F|other|11372
+4585|40|M|executive/managerial|30324
+4586|33|M|college/grad student|01604
+4587|40|M|sales/marketing|07920
+4588|33|F|college/grad student|48042
+4589|33|M|technician/engineer|02139
+4590|24|F|writer|55104
+4591|33|M|scientist|02143
+4592|24|M|college/grad student|66044
+4593|48|F|academic/educator|43202
+4594|40|M|self-employed|55303
+4595|33|M|tradesman/craftsman|97034
+4596|24|F|college/grad student|94611
+4597|33|F|college/grad student|22207
+4598|40|F|clerical/admin|48237
+4599|40|F|other|04287
+4600|33|M|other|46240
+4601|40|M|sales/marketing|55415
+4602|40|M|executive/managerial|10021
+4603|40|F|artist|33619
+4604|33|M|scientist|10461
+4605|33|M|scientist|92656
+4606|18|F|K-12 student|90291
+4607|33|M|other|27403
+4608|33|F|other|02144
+4609|33|F|college/grad student|53951
+4610|33|F|college/grad student|53951
+4611|24|F|college/grad student|78705
+4612|24|F|college/grad student|94702
+4613|33|M|programmer|41042
+4614|48|F|academic/educator|10469
+4615|33|M|technician/engineer|61615
+4616|33|M|writer|11717
+4617|33|F|doctor/health care|55433
+4618|33|M|sales/marketing|97202
+4619|33|F|academic/educator|97225
+4620|24|F|technician/engineer|94606
+4621|33|M|college/grad student|94305
+4622|33|M|programmer|55433
+4623|33|M|self-employed|22207
+4624|33|M|programmer|84062
+4625|33|M|executive/managerial|92691
+4626|33|M|sales/marketing|97219
+4627|60|M|academic/educator|45224
+4628|60|F|doctor/health care|23225
+4629|24|F|college/grad student|94309
+4630|33|F|college/grad student|94610
+4631|24|M|college/grad student|94111
+4632|33|M|other|98040
+4633|18|M|other|48302
+4634|53|M|writer|98119
+4635|24|M|college/grad student|94703
+4636|24|M|artist|10010
+4637|40|F|homemaker|48302
+4638|33|M|college/grad student|55417
+4639|40|M|lawyer|20895
+4640|33|M|college/grad student|55417
+4641|33|M|executive/managerial|20016
+4642|33|M|other|44691
+4643|33|M|other|98115
+4644|53|M|academic/educator|19481
+4645|53|F|doctor/health care|48094
+4646|33|F|doctor/health care|90405
+4647|40|M|writer|80222
+4648|24|M|college/grad student|73071
+4649|60|M|retired|10025
+4650|33|M|executive/managerial|30041
+4651|48|F|other|10036
+4652|33|F|executive/managerial|94115
+4653|40|M|programmer|95051
+4654|40|M|writer|94574
+4655|33|F|academic/educator|92037
+4656|33|M|technician/engineer|94041
+4657|48|M|sales/marketing|55416
+4658|33|M|college/grad student|99163
+4659|33|F|sales/marketing|37076
+4660|24|F|college/grad student|06074
+4661|48|M|scientist|85255
+4662|24|F|college/grad student|84109
+4663|33|M|college/grad student|92037
+4664|48|F|executive/managerial|77006
+4665|40|M|artist|03431
+4666|40|M|academic/educator|53704
+4667|33|M|sales/marketing|94117
+4668|40|M|sales/marketing|74012
+4669|40|M|executive/managerial|19004
+4670|40|M|customer service|91343
+4671|33|M|programmer|94043
+4672|60|M|retired|94306
+4673|40|M|self-employed|94705
+4674|40|F|executive/managerial|08318
+4675|24|F|college/grad student|27514
+4676|48|M|sales/marketing|46038
+4677|53|M|doctor/health care|05055
+4678|40|M|artist|90292
+4679|60|M|retired|76051
+4680|40|M|other|04473
+4681|40|F|scientist|06119
+4682|33|M|executive/managerial|05346
+4683|33|M|other|22101
+4684|33|F|other|04473
+4685|40|M|academic/educator|55454
+4686|24|M|academic/educator|50201
+4687|40|M|sales/marketing|01746
+4688|33|M|homemaker|44310
+4689|24|M|programmer|02215
+4690|18|F|K-12 student|79605
+4691|48|F|technician/engineer|55419
+4692|33|F|executive/managerial|78703
+4693|24|M|academic/educator|60626
+4694|60|M|executive/managerial|40505
+4695|24|M|tradesman/craftsman|56002
+4696|24|M|programmer|10027
+4697|24|M|K-12 student|79605
+4698|33|F|doctor/health care|55417
+4699|24|F|other|91765
+4700|24|F|college/grad student|48109
+4701|48|M|technician/engineer|18036
+4702|33|M|lawyer|13031
+4703|33|M|executive/managerial|02035
+4704|24|M|writer|02601
+4705|24|F|other|75115
+4706|33|M|sales/marketing|68502
+4707|18|M|other|92804
+4708|33|M|other|60647
+4709|48|M|other|06804
+4710|40|F|self-employed|24450
+4711|33|M|technician/engineer|32250
+4712|40|M|technician/engineer|03824
+4713|33|M|technician/engineer|90245
+4714|53|M|academic/educator|55405
+4715|33|M|artist|97205
+4716|33|F|self-employed|02465
+4717|48|M|technician/engineer|48310
+4718|40|M|executive/managerial|03885
+4719|40|F|homemaker|02816
+4720|33|M|artist|90035
+4721|40|M|lawyer|95405
+4722|40|M|programmer|55122
+4723|40|M|executive/managerial|90014-1718
+4724|60|F|doctor/health care|01852
+4725|40|M|customer service|96707-1321
+4726|40|F|self-employed|95828
+4727|60|F|other|98801
+4728|33|M|unemployed|31401
+4729|53|M|self-employed|55347
+4730|53|M|lawyer|04102
+4731|33|M|technician/engineer|98033
+4732|33|M|sales/marketing|24450
+4733|24|M|tradesman/craftsman|52301
+4734|53|M|academic/educator|93105
+4735|48|M|clerical/admin|50312
+4736|24|M|writer|91505
+4737|40|M|self-employed|19003
+4738|60|M|academic/educator|23608
+4739|33|M|clerical/admin|32580
+4740|33|F|clerical/admin|38134
+4741|40|M|executive/managerial|15203
+4742|33|M|clerical/admin|94118
+4743|60|M|retired|63122
+4744|53|M|scientist|12740
+4745|24|F|college/grad student|06268
+4746|53|M|academic/educator|19087-3622
+4747|24|M|college/grad student|26201
+4748|48|M|self-employed|60302
+4749|48|M|other|23462
+4750|33|F|other|91107
+4751|53|M|scientist|02474
+4752|24|F|college/grad student|94121
+4753|60|M|academic/educator|03825
+4754|24|F|other|91107
+4755|60|F|executive/managerial|93060
+4756|60|M|self-employed|55901
+4757|40|M|technician/engineer|23451
+4758|60|F|retired|03261
+4759|53|F|other|04259
+4760|40|M|technician/engineer|06110
+4761|24|M|scientist|21042
+4762|33|F|sales/marketing|94110
+4763|60|M|lawyer|04259
+4764|18|M|K-12 student|03608
+4765|40|F|self-employed|03301
+4766|40|M|self-employed|10014
+4767|40|F|homemaker|03769
+4768|33|M|college/grad student|22030
+4769|33|M|academic/educator|02571
+4770|40|F|executive/managerial|10012
+4771|33|F|college/grad student|04101
+4772|60|M|technician/engineer|03801
+4773|48|M|academic/educator|22314
+4774|48|M|sales/marketing|07458
+4775|33|M|technician/engineer|23462
+4776|33|F|clerical/admin|46227
+4777|33|M|artist|46142
+4778|33|M|other|46227
+4779|48|M|clerical/admin|04011
+4780|33|M|programmer|94114
+4781|53|F|doctor/health care|04086
+4782|48|M|academic/educator|78212
+4783|33|M|other|60618
+4784|40|F|doctor/health care|48105
+4785|33|F|sales/marketing|55104
+4786|48|M|doctor/health care|22630
+4787|18|M|lawyer|94610
+4788|40|M|executive/managerial|85331
+4789|40|M|artist|55104
+4790|33|F|artist|94133
+4791|24|M|college/grad student|55116
+4792|53|F|executive/managerial|94123
+4793|33|F|doctor/health care|48108
+4794|40|F|other|46142
+4795|48|M|self-employed|10962
+4796|40|M|executive/managerial|98103
+4797|40|F|technician/engineer|84067
+4798|33|M|academic/educator|19335
+4799|24|F|college/grad student|02809
+4800|24|M|college/grad student|80521
+4801|33|M|college/grad student|30349
+4802|60|M|academic/educator|40601
+4803|33|F|self-employed|45750
+4804|40|F|academic/educator|44107
+4805|40|M|academic/educator|45750
+4806|33|M|technician/engineer|90031
+4807|18|M|artist|04101
+4808|40|M|other|96707-1321
+4809|53|F|college/grad student|20902
+4810|24|M|programmer|80526
+4811|40|M|academic/educator|01773
+4812|24|M|sales/marketing|25301
+4813|40|F|homemaker|46077
+4814|24|M|sales/marketing|80526
+4815|53|F|tradesman/craftsman|04849
+4816|48|F|doctor/health care|04240
+4817|33|M|academic/educator|20912
+4818|33|F|technician/engineer|91007
+4819|40|M|tradesman/craftsman|17350
+4820|53|M|lawyer|04210
+4821|24|M|unemployed|75080
+4822|40|F|other|01545
+4823|24|M|college/grad student|46219
+4824|33|M|executive/managerial|55411
+4825|33|M|technician/engineer|94602
+4826|48|M|programmer|55436
+4827|40|M|other|13045
+4828|24|F|writer|60194
+4829|33|M|other|20008
+4830|18|M|K-12 student|55317
+4831|33|F|academic/educator|04210
+4832|33|M|sales/marketing|17857
+4833|40|M|self-employed|81321
+4834|48|F|homemaker|03862
+4835|33|M|writer|14450
+4836|48|F|self-employed|04074
+4837|33|M|customer service|46254
+4838|48|M|academic/educator|48309
+4839|53|F|doctor/health care|95014
+4840|48|F|doctor/health care|63135
+4841|33|M|programmer|94114
+4842|40|F|academic/educator|23062
+4843|60|M|academic/educator|04032
+4844|48|M|executive/managerial|03840
+4845|33|F|academic/educator|55413
+4846|33|F|artist|90066
+4847|33|M|programmer|94131
+4848|40|F|doctor/health care|54971
+4849|24|F|college/grad student|44515
+4850|48|F|clerical/admin|44555
+4851|24|M|technician/engineer|44406
+4852|40|M|other|42025
+4853|33|M|executive/managerial|55346
+4854|53|F|retired|03851
+4855|33|M|programmer|90034
+4856|33|M|executive/managerial|94110
+4857|33|M|sales/marketing|23434
+4858|33|M|academic/educator|04086
+4859|24|F|sales/marketing|50401
+4860|33|M|artist|60640
+4861|33|M|college/grad student|04309
+4862|33|M|other|94086
+4863|33|F|homemaker|84037
+4864|24|M|writer|63132
+4865|40|F|sales/marketing|02130
+4866|60|M|programmer|04085
+4867|33|M|self-employed|04101
+4868|40|M|technician/engineer|03820
+4869|48|F|doctor/health care|04578
+4870|40|F|clerical/admin|04108
+4871|24|M|programmer|04096
+4872|48|M|academic/educator|03909
+4873|60|M|lawyer|13760
+4874|33|F|college/grad student|70808
+4875|40|M|other|97403
+4876|40|F|technician/engineer|98201
+4877|33|M|college/grad student|94703
+4878|53|M|college/grad student|94070
+4879|33|M|clerical/admin|60626
+4880|48|F|homemaker|95030
+4881|48|M|self-employed|55406
+4882|48|M|lawyer|03301
+4883|18|F|K-12 student|02906
+4884|40|M|sales/marketing|90266
+4885|60|M|academic/educator|23513
+4886|40|F|technician/engineer|92509
+4887|24|M|artist|19072
+4888|60|F|other|08055
+4889|24|M|college/grad student|63108
+4890|33|F|academic/educator|79928
+4891|40|M|technician/engineer|94132
+4892|33|M|programmer|55405
+4893|33|M|technician/engineer|48092
+4894|40|M|executive/managerial|14607
+4895|33|F|clerical/admin|52001
+4896|40|M|doctor/health care|84103
+4897|40|M|self-employed|16844
+4898|33|M|academic/educator|27713
+4899|33|M|programmer|94402
+4900|33|M|writer|33626
+4901|33|M|executive/managerial|11228
+4902|40|M|sales/marketing|84057
+4903|40|M|programmer|95952
+4904|53|M|scientist|63121
+4905|48|F|academic/educator|60417
+4906|53|M|technician/engineer|49506
+4907|53|F|executive/managerial|55082
+4908|40|M|scientist|85282
+4909|40|F|programmer|94014
+4910|24|M|programmer|84041
+4911|33|F|other|55421
+4912|53|F|writer|98115
+4913|33|F|academic/educator|970025
+4914|33|F|academic/educator|02453
+4915|33|M|programmer|91423
+4916|24|M|writer|85054
+4917|48|M|other|27312
+4918|24|F|programmer|84107
+4919|24|M|other|84058
+4920|40|M|academic/educator|02144
+4921|33|F|scientist|92507
+4922|24|M|technician/engineer|98121
+4923|48|M|tradesman/craftsman|99826
+4924|40|F|other|99801
+4925|40|F|doctor/health care|55401
+4926|18|M|K-12 student|55616
+4927|48|M|other|97520
+4928|33|F|clerical/admin|92103
+4929|48|M|academic/educator|63105
+4930|53|M|technician/engineer|63033
+4931|53|M|technician/engineer|90031
+4932|33|M|executive/managerial|63303
+4933|33|M|scientist|94040
+4934|33|F|other|55108
+4935|40|M|technician/engineer|62958
+4936|24|F|college/grad student|63144
+4937|40|M|other|02108
+4938|24|F|college/grad student|55406
+4939|33|M|executive/managerial|63105
+4940|53|F|lawyer|94102
+4941|60|M|writer|44281
+4942|48|M|programmer|40515
+4943|53|F|other|55401
+4944|53|M|technician/engineer|14568
+4945|53|M|other|62234
+4946|40|F|academic/educator|91106
+4947|40|M|technician/engineer|90035
+4948|48|M|artist|94618
+4949|24|M|college/grad student|55104
+4950|33|M|self-employed|55421
+4951|40|F|technician/engineer|90291
+4952|33|F|sales/marketing|48067
+4953|40|M|programmer|55082
+4954|48|M|other|92679
+4955|60|M|retired|55804
+4956|40|M|scientist|77007
+4957|33|M|artist|48197
+4958|24|M|executive/managerial|55403
+4959|33|M|technician/engineer|23454
+4960|60|M|academic/educator|55116
+4961|33|M|executive/managerial|46220
+4962|33|M|doctor/health care|55439
+4963|48|M|technician/engineer|94931
+4964|40|M|other|94110
+4965|18|M|K-12 student|63123-1507
+4966|53|M|sales/marketing|55407
+4967|24|M|college/grad student|94708
+4968|53|F|writer|95404
+4969|24|M|unemployed|94111
+4970|33|F|programmer|94526
+4971|40|M|executive/managerial|94086
+4972|40|M|other|95118
+4973|60|F|artist|949702
+4974|40|M|writer|94131
+4975|40|M|other|90065
+4976|33|M|lawyer|65775
+4977|33|M|college/grad student|92507
+4978|40|M|sales/marketing|68108
+4979|40|M|artist|55423
+4980|33|M|academic/educator|55403
+4981|53|M|academic/educator|55406
+4982|33|M|programmer|63043
+4983|48|F|self-employed|55116
+4984|40|M|other|55405
+4985|40|M|other|29063
+4986|24|M|programmer|55401
+4987|60|F|farmer|90210
+4988|33|M|technician/engineer|55105
+4989|33|M|other|55121
+4990|33|F|college/grad student|55407
+4991|60|F|sales/marketing|91791
+4992|33|F|artist|55106
+4993|48|M|technician/engineer|54022
+4994|48|M|technician/engineer|56001
+4995|53|M|writer|55419
+4996|40|M|executive/managerial|94550
+4997|18|M|K-12 student|90210
+4998|24|F|college/grad student|48433
+4999|60|F|retired|92407
+5000|33|M|college/grad student|46254
+5001|33|F|artist|63119
+5002|33|M|technician/engineer|90505
+5003|40|M|programmer|49508
+5004|60|F|academic/educator|90402
+5005|48|M|self-employed|92807
+5006|40|M|clerical/admin|48827
+5007|24|F|college/grad student|91030
+5008|33|M|writer|60615
+5009|48|F|self-employed|65441
+5010|48|M|scientist|63119
+5011|24|M|college/grad student|64154
+5012|53|M|scientist|48103
+5013|24|M|college/grad student|26241
+5014|48|M|other|92626
+5015|40|M|doctor/health care|92672
+5016|40|F|academic/educator|89447
+5017|40|M|programmer|91104
+5018|60|F|programmer|90290
+5019|33|M|executive/managerial|10025
+5020|60|F|retired|90241
+5021|53|M|doctor/health care|90504
+5022|40|M|executive/managerial|91001
+5023|40|M|writer|91505
+5024|48|F|academic/educator|14618
+5025|33|M|writer|60615
+5026|33|M|technician/engineer|92584
+5027|33|F|sales/marketing|05345
+5028|33|M|programmer|92404
+5029|33|M|college/grad student|70115
+5030|24|M|academic/educator|70006
+5031|33|F|college/grad student|89431
+5032|24|M|technician/engineer|02139
+5033|60|F|retired|60506
+5034|33|F|scientist|62901
+5035|33|F|technician/engineer|19810
+5036|40|M|executive/managerial|14850
+5037|40|M|programmer|11375
+5038|33|M|writer|10010
+5039|40|F|college/grad student|97068
+5040|48|M|programmer|44312
+5041|48|F|doctor/health care|60031
+5042|24|F|artist|55408
+5043|24|F|doctor/health care|92145
+5044|40|F|doctor/health care|23507
+5045|40|M|other|43081
+5046|33|M|self-employed|60614
+5047|48|M|doctor/health care|23452
+5048|40|F|executive/managerial|30350
+5049|33|M|programmer|60613
+5050|24|F|college/grad student|11024
+5051|53|F|executive/managerial|11771
+5052|40|M|self-employed|02536
+5053|33|M|college/grad student|84111
+5054|40|M|artist|20818
+5055|40|F|self-employed|97330
+5056|48|M|academic/educator|16673
+5057|53|M|executive/managerial|84093
+5058|60|M|technician/engineer|84121
+5059|48|M|self-employed|22652
+5060|48|M|technician/engineer|84109-2001
+5061|24|F|unemployed|05070
+5062|53|M|self-employed|65401
+5063|18|F|K-12 student|22801
+5064|24|M|college/grad student|43215
+5065|33|M|sales/marketing|28715
+5066|33|F|academic/educator|23603
+5067|60|M|retired|97520
+5068|40|M|executive/managerial|19004
+5069|60|F|other|95062
+5070|33|M|artist|55344
+5071|33|F|executive/managerial|75093
+5072|48|M|technician/engineer|97330
+5073|60|M|artist|93950
+5074|18|M|other|20132
+5075|53|M|doctor/health care|97470
+5076|33|M|clerical/admin|19147
+5077|33|M|artist|20037
+5078|48|M|executive/managerial|19067
+5079|33|M|college/grad student|70003
+5080|53|F|programmer|95472
+5081|24|F|college/grad student|19102
+5082|40|M|academic/educator|23185
+5083|33|M|college/grad student|16803
+5084|24|M|college/grad student|10013
+5085|60|M|technician/engineer|75225
+5086|33|M|academic/educator|23462
+5087|33|F|doctor/health care|19102
+5088|33|M|technician/engineer|38111
+5089|40|F|self-employed|77027
+5090|40|F|unemployed|75069
+5091|33|M|technician/engineer|19810
+5092|60|M|sales/marketing|18954
+5093|53|M|executive/managerial|19047
+5094|24|M|K-12 student|67206
+5095|40|F|academic/educator|23508
+5096|33|M|lawyer|75206
+5097|60|M|self-employed|19131
+5098|53|M|executive/managerial|19380
+5099|24|M|other|02780
+5100|53|M|doctor/health care|193122042
+5101|33|M|other|90069
+5102|33|M|programmer|90240
+5103|40|F|self-employed|78222
+5104|40|M|writer|19108
+5105|53|M|executive/managerial|18977
+5106|40|F|academic/educator|19348
+5107|48|F|other|08081
+5108|33|F|homemaker|93940
+5109|48|F|doctor/health care|19802
+5110|40|M|scientist|78250
+5111|40|M|artist|78006
+5112|40|M|retired|89128
+5113|33|M|other|55408
+5114|18|F|K-12 student|22932
+5115|60|M|programmer|02143
+5116|40|M|doctor/health care|95521
+5117|33|F|other|70118
+5118|18|M|K-12 student|95123
+5119|33|F|other|10011
+5120|53|M|executive/managerial|80302
+5121|33|M|executive/managerial|91608
+5122|33|M|other|20009
+5123|53|M|programmer|34761
+5124|40|M|artist|20818
+5125|48|M|other|10016
+5126|33|M|lawyer|02453
+5127|48|M|customer service|98502
+5128|53|M|executive/managerial|94709
+5129|48|M|technician/engineer|40515
+5130|53|F|academic/educator|33149
+5131|33|F|academic/educator|77707
+5132|40|M|executive/managerial|77565
+5133|24|M|lawyer|10028
+5134|33|M|technician/engineer|95014
+5135|40|M|executive/managerial|64055
+5136|33|M|programmer|91106
+5137|24|M|tradesman/craftsman|65265
+5138|33|M|technician/engineer|35205
+5139|53|M|self-employed|12866
+5140|33|M|doctor/health care|35205
+5141|24|M|technician/engineer|55423
+5142|33|M|academic/educator|92101
+5143|24|M|college/grad student|44502
+5144|53|F|other|66762
+5145|40|M|executive/managerial|77565-2332
+5146|60|M|academic/educator|04240
+5147|24|M|other|48314
+5148|33|M|writer|98101
+5149|40|M|academic/educator|10012
+5150|33|M|clerical/admin|98034
+5151|24|M|unemployed|30662
+5152|33|F|college/grad student|44406
+5153|33|M|executive/managerial|60046
+5154|33|M|self-employed|20007
+5155|33|M|self-employed|33301
+5156|24|M|sales/marketing|10024
+5157|40|M|academic/educator|74012
+5158|24|F|college/grad student|44509
+5159|40|M|executive/managerial|37027
+5160|24|F|college/grad student|90066
+5161|33|M|college/grad student|30052
+5162|33|M|technician/engineer|94043
+5163|48|M|doctor/health care|53216
+5164|40|F|technician/engineer|91107
+5165|40|M|doctor/health care|91103
+5166|53|M|doctor/health care|42420
+5167|24|M|scientist|06114
+5168|40|M|executive/managerial|01720
+5169|53|F|college/grad student|53562
+5170|24|M|college/grad student|63141
+5171|60|M|technician/engineer|92009
+5172|40|F|lawyer|05602
+5173|18|M|K-12 student|60423
+5174|48|M|academic/educator|45208
+5175|40|F|homemaker|33445
+5176|18|M|K-12 student|60423
+5177|48|M|sales/marketing|30005
+5178|53|M|other|45420
+5179|33|M|programmer|94110
+5180|40|M|lawyer|85044
+5181|33|M|executive/managerial|19003
+5182|40|F|executive/managerial|55441
+5183|24|F|writer|45202
+5184|24|M|writer|67212
+5185|40|F|college/grad student|44485
+5186|40|M|programmer|96555
+5187|24|M|self-employed|06510
+5188|40|F|homemaker|44406
+5189|48|F|executive/managerial|80304
+5190|40|F|other|85024
+5191|33|F|college/grad student|55455
+5192|33|M|executive/managerial|80303
+5193|40|M|programmer|14619
+5194|33|M|executive/managerial|55409
+5195|40|M|executive/managerial|80304
+5196|60|M|executive/managerial|20814
+5197|60|F|clerical/admin|75001
+5198|24|F|college/grad student|55118
+5199|33|F|academic/educator|35243
+5200|40|F|scientist|43065
+5201|53|M|executive/managerial|95376
+5202|24|M|college/grad student|02871
+5203|48|F|doctor/health care|01545
+5204|53|M|retired|56342
+5205|33|M|academic/educator|02908
+5206|40|M|executive/managerial|91302
+5207|33|M|other|98102
+5208|33|M|college/grad student|55455
+5209|53|M|academic/educator|46077
+5210|40|F|technician/engineer|60618
+5211|33|M|academic/educator|40214
+5212|24|M|artist|90025
+5213|24|M|other|31211
+5214|40|F|homemaker|07452
+5215|60|F|doctor/health care|91941
+5216|24|M|artist|81291
+5217|33|M|technician/engineer|01060
+5218|24|M|other|89129
+5219|24|M|college/grad student|94706
+5220|33|M|executive/managerial|91436
+5221|60|F|academic/educator|96734
+5222|33|M|programmer|94501
+5223|60|M|K-12 student|11361
+5224|40|M|academic/educator|10016
+5225|24|M|college/grad student|55120
+5226|40|M|other|98122
+5227|24|M|K-12 student|64050
+5228|18|M|other|75070
+5229|33|M|other|60173
+5230|33|M|programmer|91104
+5231|40|M|executive/managerial|92506
+5232|33|M|college/grad student|14607
+5233|33|M|customer service|97213
+5234|33|F|other|60657
+5235|33|M|college/grad student|14607
+5236|33|M|sales/marketing|46268
+5237|33|M|executive/managerial|55441
+5238|53|F|self-employed|07462
+5239|40|M|executive/managerial|07043
+5240|33|F|other|94104
+5241|33|F|college/grad student|02138
+5242|33|M|academic/educator|14608
+5243|18|M|K-12 student|54220
+5244|24|M|college/grad student|01095
+5245|48|F|academic/educator|27615
+5246|24|F|other|64030
+5247|18|F|K-12 student|01915
+5248|48|F|sales/marketing|22206
+5249|48|F|sales/marketing|75006
+5250|53|M|doctor/health care|01545
+5251|33|F|technician/engineer|97330
+5252|33|M|writer|60622
+5253|60|F|retired|02838
+5254|24|M|college/grad student|32606
+5255|18|M|K-12 student|55305
+5256|33|M|self-employed|30269
+5257|33|F|artist|10019
+5258|40|M|college/grad student|58369
+5259|33|M|doctor/health care|94404
+5260|40|M|executive/managerial|78705
+5261|40|M|programmer|10025
+5262|33|F|sales/marketing|46220
+5263|40|M|executive/managerial|40601
+5264|24|M|college/grad student|15217
+5265|48|M|academic/educator|97405
+5266|40|M|academic/educator|42718
+5267|40|M|executive/managerial|20191
+5268|33|F|artist|68502
+5269|24|M|other|37211
+5270|33|M|programmer|87571
+5271|33|F|other|94110
+5272|33|M|executive/managerial|90210
+5273|60|M|writer|91030
+5274|33|M|other|60611
+5275|33|M|technician/engineer|60611
+5276|33|F|college/grad student|91740
+5277|33|M|writer|91740
+5278|33|F|executive/managerial|55122
+5279|33|F|sales/marketing|55418
+5280|24|M|college/grad student|12604
+5281|33|M|artist|90210
+5282|24|F|college/grad student|63146
+5283|24|M|artist|63138
+5284|33|M|self-employed|55426
+5285|24|M|college/grad student|55410
+5286|48|M|self-employed|97068
+5287|33|M|farmer|85203
+5288|60|M|retired|94114
+5289|48|M|artist|94102
+5290|24|F|college/grad student|60613
+5291|48|M|academic/educator|44406
+5292|33|M|other|97401
+5293|33|M|programmer|95030
+5294|33|M|artist|60626
+5295|40|M|executive/managerial|55124
+5296|18|F|other|27245
+5297|33|M|programmer|19067
+5298|40|M|technician/engineer|55126
+5299|33|M|artist|43202
+5300|33|M|writer|94111
+5301|33|M|technician/engineer|00693
+5302|18|F|K-12 student|02332
+5303|60|F|doctor/health care|45504
+5304|40|F|homemaker|55410
+5305|24|F|college/grad student|95602
+5306|33|F|technician/engineer|92121
+5307|33|M|customer service|85281
+5308|60|M|executive/managerial|27410
+5309|33|M|other|02478
+5310|60|F|academic/educator|60605
+5311|53|M|other|62025-8000
+5312|33|M|academic/educator|10463
+5313|60|M|other|55406
+5314|33|F|other|94107
+5315|33|M|programmer|22903
+5316|24|M|college/grad student|55104
+5317|33|F|other|02138
+5318|24|M|technician/engineer|98122
+5319|24|M|technician/engineer|94941
+5320|24|F|customer service|43201
+5321|33|M|college/grad student|02457
+5322|40|M|technician/engineer|97330
+5323|33|M|writer|94122
+5324|33|M|executive/managerial|02150
+5325|53|F|executive/managerial|86001
+5326|33|M|artist|55408
+5327|33|M|executive/managerial|55408
+5328|33|F|college/grad student|91740
+5329|33|F|customer service|91773
+5330|33|F|other|19143
+5331|40|M|sales/marketing|06880
+5332|24|M|college/grad student|30332
+5333|33|F|executive/managerial|02332
+5334|60|F|retired|46140
+5335|33|M|sales/marketing|75093
+5336|60|M|executive/managerial|75041
+5337|40|F|clerical/admin|02725-1010
+5338|33|M|technician/engineer|27609
+5339|24|M|technician/engineer|60193
+5340|53|F|clerical/admin|95032
+5341|33|F|clerical/admin|85018
+5342|40|F|executive/managerial|22039
+5343|33|F|homemaker|60201
+5344|53|F|academic/educator|98177
+5345|33|F|technician/engineer|80003
+5346|33|F|clerical/admin|97330
+5347|33|M|doctor/health care|53705
+5348|24|M|customer service|55414
+5349|53|F|artist|97424
+5350|24|M|customer service|55344
+5351|48|F|academic/educator|85259
+5352|40|F|customer service|55306
+5353|33|M|doctor/health care|77030
+5354|48|F|clerical/admin|78759
+5355|60|M|other|78232
+5356|48|M|other|78703
+5357|24|F|writer|60123
+5358|40|M|executive/managerial|10625
+5359|24|M|self-employed|27705
+5360|24|M|programmer|43650
+5361|53|F|self-employed|92026
+5362|40|M|retired|63130
+5363|60|M|retired|30673
+5364|33|F|clerical/admin|55408
+5365|24|M|programmer|90250
+5366|24|M|programmer|90045
+5367|24|M|college/grad student|55344
+5368|33|F|technician/engineer|20120
+5369|33|M|scientist|02139
+5370|33|M|programmer|98074
+5371|33|M|lawyer|55408
+5372|33|M|college/grad student|10549
+5373|24|M|programmer|55112
+5374|40|M|executive/managerial|38018
+5375|33|M|other|02131
+5376|33|M|technician/engineer|94538
+5377|24|F|clerical/admin|10017
+5378|40|M|tradesman/craftsman|10463
+5379|33|M|executive/managerial|84095
+5380|24|M|college/grad student|01125
+5381|33|M|sales/marketing|10009
+5382|24|M|college/grad student|07461
+5383|40|M|academic/educator|55430
+5384|33|F|clerical/admin|94117
+5385|33|M|programmer|85226
+5386|33|M|sales/marketing|60045
+5387|33|F|academic/educator|45056
+5388|24|F|college/grad student|10580
+5389|48|M|executive/managerial|01905
+5390|18|M|other|78130
+5391|33|M|executive/managerial|10016
+5392|53|M|academic/educator|98112
+5393|40|M|executive/managerial|10471
+5394|24|M|other|60618
+5395|53|M|academic/educator|13224
+5396|33|M|doctor/health care|89118
+5397|24|M|other|60451
+5398|60|M|technician/engineer|71301
+5399|33|M|academic/educator|12553
+5400|24|F|college/grad student|30010
+5401|24|F|academic/educator|20003
+5402|33|F|other|30102
+5403|18|M|K-12 student|59801
+5404|33|M|other|30068
+5405|53|F|executive/managerial|12866
+5406|40|F|other|49504
+5407|40|F|technician/engineer|30096
+5408|33|M|writer|11230-1710
+5409|48|M|academic/educator|60091
+5410|48|F|artist|21212
+5411|18|F|unemployed|14850
+5412|33|M|programmer|97330
+5413|40|M|academic/educator|59801
+5414|18|M|K-12 student|07652
+5415|33|F|executive/managerial|03862
+5416|33|F|customer service|01801
+5417|24|M|technician/engineer|19030
+5418|33|F|other|53589
+5419|24|F|programmer|05055
+5420|18|F|unemployed|14850
+5421|40|M|technician/engineer|22030
+5422|53|M|executive/managerial|94114
+5423|53|F|customer service|60714
+5424|40|F|artist|80012
+5425|24|M|college/grad student|53211
+5426|33|M|sales/marketing|95821
+5427|40|M|unemployed|11201
+5428|33|F|doctor/health care|28412
+5429|33|F|academic/educator|02460
+5430|48|F|academic/educator|26505
+5431|60|M|academic/educator|19026
+5432|60|M|retired|01742
+5433|40|F|technician/engineer|45014
+5434|33|F|executive/managerial|60618
+5435|48|M|tradesman/craftsman|02557
+5436|24|M|college/grad student|90024
+5437|33|M|lawyer|55426
+5438|33|M|sales/marketing|60048
+5439|60|M|retired|19119
+5440|48|F|artist|37923
+5441|53|M|executive/managerial|95762
+5442|33|M|executive/managerial|63110
+5443|33|M|programmer|01915
+5444|24|F|college/grad student|55449
+5445|33|M|other|43223
+5446|53|F|academic/educator|65203
+5447|48|M|artist|60626
+5448|48|M|unemployed|60626
+5449|24|M|programmer|01702
+5450|24|M|programmer|02143
+5451|33|F|academic/educator|98115
+5452|40|M|doctor/health care|10011
+5453|24|M|college/grad student|30305
+5454|40|M|executive/managerial|10001
+5455|24|F|technician/engineer|55449
+5456|40|M|academic/educator|32312
+5457|24|M|programmer|55405
+5458|24|F|artist|98102
+5459|18|F|K-12 student|99016
+5460|24|M|college/grad student|02143
+5461|53|M|other|94025
+5462|33|M|technician/engineer|89103
+5463|40|M|other|53202
+5464|40|M|executive/managerial|77079
+5465|33|F|other|10019
+5466|33|M|programmer|98033
+5467|40|M|other|63366
+5468|33|M|programmer|94618
+5469|40|M|programmer|20171
+5470|60|M|executive/managerial|20003-2712
+5471|24|M|executive/managerial|10016
+5472|40|M|academic/educator|27909
+5473|33|M|academic/educator|20120-6354
+5474|33|M|programmer|20009
+5475|33|M|college/grad student|94110
+5476|40|F|other|20037
+5477|40|M|academic/educator|55343
+5478|40|M|executive/managerial|02766
+5479|40|M|academic/educator|50014
+5480|33|F|sales/marketing|07030
+5481|48|M|programmer|55449
+5482|24|M|executive/managerial|10014
+5483|33|F|doctor/health care|15202
+5484|48|M|technician/engineer|21742
+5485|33|M|college/grad student|08544
+5486|33|M|other|17821
+5487|33|M|technician/engineer|95136
+5488|33|M|scientist|91125
+5489|24|M|executive/managerial|94104
+5490|48|M|technician/engineer|80907
+5491|24|M|executive/managerial|10016
+5492|24|M|college/grad student|55104
+5493|40|M|programmer|96797
+5494|40|F|technician/engineer|94306
+5495|24|F|college/grad student|95076
+5496|33|M|executive/managerial|90069
+5497|33|M|college/grad student|60201
+5498|53|F|academic/educator|62901
+5499|33|F|unemployed|60201
+5500|40|F|writer|14850
+5501|33|M|artist|33334
+5502|33|M|artist|66044
+5503|33|F|homemaker|55409
+5504|48|M|executive/managerial|85287-2702
+5505|33|F|college/grad student|02141
+5506|24|F|sales/marketing|60610
+5507|48|M|executive/managerial|44325
+5508|33|M|writer|94519
+5509|33|M|other|11215
+5510|24|M|college/grad student|191004
+5511|48|M|academic/educator|92407
+5512|33|F|technician/engineer|01701
+5513|40|M|academic/educator|91768
+5514|18|F|K-12 student|76501
+5515|24|M|college/grad student|16101
+5516|53|F|self-employed|98257
+5517|60|M|other|80210
+5518|53|M|technician/engineer|78666
+5519|40|M|scientist|33167
+5520|48|M|academic/educator|18901
+5521|33|F|doctor/health care|02118
+5522|33|M|sales/marketing|02460
+5523|40|M|other|60187
+5524|18|F|K-12 student|26505
+5525|18|F|K-12 student|55311
+5526|40|F|artist|27514
+5527|33|M|academic/educator|70803
+5528|53|M|academic/educator|45840
+5529|24|M|doctor/health care|05273
+5530|24|F|college/grad student|63141
+5531|53|M|technician/engineer|09056
+5532|33|M|technician/engineer|27408
+5533|53|F|artist|10025
+5534|48|M|self-employed|30102
+5535|33|M|scientist|94538
+5536|33|M|self-employed|67204
+5537|60|F|academic/educator|10543
+5538|48|M|programmer|55102
+5539|33|F|writer|91403
+5540|40|M|academic/educator|19149
+5541|60|M|executive/managerial|93924
+5542|48|M|executive/managerial|11576
+5543|33|M|technician/engineer|97401
+5544|33|M|scientist|08876
+5545|40|F|self-employed|98072
+5546|24|M|sales/marketing|26301
+5547|24|F|college/grad student|10025
+5548|24|F|college/grad student|02138
+5549|53|F|homemaker|76034
+5550|40|M|scientist|48187
+5551|40|F|writer|98103
+5552|53|M|executive/managerial|23233
+5553|40|M|clerical/admin|29425
+5554|33|M|academic/educator|92116
+5555|18|M|K-12 student|37830
+5556|48|M|doctor/health care|92103
+5557|40|M|sales/marketing|33701
+5558|18|M|K-12 student|02446
+5559|53|M|academic/educator|77706
+5560|40|F|technician/engineer|98036
+5561|33|F|clerical/admin|74075
+5562|40|F|academic/educator|54650
+5563|33|F|executive/managerial|11753
+5564|48|M|writer|02446
+5565|24|M|technician/engineer|02114
+5566|40|M|executive/managerial|20901
+5567|53|M|clerical/admin|78704
+5568|24|M|college/grad student|49841
+5569|24|F|academic/educator|07666
+5570|33|M|academic/educator|07666
+5571|33|F|homemaker|07307
+5572|33|F|college/grad student|63119
+5573|40|F|academic/educator|14619
+5574|33|M|other|20878
+5575|40|M|executive/managerial|19808
+5576|33|M|college/grad student|55369
+5577|53|M|academic/educator|12970
+5578|24|F|academic/educator|02109
+5579|40|F|executive/managerial|07039
+5580|48|M|executive/managerial|01581
+5581|33|M|other|10016
+5582|48|M|academic/educator|50011
+5583|60|M|scientist|37830
+5584|53|F|other|10016
+5585|33|M|college/grad student|10016
+5586|40|M|writer|94107
+5587|33|M|technician/engineer|22041
+5588|33|F|writer|60640
+5589|33|F|other|04101
+5590|48|F|programmer|94117
+5591|24|M|other|10009
+5592|33|M|academic/educator|53706
+5593|53|M|self-employed|90210
+5594|48|F|other|55419
+5595|33|M|writer|90027
+5596|40|M|programmer|22201
+5597|24|F|college/grad student|95008
+5598|24|M|college/grad student|27607
+5599|40|M|executive/managerial|90020
+5600|48|F|other|12833-2000
+5601|40|M|academic/educator|98225
+5602|40|M|other|97212
+5603|53|M|executive/managerial|02461
+5604|40|M|scientist|63117
+5605|24|F|artist|95008
+5606|33|F|sales/marketing|21046
+5607|24|M|college/grad student|11209
+5608|24|M|clerical/admin|78722
+5609|53|F|academic/educator|30602
+5610|33|F|academic/educator|54880
+5611|40|F|executive/managerial|04015
+5612|33|F|academic/educator|02148
+5613|40|F|other|98622
+5614|33|M|other|12833
+5615|40|M|executive/managerial|07028
+5616|48|M|academic/educator|08840
+5617|33|M|sales/marketing|48336
+5618|24|F|college/grad student|92612
+5619|24|F|college/grad student|22310
+5620|40|M|sales/marketing|55330
+5621|33|M|executive/managerial|02135
+5622|40|M|scientist|01775
+5623|33|M|lawyer|84109
+5624|33|M|executive/managerial|19380
+5625|33|M|academic/educator|01760
+5626|60|M|self-employed|32043
+5627|33|M|other|07040
+5628|24|M|college/grad student|90024
+5629|33|M|sales/marketing|02465
+5630|40|M|technician/engineer|06854
+5631|40|M|programmer|01944
+5632|24|F|college/grad student|78628
+5633|53|M|academic/educator|98262
+5634|33|M|sales/marketing|55406
+5635|40|F|homemaker|06854
+5636|33|M|executive/managerial|98102
+5637|18|M|K-12 student|11102
+5638|24|M|academic/educator|32601
+5639|24|F|college/grad student|62025
+5640|40|M|technician/engineer|78765
+5641|33|F|technician/engineer|48473
+5642|18|M|K-12 student|73013
+5643|40|F|academic/educator|84108
+5644|24|F|college/grad student|92833
+5645|33|M|artist|87123
+5646|24|M|college/grad student|96744
+5647|24|M|academic/educator|62522
+5648|33|M|technician/engineer|48473
+5649|24|F|college/grad student|90025
+5650|40|F|programmer|91104
+5651|33|F|doctor/health care|74105
+5652|24|M|other|47901
+5653|53|M|academic/educator|74105
+5654|33|M|college/grad student|95616
+5655|33|F|doctor/health care|77054
+5656|33|M|scientist|03755
+5657|53|M|sales/marketing|92026
+5658|60|M|other|32043
+5659|33|M|other|20874
+5660|33|M|artist|78722
+5661|33|F|scientist|03255
+5662|18|M|K-12 student|07960
+5663|40|F|writer|75093
+5664|24|M|college/grad student|48363
+5665|24|M|college/grad student|10461-1301
+5666|24|M|self-employed|11209
+5667|40|M|executive/managerial|10009
+5668|33|F|clerical/admin|41030
+5669|60|M|academic/educator|90024
+5670|24|M|college/grad student|48109
+5671|33|M|academic/educator|02146
+5672|33|F|college/grad student|43212
+5673|40|F|academic/educator|55417
+5674|40|M|executive/managerial|94306
+5675|40|M|sales/marketing|30030
+5676|33|M|writer|78746
+5677|33|M|academic/educator|13210
+5678|40|M|technician/engineer|98103
+5679|40|M|artist|33020
+5680|53|M|writer|94117
+5681|33|F|executive/managerial|92122
+5682|24|M|other|23455-4959
+5683|24|F|homemaker|94538
+5684|24|M|self-employed|94110
+5685|33|M|technician/engineer|94117
+5686|60|M|self-employed|60610
+5687|18|F|other|55403
+5688|24|F|college/grad student|78666
+5689|33|M|other|84119
+5690|24|M|college/grad student|78666
+5691|40|M|sales/marketing|66013
+5692|33|F|executive/managerial|29615
+5693|33|F|college/grad student|90034
+5694|33|F|programmer|90640
+5695|40|F|clerical/admin|21221
+5696|33|F|sales/marketing|97367
+5697|33|M|other|95826
+5698|40|M|sales/marketing|55418
+5699|40|M|scientist|94706
+5700|24|F|sales/marketing|55426
+5701|33|M|executive/managerial|55311
+5702|24|M|other|90034
+5703|60|M|academic/educator|14068
+5704|24|F|college/grad student|90024
+5705|24|F|college/grad student|90024
+5706|24|M|technician/engineer|08550
+5707|33|M|programmer|01060
+5708|40|M|academic/educator|90034
+5709|24|M|college/grad student|90024
+5710|33|M|scientist|90034
+5711|33|M|executive/managerial|47714
+5712|40|M|academic/educator|90024
+5713|53|F|executive/managerial|91362
+5714|40|M|artist|96753
+5715|24|M|college/grad student|90024
+5716|18|M|K-12 student|03756
+5717|33|M|other|03766
+5718|40|F|sales/marketing|38018
+5719|60|M|executive/managerial|21773
+5720|33|M|other|60610
+5721|48|M|lawyer|90046
+5722|33|M|writer|48103
+5723|24|M|programmer|55057
+5724|33|M|scientist|94102
+5725|24|M|artist|10018
+5726|33|M|academic/educator|77845
+5727|33|M|college/grad student|92843
+5728|40|F|writer|09824
+5729|24|M|K-12 student|99016
+5730|24|M|other|94111
+5731|33|F|lawyer|10022
+5732|33|F|lawyer|02111
+5733|33|M|college/grad student|48109
+5734|33|F|sales/marketing|10022
+5735|33|M|doctor/health care|19342
+5736|33|M|academic/educator|08904
+5737|48|M|scientist|93555
+5738|33|M|programmer|55406
+5739|33|M|executive/managerial|90212
+5740|33|M|academic/educator|60613
+5741|53|M|retired|60622
+5742|33|F|programmer|20850
+5743|40|F|other|55442
+5744|33|F|college/grad student|66044
+5745|24|F|college/grad student|90024
+5746|24|M|scientist|94061
+5747|33|M|other|03755
+5748|33|M|other|92155
+5749|33|M|artist|94117
+5750|24|M|academic/educator|04101
+5751|18|F|other|14167
+5752|60|F|other|14850
+5753|24|M|technician/engineer|78758
+5754|24|F|academic/educator|60640
+5755|40|F|artist|78744
+5756|18|F|K-12 student|98110
+5757|18|M|K-12 student|05667
+5758|53|F|academic/educator|29642
+5759|33|F|academic/educator|08904
+5760|24|M|programmer|10549
+5761|33|M|writer|90048
+5762|40|F|doctor/health care|55125
+5763|33|F|academic/educator|08904
+5764|53|F|programmer|77098
+5765|33|M|lawyer|44515
+5766|60|M|sales/marketing|96744
+5767|33|M|artist|75287
+5768|18|F|executive/managerial|20852
+5769|48|M|sales/marketing|05602
+5770|33|M|other|80231
+5771|33|M|executive/managerial|95616
+5772|40|M|executive/managerial|16365
+5773|33|M|doctor/health care|89123
+5774|24|M|college/grad student|94118
+5775|33|M|lawyer|10024
+5776|24|M|programmer|97205
+5777|18|M|other|05667
+5778|40|M|programmer|85257
+5779|33|M|customer service|10011
+5780|24|M|technician/engineer|92886
+5781|33|M|artist|11106
+5782|40|F|other|55459
+5783|48|F|academic/educator|92106
+5784|24|M|K-12 student|56137
+5785|33|F|executive/managerial|60607
+5786|33|M|doctor/health care|53211
+5787|33|M|writer|90802
+5788|33|M|other|92646
+5789|33|M|technician/engineer|91107
+5790|40|F|other|55303
+5791|24|M|college/grad student|44074
+5792|33|M|technician/engineer|43201
+5793|33|M|artist|91602
+5794|40|M|technician/engineer|53703
+5795|33|M|academic/educator|92688
+5796|33|F|executive/managerial|10003
+5797|33|M|executive/managerial|78757
+5798|40|M|other|80027
+5799|33|M|customer service|80916
+5800|40|M|tradesman/craftsman|90804
+5801|33|M|self-employed|04103
+5802|33|F|other|98105
+5803|18|M|K-12 student|01597
+5804|40|F|executive/managerial|94306
+5805|33|F|other|90802
+5806|53|F|academic/educator|08826
+5807|40|M|executive/managerial|01940
+5808|33|F|executive/managerial|37206
+5809|33|M|executive/managerial|37206
+5810|53|M|self-employed|95070
+5811|24|M|college/grad student|60202
+5812|33|F|executive/managerial|92120
+5813|33|M|executive/managerial|94117
+5814|33|M|other|91403
+5815|33|M|writer|90048
+5816|33|M|other|70119
+5817|33|M|technician/engineer|33028
+5818|33|M|college/grad student|92821
+5819|53|M|doctor/health care|70808
+5820|48|M|other|43615
+5821|33|M|scientist|02139
+5822|40|F|college/grad student|78212
+5823|33|M|programmer|02144
+5824|24|M|programmer|18052
+5825|33|F|college/grad student|43201
+5826|24|M|college/grad student|60201
+5827|33|M|artist|55118
+5828|33|M|technician/engineer|90048
+5829|33|F|college/grad student|78223
+5830|24|F|college/grad student|78209
+5831|33|M|academic/educator|92120
+5832|33|F|other|78240
+5833|40|F|other|78253
+5834|60|M|self-employed|92106
+5835|40|F|other|55406
+5836|33|M|other|91604
+5837|33|M|executive/managerial|60607
+5838|48|F|executive/managerial|02038
+5839|33|M|academic/educator|27106
+5840|18|F|other|44260
+5841|40|F|executive/managerial|10024
+5842|33|M|college/grad student|43201
+5843|40|M|academic/educator|83301
+5844|18|F|K-12 student|02131
+5845|33|F|clerical/admin|79411
+5846|48|M|self-employed|78204
+5847|24|F|college/grad student|02464
+5848|53|M|writer|20009
+5849|40|M|technician/engineer|97124
+5850|33|F|executive/managerial|78230
+5851|24|F|writer|55410
+5852|33|F|academic/educator|94044
+5853|53|M|unemployed|13903
+5854|48|M|executive/managerial|33135
+5855|53|M|executive/managerial|19462
+5856|33|F|executive/managerial|78232
+5857|48|F|artist|43229
+5858|33|M|college/grad student|01002
+5859|33|M|executive/managerial|89117
+5860|33|F|college/grad student|91428
+5861|53|F|academic/educator|98499
+5862|33|F|homemaker|76120
+5863|33|F|sales/marketing|89511
+5864|53|F|academic/educator|28043
+5865|33|M|technician/engineer|95926
+5866|33|F|doctor/health care|06114
+5867|48|F|clerical/admin|91306
+5868|40|M|sales/marketing|85331
+5869|33|F|executive/managerial|19103
+5870|33|M|sales/marketing|98109
+5871|33|F|college/grad student|01002
+5872|33|M|technician/engineer|61265
+5873|24|M|programmer|10021
+5874|33|M|college/grad student|01002
+5875|33|M|college/grad student|19103
+5876|53|M|executive/managerial|30066
+5877|24|M|programmer|02138
+5878|33|F|other|60640
+5879|40|M|executive/managerial|02135
+5880|33|M|academic/educator|08904
+5881|40|M|technician/engineer|30303
+5882|40|M|executive/managerial|60510
+5883|24|F|other|02138
+5884|24|M|college/grad student|20057
+5885|33|M|academic/educator|96930
+5886|33|M|writer|02139
+5887|40|F|writer|61821
+5888|33|M|writer|64114
+5889|53|M|writer|06033
+5890|40|M|writer|77008
+5891|24|M|college/grad student|55404
+5892|48|M|artist|10920
+5893|33|M|executive/managerial|02139
+5894|40|M|other|70748
+5895|33|M|academic/educator|43026
+5896|33|M|other|60657
+5897|33|M|writer|02152
+5898|24|F|other|02143
+5899|40|M|technician/engineer|30024
+5900|33|M|executive/managerial|60628
+5901|40|F|executive/managerial|92075
+5902|53|M|self-employed|77079
+5903|33|M|lawyer|06851
+5904|48|F|programmer|954025
+5905|40|F|writer|78006
+5906|24|F|college/grad student|19803
+5907|33|M|artist|11217
+5908|33|M|college/grad student|19711
+5909|24|M|writer|91330
+5910|48|F|writer|10033
+5911|33|F|technician/engineer|80301
+5912|33|M|academic/educator|77064
+5913|24|F|other|47901
+5914|40|M|artist|91344
+5915|24|M|college/grad student|58102
+5916|53|M|writer|48230
+5917|53|F|academic/educator|94550
+5918|33|M|programmer|55105
+5919|24|M|other|47933
+5920|33|F|academic/educator|05401
+5921|33|M|doctor/health care|15146
+5922|60|M|clerical/admin|94561
+5923|33|M|executive/managerial|05401
+5924|40|M|other|55417
+5925|33|F|other|90035-4444
+5926|53|F|executive/managerial|65712
+5927|40|M|sales/marketing|10003
+5928|48|M|academic/educator|14760
+5929|40|F|other|33607
+5930|40|F|technician/engineer|78681
+5931|24|F|executive/managerial|94111
+5932|24|M|sales/marketing|90038
+5933|33|M|artist|98227
+5934|33|M|sales/marketing|77075
+5935|24|M|other|35115
+5936|24|M|college/grad student|37130
+5937|33|M|programmer|60622
+5938|33|M|academic/educator|35401
+5939|48|F|scientist|77040
+5940|53|M|programmer|03062
+5941|33|F|other|60640
+5942|48|M|academic/educator|01867
+5943|48|F|academic/educator|19806
+5944|24|F|K-12 student|27606
+5945|40|F|artist|35229
+5946|60|F|academic/educator|55406
+5947|48|F|self-employed|97215
+5948|60|M|retired|12124
+5949|24|M|technician/engineer|47901
+5950|33|M|college/grad student|19713
+5951|24|M|college/grad student|77005
+5952|48|F|academic/educator|78231
+5953|18|M|K-12 student|21030
+5954|48|M|lawyer|70802
+5955|33|F|executive/managerial|34952
+5956|24|F|college/grad student|02142
+5957|24|M|writer|02038
+5958|48|M|sales/marketing|94301
+5959|24|F|college/grad student|14850
+5960|48|F|other|70460
+5961|48|F|other|78757
+5962|40|M|executive/managerial|80221
+5963|33|M|scientist|02140
+5964|24|M|customer service|97202
+5965|33|M|technician/engineer|77449
+5966|40|F|homemaker|10021
+5967|53|M|self-employed|73069-5429
+5968|60|M|executive/managerial|98103
+5969|48|M|retired|77706
+5970|40|M|lawyer|55438
+5971|40|M|executive/managerial|49504
+5972|33|F|writer|55428
+5973|18|M|K-12 student|54701
+5974|33|F|academic/educator|32303
+5975|33|M|sales/marketing|55104
+5976|33|F|academic/educator|26542
+5977|40|M|academic/educator|90012
+5978|40|M|academic/educator|49307
+5979|33|M|academic/educator|43214
+5980|60|M|academic/educator|42503
+5981|40|M|executive/managerial|01776
+5982|40|M|academic/educator|56082
+5983|33|M|clerical/admin|29208
+5984|33|M|academic/educator|60657
+5985|24|F|college/grad student|78705-5221
+5986|60|F|academic/educator|01060
+5987|33|M|self-employed|10003
+5988|33|M|scientist|94022
+5989|18|F|K-12 student|74114
+5990|33|F|writer|90046
+5991|40|F|writer|94025
+5992|24|F|college/grad student|21046
+5993|53|F|writer|50010
+5994|40|M|academic/educator|32501
+5995|40|F|academic/educator|14618
+5996|33|F|other|87114
+5997|33|F|executive/managerial|10016
+5998|24|M|college/grad student|61820
+5999|33|F|academic/educator|55455
+6000|48|M|technician/engineer|30075
+6001|33|F|executive/managerial|94117
+6002|53|M|other|43231
+6003|48|F|technician/engineer|78722
+6004|33|F|scientist|28401
+6005|33|F|customer service|28401
+6006|18|F|other|01036
+6007|40|M|technician/engineer|80537
+6008|24|M|college/grad student|78705
+6009|33|F|programmer|60540
+6010|40|M|other|79606
+6011|40|M|scientist|80538
+6012|40|M|scientist|02871
+6013|33|F|writer|32301
+6014|48|M|academic/educator|80634
+6015|33|F|homemaker|80013
+6016|48|M|academic/educator|37209
+6017|40|F|executive/managerial|21117
+6018|40|M|academic/educator|48906
+6019|33|M|other|10024
+6020|53|M|self-employed|10023
+6021|33|M|programmer|08876
+6022|33|M|technician/engineer|57006
+6023|33|M|other|43213
+6024|33|M|programmer|53705
+6025|33|F|academic/educator|32607
+6026|40|M|doctor/health care|11210
+6027|24|M|college/grad student|20742
+6028|24|M|college/grad student|94133
+6029|33|F|academic/educator|23185
+6030|33|M|technician/engineer|32618
+6031|24|F|other|45123
+6032|48|M|executive/managerial|55108
+6033|53|M|retired|78232
+6034|33|M|sales/marketing|94117
+6035|33|F|academic/educator|78734
+6036|33|F|scientist|32603
+6037|48|F|academic/educator|76006
+6038|60|F|academic/educator|14706
+6039|48|F|other|01060
+6040|33|M|doctor/health care|11106
